@@ -1,12 +1,70 @@
 <ModOps>
-    
 <!-- Add to AssetList -->
 <Group>
     <ModOp Type="add" GUID="113059" Path="/Values/AssetPool/AssetList">
     <Item>
-        <ItemLink>1600000000</ItemLink>
+        <ItemLink>1600000327</ItemLink>
+    </Item>   
+    <Item>
+        <ItemLink>1600000329</ItemLink>
     </Item>
-
+    <Item>
+        <ItemLink>1600000333</ItemLink>
+    </Item>
+    <Item>
+        <ItemLink>1600000337</ItemLink>
+    </Item>
+    <Item>
+        <ItemLink>1600000341</ItemLink>
+    </Item>
+    <Item>
+        <ItemLink>1600000345</ItemLink>
+    </Item>
+    <Item>
+        <ItemLink>1600000349</ItemLink>
+    </Item>
+    <Item>
+        <ItemLink>1600000353</ItemLink>
+    </Item>
+    <Item>
+        <ItemLink>1600000357</ItemLink>
+    </Item>   
+    <Item>
+        <ItemLink>1600000361</ItemLink>
+    </Item>
+    <Item>
+        <ItemLink>1600000365</ItemLink>
+    </Item>
+    <Item>
+        <ItemLink>1600000369</ItemLink>
+    </Item>
+    <Item>
+        <ItemLink>1600000373</ItemLink>
+    </Item>
+    <Item>
+        <ItemLink>1600000377</ItemLink>
+    </Item>
+    <Item>
+        <ItemLink>1600000381</ItemLink>
+    </Item>
+    <Item>
+        <ItemLink>1600000385</ItemLink>
+    </Item>
+    <Item>
+        <ItemLink>1600000388</ItemLink>
+    </Item> 
+    <Item>
+        <ItemLink>1600000392</ItemLink>
+    </Item>     
+    <Item>
+        <ItemLink>1600000396</ItemLink>
+    </Item> 
+    <Item>
+        <ItemLink>1600000400</ItemLink>
+    </Item>
+    <Item>
+        <ItemLink>1600000405</ItemLink>
+    </Item>
     </ModOp>
 </Group>
 
