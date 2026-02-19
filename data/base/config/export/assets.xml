@@ -1,0 +1,28 @@
+
+<!-- 
+### Notes: 
+#   Starting GUID:  1600000327
+#   Ending GUID:    TODO: Add Last GUID
+###
+-->
+<ModOps>
+
+<!-- Testing -->
+<Group>
+<!--
+<Include File="testing/pools-forceSpawnTesting.xml"/> 
+-->
+</Group>
+
+<Include File="items-common/Test-C.xml" />
+
+<Include File="pools/AssetList/AssetListPool.xml" />
+<Include File="pools/RewardPool/RewardPool-AllItems&Specialists.xml" />
+
+<Include File="pools/Traders/pools-common.xml" />
+<Include File="pools/Traders/pools-rare.xml" />
+<Include File="pools/Traders/pools-epic.xml" />
+<Include File="pools/Traders/pools-legendary.xml" />
+
+
+</ModOps>
