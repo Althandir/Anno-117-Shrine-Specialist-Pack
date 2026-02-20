@@ -1,0 +1,252 @@
+<ModOps>
+<!-- Item Definition GUID:1600000412 - 1600000417 | LineID:1600000412 - 1600000413  -->
+  <Group>
+    <ModOp Type="addNextSibling" GUID="106410">
+      <Asset>
+        <Template>Item</Template>
+        <Values>
+          <Standard>
+            <GUID>1600000412</GUID>
+            <Name>Specialist AreaEffect-Chained-EponaGoods&StablesBuffFromShrine-R</Name>
+            <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+            <InfoDescription>1600000413</InfoDescription>
+          </Standard>
+          <Effect>
+            <EffectScope>Radius</EffectScope>  
+            <SourceCategory>Item</SourceCategory>
+            <Buffs>
+              <Item>
+                <GUID>1600000413</GUID>
+              </Item>
+            </Buffs>
+            <Targets> <!-- Targets of Buff -->
+              <Item>
+                <GUID>82497</GUID>
+              </Item>
+            </Targets>
+            <HideInGovernorsBar>1</HideInGovernorsBar>
+          </Effect>
+          <Item>
+            <Niche>Religion</Niche>  
+            <TradePrice>5000</TradePrice> 
+            <BarkPool>83311</BarkPool> <!-- <GUID>83311</GUID> -->
+            <Rarity>Rare</Rarity> 
+          </Item>
+          <Locked>
+            <DefaultLockedState>0</DefaultLockedState>
+          </Locked>
+          <Text>
+            <OasisId>1600000412</OasisId>
+          </Text>
+        </Values>
+      </Asset>
+    </ModOp>
+  </Group>
+
+  <!-- Buff Definitions-->
+  <Group>
+    <!-- Buff Definition -->
+    <ModOp Type="addNextSibling" GUID="80193">
+        <Asset>
+            <Template>BuildingBuff</Template>
+            <Values>
+                <Standard>
+                    <GUID>1600000413</GUID>
+                    <Name>Specialist AreaEffect-Chained-EponaGoods&StablesBuffFromShrine-R BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                </Standard>
+                <Text>
+                    <OasisId>1600000412</OasisId>
+                </Text>
+                <HealthUpgrade/>
+                <BuildingUpgrade>
+                    <AdditionalFunctionalEffect>1600000414</AdditionalFunctionalEffect>
+                    <AdditionalAttributes>
+                        <Happiness>
+                          <AmountOrPercent>
+                              <Value>1</Value>
+                              <Percental>0</Percental>
+                          </AmountOrPercent>
+                        </Happiness>
+                        <Prestige>
+                          <AmountOrPercent>
+                              <Value>0.5</Value>
+                              <Percental>0</Percental>
+                          </AmountOrPercent>
+                        </Prestige>
+                    </AdditionalAttributes>
+                </BuildingUpgrade>
+                <DistributionUpgrade/>
+                <Buff>
+                    <SourceCategory>Item</SourceCategory>
+                </Buff>
+                <ResidenceUpgrade>
+                </ResidenceUpgrade>
+                <FactoryUpgrade/>
+                <ModuleOwnerUpgrade/>
+                <MaintenanceUpgrade/>
+                <CityInstitutionUpgrade/>
+                <IncidentInfectableUpgrade/>
+                <RecruitmentUpgrade>
+                    <RecruitmentSpeedInPercent>25</RecruitmentSpeedInPercent>
+                </RecruitmentUpgrade>
+                <AqueductUpgrade/>
+                <WarehouseUpgrade/>
+                <IrrigationUpgrade/>
+            </Values>
+        </Asset>
+    </ModOp>
+    
+    <ModOp Type="addNextSibling" GUID="135498">
+        <Asset>
+            <Template>Effect</Template>
+            <Values>
+                <Standard>
+                    <GUID>1600000414</GUID>
+                    <Name>Specialist AreaEffect-Chained-EponaGoods&StablesBuffFromShrine-R FunctionalEffect</Name>
+                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                </Standard>
+                <Effect>
+                    <EffectScope>Radius</EffectScope>
+                    <SourceCategory>Adjacency</SourceCategory>
+                    <Buffs>
+                        <Item>
+                            <GUID>1600000415</GUID>
+                        </Item>
+                    </Buffs>
+                    <Targets>
+                        <Item>
+                            <GUID>80862</GUID>
+                        </Item>
+                        <Item>
+                            <GUID>82157</GUID>
+                        </Item>
+                    </Targets>
+                    <ExcludeEffectSourceGUID>0</ExcludeEffectSourceGUID>
+                    <HideInGovernorsBar>1</HideInGovernorsBar>
+                </Effect>
+                <Text>
+                    <OasisId>1600000412</OasisId>
+                </Text>
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp Type="addNextSibling" GUID="80193">
+        <Asset>
+            <Template>BuildingBuff</Template>
+            <Values>
+                <Standard>
+                    <GUID>1600000415</GUID>
+                    <Name>Specialist AreaEffect-Chained-EponaGoods&StablesBuffFromShrine-R FunctionalEffect BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                </Standard>
+                <Text>
+                    <OasisId>1600000412</OasisId>
+                </Text>
+                <HealthUpgrade/>
+                <BuildingUpgrade>
+                    <AdditionalFunctionalEffect>1600000416</AdditionalFunctionalEffect>
+                </BuildingUpgrade>
+                <DistributionUpgrade/>
+                <Buff>
+                    <SourceCategory>Adjacency</SourceCategory>
+                </Buff>
+                <ResidenceUpgrade/>
+                <FactoryUpgrade/>
+                <ModuleOwnerUpgrade/>
+                <MaintenanceUpgrade/>
+                <CityInstitutionUpgrade/>
+                <IncidentInfectableUpgrade/>
+                <RecruitmentUpgrade>
+                    <RecruitmentSpeedInPercent>25</RecruitmentSpeedInPercent>
+                </RecruitmentUpgrade>
+                <AqueductUpgrade/>
+                <WarehouseUpgrade/>
+                <IrrigationUpgrade/>
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp Type="addNextSibling" GUID="135498">
+        <Asset>
+            <Template>Effect</Template>
+            <Values>
+                <Standard>
+                    <GUID>1600000416</GUID>
+                    <Name>Specialist AreaEffect-Chained-EponaGoods&StablesBuffFromShrine-R FunctionalEffect</Name>
+                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                </Standard>
+                <Effect>
+                    <EffectScope>Radius</EffectScope>
+                    <SourceCategory>Adjacency</SourceCategory>
+                    <Buffs>
+                        <Item>
+                            <GUID>1600000417</GUID>
+                        </Item>
+                    </Buffs>
+                    <Targets>
+                        <Item>
+                            <GUID>43097</GUID>
+                        </Item>
+                    </Targets>
+                    <ExcludeEffectSourceGUID>0</ExcludeEffectSourceGUID>
+                    <HideInGovernorsBar>1</HideInGovernorsBar>
+                </Effect>
+                <Text>
+                    <OasisId>1600000412</OasisId>
+                </Text>
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp Type="addNextSibling" GUID="80193">
+        <Asset>
+            <Template>BuildingBuff</Template>
+            <Values>
+                <Standard>
+                    <GUID>1600000417</GUID>
+                    <Name>Specialist AreaEffect-Chained-EponaGoods&StablesBuffFromShrine-R FunctionalEffect BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                </Standard>
+                <Text>
+                    <OasisId>1600000412</OasisId>
+                </Text>
+                <HealthUpgrade/>
+                <BuildingUpgrade>
+                    <AdditionalAttributes>
+                        <Happiness>
+                          <AmountOrPercent>
+                              <Value>1</Value>
+                              <Percental>0</Percental>
+                          </AmountOrPercent>
+                        </Happiness>
+                        <Prestige>
+                          <AmountOrPercent>
+                              <Value>0.5</Value>
+                              <Percental>0</Percental>
+                          </AmountOrPercent>
+                        </Prestige>
+                    </AdditionalAttributes>
+                </BuildingUpgrade>
+                <DistributionUpgrade/>
+                <Buff>
+                    <SourceCategory>Adjacency</SourceCategory>
+                </Buff>
+                <ResidenceUpgrade/>
+                <FactoryUpgrade/>
+                <ModuleOwnerUpgrade/>
+                <MaintenanceUpgrade/>
+                <CityInstitutionUpgrade/>
+                <IncidentInfectableUpgrade/>
+                <RecruitmentUpgrade/>
+                <AqueductUpgrade/>
+                <WarehouseUpgrade/>
+                <IrrigationUpgrade/>
+            </Values>
+        </Asset>
+    </ModOp>
+
+  </Group>
+
+</ModOps>

@@ -62,12 +62,18 @@
                 <BuildingUpgrade>
                     <AdditionalFunctionalEffect>1600000402</AdditionalFunctionalEffect>
                     <AdditionalAttributes>
-                      <Population>
+                        <Population>
                           <AmountOrPercent>
                               <Value>1</Value>
                               <Percental>0</Percental>
                           </AmountOrPercent>
-                      </Population>
+                        </Population>
+                        <Health>
+                            <AmountOrPercent>
+                                <Value>1</Value>
+                                <Percental>0</Percental>
+                            </AmountOrPercent>
+                        </Health>
                     </AdditionalAttributes>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>
@@ -202,12 +208,18 @@
                 <HealthUpgrade/>
                 <BuildingUpgrade>
                     <AdditionalAttributes>
-                      <Population>
+                        <Population>
                           <AmountOrPercent>
                               <Value>1</Value>
                               <Percental>0</Percental>
                           </AmountOrPercent>
-                      </Population>
+                        </Population>
+                        <Health>
+                            <AmountOrPercent>
+                                <Value>1</Value>
+                                <Percental>0</Percental>
+                            </AmountOrPercent>
+                        </Health>
                     </AdditionalAttributes>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>

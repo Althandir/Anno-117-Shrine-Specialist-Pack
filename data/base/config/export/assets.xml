@@ -32,8 +32,12 @@
 <Include File="items-rare/AreaEffect-FiresafetyAllShrines-R.xml" />
 <Include File="items-rare/AreaEffect-HappinessAllShrines-R.xml" />
 <Include File="items-rare/AreaEffect-HealthAllShrines-R.xml" />
+
 <Include File="items-rare/AreaEffect-Chained-CeresGoodsBuffFromShrine-R.xml" />
-<Include File="items-rare/AreaEffect-Chained-CernunnosFertilityBuffFromShrine-R.xml" />
+<Include File="items-rare/AreaEffect-Chained-CernunnosGoodsBuffFromShrine-R.xml" />
+<Include File="items-rare/AreaEffect-Chained-EponaGoods&StablesBuffFromShrine-R.xml" />
+<Include File="items-rare/AreaEffect-Chained-MarsGoods&BarracksBuffFromShrine-R.xml" />
+
 
 <Include File="items-epic/AreaEffect-WorkforceMaintenanceProductivityCeresGoodsFromShrine-E.xml" />
 <Include File="items-epic/AreaEffect-WorkforceMaintenanceProductivityCernunnosGoodsFromShrine-E.xml" />
