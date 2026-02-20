@@ -35,13 +35,13 @@
 
 
 
-<Include File="items-epic/AreaEffect-WorkforceMaintenanceProductivityCeresGoodsFromShrine-E.xml" />
-<Include File="items-epic/AreaEffect-WorkforceMaintenanceProductivityCernunnosGoodsFromShrine-E.xml" />
-<Include File="items-epic/AreaEffect-WorkforceMaintenanceProductivityEponaGoodsFromShrine-E.xml" />
-<Include File="items-epic/AreaEffect-WorkforceMaintenanceProductivityMarsGoodsFromShrine-E.xml" />
-<Include File="items-epic/AreaEffect-WorkforceMaintenanceProductivityMercuryGoodsFromShrine-E.xml" />
-<Include File="items-epic/AreaEffect-WorkforceMaintenanceProductivityMinervaGoodsFromShrine-E.xml" />
-<Include File="items-epic/AreaEffect-WorkforceMaintenanceProductivityNeptuneGoodsFromShrine-E.xml" />
+<Include File="items-epic/AreaEffect-WorkforceMaintenanceAdditionalGoodsCeresGoodsFromShrine-E.xml" />
+<Include File="items-epic/AreaEffect-WorkforceMaintenanceAdditionalGoodsCernunnosGoodsFromShrine-E.xml" />
+<Include File="items-epic/AreaEffect-WorkforceMaintenanceAdditionalGoodsEponaGoodsFromShrine-E.xml" />
+<Include File="items-epic/AreaEffect-WorkforceMaintenanceAdditionalGoodsMarsGoodsFromShrine-E.xml" />
+<Include File="items-epic/AreaEffect-WorkforceMaintenanceAdditionalGoodsMercuryGoodsFromShrine-E.xml" />
+<Include File="items-epic/AreaEffect-WorkforceMaintenanceAdditionalGoodsMinervaGoodsFromShrine-E.xml" />
+<Include File="items-epic/AreaEffect-WorkforceMaintenanceAdditionalGoodsNeptuneGoodsFromShrine-E.xml" />
 
 
 <Include File="items-legendary/EffectRangeAllShrines-L.xml" />
