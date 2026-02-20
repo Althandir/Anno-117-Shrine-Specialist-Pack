@@ -1,27 +1,27 @@
 <ModOps>
-<!-- Item Definition GUID:1600000406 - 1600000411 | LineID:1600000406 - 1600000407  -->
+<!-- Item Definition GUID:1600000424 - 1600000429 | LineID:1600000424 - 1600000425  -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>1600000406</GUID>
-            <Name>Specialist AreaEffect-Chained-CernunnosGoodsBuffFromShrine-R</Name>
+            <GUID>1600000424</GUID>
+            <Name>Specialist AreaEffect-Chained-MinervaGoodsBuffFromShrine-R</Name>
             <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
-            <InfoDescription>1600000407</InfoDescription>
+            <InfoDescription>1600000425</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope>  
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>1600000407</GUID>
+                <GUID>1600000425</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
               <Item>
-                <GUID>82498</GUID>
+                <GUID>82495</GUID>
               </Item>
             </Targets>
             <HideInGovernorsBar>1</HideInGovernorsBar>
@@ -36,7 +36,7 @@
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>1600000406</OasisId>
+            <OasisId>1600000424</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -51,29 +51,29 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>1600000407</GUID>
-                    <Name>Specialist AreaEffect-Chained-CernunnosGoodsBuffFromShrine-R BuildingBuff</Name>
+                    <GUID>1600000425</GUID>
+                    <Name>Specialist AreaEffect-Chained-MinervaGoodsBuffFromShrine-R BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>1600000406</OasisId>
+                    <OasisId>1600000424</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
-                    <AdditionalFunctionalEffect>1600000408</AdditionalFunctionalEffect>
+                    <AdditionalFunctionalEffect>1600000426</AdditionalFunctionalEffect>
                     <AdditionalAttributes>
-                        <Health>
-                          <AmountOrPercent>
-                              <Value>1</Value>
-                              <Percental>0</Percental>
-                          </AmountOrPercent>
-                        </Health>
                         <Knowledge>
                           <AmountOrPercent>
                               <Value>1</Value>
                               <Percental>0</Percental>
                           </AmountOrPercent>
                         </Knowledge>
+                        <Prestige>
+                          <AmountOrPercent>
+                              <Value>0.5</Value>
+                              <Percental>0</Percental>
+                          </AmountOrPercent>
+                        </Prestige>
                     </AdditionalAttributes>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>
@@ -100,8 +100,8 @@
             <Template>Effect</Template>
             <Values>
                 <Standard>
-                    <GUID>1600000408</GUID>
-                    <Name>Specialist AreaEffect-Chained-CernunnosGoodsBuffFromShrine-R FunctionalEffect</Name>
+                    <GUID>1600000426</GUID>
+                    <Name>Specialist AreaEffect-Chained-MinervaGoodsBuffFromShrine-R FunctionalEffect</Name>
                     <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
                 </Standard>
                 <Effect>
@@ -109,19 +109,22 @@
                     <SourceCategory>Adjacency</SourceCategory>
                     <Buffs>
                         <Item>
-                            <GUID>1600000409</GUID>
+                            <GUID>1600000427</GUID>
                         </Item>
                     </Buffs>
                     <Targets>
                         <Item>
-                            <GUID>50243</GUID>
+                            <GUID>80564</GUID>
+                        </Item>
+                        <Item>
+                            <GUID>62768</GUID>
                         </Item>
                     </Targets>
                     <ExcludeEffectSourceGUID>0</ExcludeEffectSourceGUID>
                     <HideInGovernorsBar>1</HideInGovernorsBar>
                 </Effect>
                 <Text>
-                    <OasisId>1600000406</OasisId>
+                    <OasisId>1600000424</OasisId>
                 </Text>
             </Values>
         </Asset>
@@ -132,16 +135,16 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>1600000409</GUID>
-                    <Name>Specialist AreaEffect-Chained-CernunnosGoodsBuffFromShrine-R FunctionalEffect BuildingBuff</Name>
+                    <GUID>1600000427</GUID>
+                    <Name>Specialist AreaEffect-Chained-MinervaGoodsBuffFromShrine-R FunctionalEffect BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>1600000406</OasisId>
+                    <OasisId>1600000424</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
-                    <AdditionalFunctionalEffect>1600000410</AdditionalFunctionalEffect>
+                    <AdditionalFunctionalEffect>1600000428</AdditionalFunctionalEffect>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>
                 <Buff>
@@ -166,8 +169,8 @@
             <Template>Effect</Template>
             <Values>
                 <Standard>
-                    <GUID>1600000410</GUID>
-                    <Name>Specialist AreaEffect-Chained-CernunnosGoodsBuffFromShrine-R FunctionalEffect</Name>
+                    <GUID>1600000428</GUID>
+                    <Name>Specialist AreaEffect-Chained-MinervaGoodsBuffFromShrine-R FunctionalEffect</Name>
                     <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
                 </Standard>
                 <Effect>
@@ -175,7 +178,7 @@
                     <SourceCategory>Adjacency</SourceCategory>
                     <Buffs>
                         <Item>
-                            <GUID>1600000411</GUID>
+                            <GUID>1600000429</GUID>
                         </Item>
                     </Buffs>
                     <Targets>
@@ -187,7 +190,7 @@
                     <HideInGovernorsBar>1</HideInGovernorsBar>
                 </Effect>
                 <Text>
-                    <OasisId>1600000406</OasisId>
+                    <OasisId>1600000424</OasisId>
                 </Text>
             </Values>
         </Asset>
@@ -198,28 +201,28 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>1600000411</GUID>
-                    <Name>Specialist AreaEffect-Chained-CernunnosGoodsBuffFromShrine-R FunctionalEffect BuildingBuff</Name>
+                    <GUID>1600000429</GUID>
+                    <Name>Specialist AreaEffect-Chained-MinervaGoodsBuffFromShrine-R FunctionalEffect BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>1600000406</OasisId>
+                    <OasisId>1600000424</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
                     <AdditionalAttributes>
-                        <Health>
-                          <AmountOrPercent>
-                              <Value>1</Value>
-                              <Percental>0</Percental>
-                          </AmountOrPercent>
-                        </Health>
                         <Knowledge>
                           <AmountOrPercent>
                               <Value>1</Value>
                               <Percental>0</Percental>
                           </AmountOrPercent>
                         </Knowledge>
+                        <Prestige>
+                          <AmountOrPercent>
+                              <Value>0.5</Value>
+                              <Percental>0</Percental>
+                          </AmountOrPercent>
+                        </Prestige>
                     </AdditionalAttributes>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>
