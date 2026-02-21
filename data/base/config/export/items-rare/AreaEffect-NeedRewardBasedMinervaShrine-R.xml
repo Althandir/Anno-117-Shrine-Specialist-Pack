@@ -1,0 +1,220 @@
+<ModOps>
+<!-- Item Definition GUID:1600000420 - 1600000423 | LineID:1600000420 - 1600000421  -->
+  <Group>
+    <ModOp Type="addNextSibling" GUID="106410">
+      <Asset>
+        <Template>Item</Template>
+        <Values>
+          <Standard>
+            <GUID>1600000420</GUID>
+            <Name>Specialist AreaEffect-NeedRewardBasedMinervaShrine-R</Name>
+            <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+            <InfoDescription>1600000421</InfoDescription>
+          </Standard>
+          <Effect>
+            <EffectScope>Radius</EffectScope>  
+            <SourceCategory>Item</SourceCategory>
+            <Buffs>
+              <Item>
+                <GUID>1600000421</GUID>
+              </Item>
+            </Buffs>
+            <Targets> <!-- Targets of Buff -->
+              <Item>
+                <GUID>82499</GUID>
+              </Item>
+            </Targets>
+            <HideInGovernorsBar>1</HideInGovernorsBar>
+          </Effect>
+          <Item>
+            <Niche>Religion</Niche>  
+            <TradePrice>5000</TradePrice> 
+            <BarkPool>83311</BarkPool> <!-- <GUID>83311</GUID> -->
+            <Rarity>Rare</Rarity> 
+          </Item>
+          <Locked>
+            <DefaultLockedState>0</DefaultLockedState>
+          </Locked>
+          <Text>
+            <OasisId>1600000420</OasisId>
+          </Text>
+        </Values>
+      </Asset>
+    </ModOp>
+  </Group>
+
+  <!-- Buff Definitions-->
+  <Group>
+    <!-- Buff Definition -->
+    <ModOp Type="addNextSibling" GUID="80193">
+        <Asset>
+            <Template>BuildingBuff</Template>
+            <Values>
+                <Standard>
+                    <GUID>1600000421</GUID>
+                    <Name>Specialist AreaEffect-NeedRewardBasedMinervaShrine-R BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                </Standard>
+                <Text>
+                    <OasisId>1600000420</OasisId>
+                </Text>
+                <HealthUpgrade/>
+                <BuildingUpgrade>
+                    <AdditionalFunctionalEffect>1600000422</AdditionalFunctionalEffect>
+                </BuildingUpgrade>
+                <DistributionUpgrade/>
+                <Buff>
+                    <SourceCategory>Item</SourceCategory>
+                </Buff>
+                <ResidenceUpgrade> <!-- # Hint for the Player -->
+                    <GoodConsumptionUpgrade>
+                        <Item>
+                            <ProvidedNeed>2141</ProvidedNeed>
+                            <AmountInPercent>35</AmountInPercent>
+                        </Item>
+                        <Item>
+                            <ProvidedNeed>2142</ProvidedNeed>
+                            <AmountInPercent>35</AmountInPercent>
+                        </Item>
+                        <Item>
+                            <ProvidedNeed>2161</ProvidedNeed>
+                            <AmountInPercent>15</AmountInPercent>
+                        </Item>
+                    </GoodConsumptionUpgrade>
+                    <NeedProvidedNeedAttributes>
+                    <ChangeNeedAttributesOf>
+                        <Item>
+                            <ProvidedProduct>2141</ProvidedProduct> <!-- <GUID>2141</GUID> -->
+                        </Item>
+                        <Item>
+                            <ProvidedProduct>2142</ProvidedProduct> <!-- <GUID>2142</GUID> -->
+                        </Item>
+                        <Item>
+                            <ProvidedProduct>2161</ProvidedProduct> <!-- <GUID>2161</GUID> -->
+                        </Item>
+                    </ChangeNeedAttributesOf>
+                    <AdditionalNeedAttributes>
+                        <Belief>
+                            <AmountOrPercent>
+                                <Value>3</Value>
+                                <Percental>0</Percental>
+                            </AmountOrPercent>
+                        </Belief>
+                    </AdditionalNeedAttributes>
+                    </NeedProvidedNeedAttributes>
+                </ResidenceUpgrade>
+                <FactoryUpgrade/>
+                <ModuleOwnerUpgrade/>
+                <MaintenanceUpgrade/>
+                <CityInstitutionUpgrade/>
+                <IncidentInfectableUpgrade/>
+                <RecruitmentUpgrade/>
+                <AqueductUpgrade/>
+                <WarehouseUpgrade/>
+                <IrrigationUpgrade/>
+            </Values>
+        </Asset>
+    </ModOp>
+    
+    <ModOp Type="addNextSibling" GUID="135498">
+        <Asset>
+            <Template>Effect</Template>
+            <Values>
+                <Standard>
+                    <GUID>1600000422</GUID>
+                    <Name>Specialist AreaEffect-NeedRewardBasedMinervaShrine-R FunctionalEffect</Name>
+                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                </Standard>
+                <Effect>
+                    <EffectScope>StreetDistance</EffectScope>
+                    <SourceCategory>Adjacency</SourceCategory>
+                    <Buffs>
+                        <Item>
+                            <GUID>1600000423</GUID>
+                        </Item>
+                    </Buffs>
+                    <Targets>
+                        <Item>
+                            <GUID>31046</GUID>
+                        </Item>
+                    </Targets>
+                    <ExcludeEffectSourceGUID>0</ExcludeEffectSourceGUID>
+                    <HideInGovernorsBar>1</HideInGovernorsBar>
+                </Effect>
+                <Text>
+                    <OasisId>1600000420</OasisId>
+                </Text>
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp Type="addNextSibling" GUID="80193">
+        <Asset>
+            <Template>BuildingBuff</Template>
+            <Values>
+                <Standard>
+                    <GUID>1600000423</GUID>
+                    <Name>Specialist AreaEffect-NeedRewardBasedMinervaShrine-R FunctionalEffect BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                </Standard>
+                <Text>
+                    <OasisId>1600000420</OasisId>
+                </Text>
+                <HealthUpgrade/>
+                <BuildingUpgrade/>
+                <DistributionUpgrade/>
+                <Buff>
+                    <SourceCategory>Adjacency</SourceCategory>
+                </Buff>
+                <ResidenceUpgrade> 
+                    <GoodConsumptionUpgrade>
+                        <Item>
+                            <ProvidedNeed>2141</ProvidedNeed>
+                            <AmountInPercent>35</AmountInPercent>
+                        </Item>
+                        <Item>
+                            <ProvidedNeed>2142</ProvidedNeed>
+                            <AmountInPercent>35</AmountInPercent>
+                        </Item>
+                        <Item>
+                            <ProvidedNeed>2161</ProvidedNeed>
+                            <AmountInPercent>15</AmountInPercent>
+                        </Item>
+                    </GoodConsumptionUpgrade>
+                    <NeedProvidedNeedAttributes>
+                    <ChangeNeedAttributesOf>
+                        <Item>
+                            <ProvidedProduct>2141</ProvidedProduct> <!-- <GUID>2141</GUID> -->
+                        </Item>
+                        <Item>
+                            <ProvidedProduct>2142</ProvidedProduct> <!-- <GUID>2142</GUID> -->
+                        </Item>
+                        <Item>
+                            <ProvidedProduct>2161</ProvidedProduct> <!-- <GUID>2161</GUID> -->
+                        </Item>
+                    </ChangeNeedAttributesOf>
+                    <AdditionalNeedAttributes>
+                        <Belief>
+                            <AmountOrPercent>
+                                <Value>3</Value>
+                                <Percental>0</Percental>
+                            </AmountOrPercent>
+                        </Belief>
+                    </AdditionalNeedAttributes>
+                    </NeedProvidedNeedAttributes>
+                </ResidenceUpgrade>
+                <FactoryUpgrade/>
+                <ModuleOwnerUpgrade/>
+                <MaintenanceUpgrade/>
+                <CityInstitutionUpgrade/>
+                <IncidentInfectableUpgrade/>
+                <RecruitmentUpgrade/>
+                <AqueductUpgrade/>
+                <WarehouseUpgrade/>
+                <IrrigationUpgrade/>
+            </Values>
+        </Asset>
+    </ModOp>
+  </Group>
+
+</ModOps>

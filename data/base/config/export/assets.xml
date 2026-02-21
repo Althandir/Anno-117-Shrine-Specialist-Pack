@@ -33,7 +33,13 @@
 <Include File="items-rare/AreaEffect-HappinessAllShrines-R.xml" />
 <Include File="items-rare/AreaEffect-HealthAllShrines-R.xml" />
 
-
+<Include File="items-rare/AreaEffect-NeedRewardBasedCeresShrine-R.xml" />
+<Include File="items-rare/AreaEffect-NeedRewardBasedCernunnosShrine-R.xml" />
+<Include File="items-rare/AreaEffect-NeedRewardBasedEponaShrine-R.xml" />
+<Include File="items-rare/AreaEffect-NeedRewardBasedMarsShrine-R.xml" />
+<Include File="items-rare/AreaEffect-NeedRewardBasedMercuryShrine-R.xml" />
+<Include File="items-rare/AreaEffect-NeedRewardBasedMinervaShrine-R.xml" />
+<Include File="items-rare/AreaEffect-NeedRewardBasedNeptuneShrine-R.xml" />
 
 <Include File="items-epic/AreaEffect-WorkforceMaintenanceAdditionalGoodsCeresGoodsFromShrine-E.xml" />
 <Include File="items-epic/AreaEffect-WorkforceMaintenanceAdditionalGoodsCernunnosGoodsFromShrine-E.xml" />
