@@ -308,7 +308,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Test Text. Meb Meb!</Text>
+            <Text>&#xD;Hint: Effect applies to all blessed chains associated with this deity.</Text>
             <LineId>1600000358</LineId> 
         </Text>
       </ModOp>
@@ -324,7 +324,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Test Text. Meb Meb!</Text>
+            <Text>&#xD;Hint: Effect applies to all blessed chains associated with this deity.</Text>
             <LineId>1600000362</LineId> 
         </Text>
       </ModOp>
@@ -340,7 +340,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Test Text. Meb Meb!</Text>
+            <Text>&#xD;Hint: Effect applies to all blessed chains associated with this deity.</Text>
             <LineId>1600000366</LineId> 
         </Text>
       </ModOp>
@@ -356,7 +356,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Test Text. Meb Meb!</Text>
+            <Text>&#xD;Hint: Effect applies to all blessed chains associated with this deity.</Text>
             <LineId>1600000370</LineId> 
         </Text>
       </ModOp>
@@ -372,7 +372,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Test Text. Meb Meb!</Text>
+            <Text>&#xD;Hint: Effect applies to all blessed chains associated with this deity. For Mercury-Lugus these are Gold and Silver.</Text>
             <LineId>1600000374</LineId> 
         </Text>
       </ModOp>
@@ -388,7 +388,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Test Text. Meb Meb!</Text>
+            <Text>&#xD;Hint: Effect applies to all blessed chains associated with this deity.</Text>
             <LineId>1600000378</LineId> 
         </Text>
       </ModOp>
@@ -404,7 +404,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Test Text. Meb Meb!</Text>
+            <Text>&#xD;Hint: Effect applies to all blessed chains associated with this deity.</Text>
             <LineId>1600000382</LineId> 
         </Text>
       </ModOp>
@@ -425,12 +425,12 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Test Text. Meb Meb!</Text>
+            <Text>Test Text. Meb Meb!&#xD;Hint: Find out the Boost Condition and fulfill it to unlock the effect.</Text>
             <LineId>1600000429</LineId> 
         </Text>
         <!-- Boosted Hint -->
         <Text>
-            <Text>8 Shrines on Island</Text>
+            <Text>8 Shrines on Island&#xD;Hint: Effect applies Islandwide on all Villas and Officia.</Text>
             <LineId>1600000430</LineId> 
         </Text>
       </ModOp>
