@@ -7,17 +7,17 @@
  
 ### GUIDRANGE: 
 #   Starting GUID:  1600000327
-#   Ending GUID:    TODO: Add Last GUID
+#   Ending GUID:    1600000487
 ###
 -->
 <ModOps>
 
 <!-- Testing -->
-
+<!-- 
 <Group>
 <Include File="testing/pools-forceSpawnTesting.xml"/> 
 </Group>
-
+-->
 <!-- Load Each Specialists from corresponding file -->
 
 <Include File="items-common/EffectRangeAllShrines-C.xml" />
@@ -49,8 +49,17 @@
 <Include File="items-epic/AreaEffect-WorkforceMaintenanceAdditionalGoodsMinervaGoodsFromShrine-E.xml" />
 <Include File="items-epic/AreaEffect-WorkforceMaintenanceAdditionalGoodsNeptuneGoodsFromShrine-E.xml" />
 
-
 <Include File="items-legendary/EffectRangeAllShrines-L.xml" />
+<Include File="items-legendary/AreaEffect-AdditionalSpecialistSlotFromShrine-L.xml" />
+<Include File="items-legendary/AreaEffect-HealthFiresafetyHappinessAllShrines-L.xml" />
+
+<Include File="items-legendary/AreaEffect-MajorCeresShrine-L.xml" />
+<Include File="items-legendary/AreaEffect-MajorCernunnosShrine-L.xml" />
+<Include File="items-legendary/AreaEffect-MajorEponaShrine-L.xml" />
+<Include File="items-legendary/AreaEffect-MajorMarsShrine-L.xml" />
+<Include File="items-legendary/AreaEffect-MajorMercuryShrine-L.xml" />
+<Include File="items-legendary/AreaEffect-MajorMinervaShrine-L.xml" />
+<Include File="items-legendary/AreaEffect-MajorNeptuneShrine-L.xml" />
 
 <!-- Add to Asset & Rewardpools -->
 

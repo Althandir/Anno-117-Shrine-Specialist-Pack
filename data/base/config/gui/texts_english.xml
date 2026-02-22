@@ -1,11 +1,12 @@
 <ModOps>
-
-  <!-- Specialist BeliefAllShrines-C -->
+  <!-- Common Specialists -->
+  <Group>
+  <!-- Specialist EffectRangeAllShrines-C -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Specialist BeliefAllShrines-C</Text>
+          <Text>Specialist EffectRangeAllShrines-C</Text>
           <LineId>1600000327</LineId> <!-- <GUID>1600000327</GUID> -->
       </Text>
       <!-- Description -->
@@ -31,4 +32,140 @@
       </Text>
     </ModOp>
   </Group>
+
+  <!-- Specialist AreaEffect-MinorCernunnosShrine-C -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Specialist AreaEffect-MinorCernunnosShrine-C</Text>
+          <LineId>1600000333</LineId> <!-- <GUID>1600000333</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Test Text. Meb Meb!</Text>
+          <LineId>1600000334</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AreaEffect-MinorEponaShrine-C -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Specialist AreaEffect-MinorEponaShrine-C</Text>
+          <LineId>1600000337</LineId> <!-- <GUID>1600000337</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Test Text. Meb Meb!</Text>
+          <LineId>1600000338</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AreaEffect-MinorCeresShrine-C -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Specialist AreaEffect-MinorMarsShrine-C</Text>
+          <LineId>1600000341</LineId> <!-- <GUID>1600000341</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Test Text. Meb Meb!</Text>
+          <LineId>1600000342</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AreaEffect-MinorMercuryShrine-C -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Specialist AreaEffect-MinorMercuryShrine-C</Text>
+          <LineId>1600000345</LineId> <!-- <GUID>1600000345</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Test Text. Meb Meb!</Text>
+          <LineId>1600000346</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AreaEffect-MinorMinervaShrine-C -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Specialist AreaEffect-MinorMinervaShrine-C</Text>
+          <LineId>1600000349</LineId> <!-- <GUID>1600000349</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Test Text. Meb Meb!</Text>
+          <LineId>1600000350</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist AreaEffect-MinorNeptuneShrine-C -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Specialist AreaEffect-MinorNeptuneShrine-C</Text>
+          <LineId>1600000353</LineId> <!-- <GUID>1600000353</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Test Text. Meb Meb!</Text>
+          <LineId>1600000354</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  </Group>
+
+  <!-- Rare Specialists -->
+  <Group>
+  
+  </Group>
+
+  <!-- Epic Specialists -->
+  <Group>
+  
+  </Group>
+
+  <!-- Legendary Specialists -->
+  <Group>
+  <!-- Specialist AreaEffect-AdditionalSpecialistSlotFromShrine-L -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Specialist AreaEffect-AdditionalSpecialistSlotFromShrine-L</Text>
+          <LineId>1600000428</LineId> <!-- <GUID>1600000428</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Test Text. Meb Meb!</Text>
+          <LineId>1600000429</LineId> 
+      </Text>
+      <!-- Boosted Hint -->
+      <Text>
+          <Text>Boost Hint Text. Meb Meb!</Text>
+          <LineId>1600000430</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+
+  </Group>
+
+
 </ModOps>
