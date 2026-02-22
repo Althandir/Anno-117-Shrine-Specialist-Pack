@@ -11,7 +11,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Test Text. Meb Meb!</Text>
+            <Text>Test Text. Meb Meb!&#xD;Hint: This Effect can stack.</Text>
             <LineId>1600000328</LineId> 
         </Text>
       </ModOp>
@@ -372,7 +372,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>&#xD;Hint: Effect applies to all blessed chains associated with this deity. For Mercury-Lugus these are Gold and Silver.</Text>
+            <Text>&#xD;Hint: Effect applies to all blessed chains associated with this deity.&#xD;For Mercury-Lugus these are Gold and Silver.</Text>
             <LineId>1600000374</LineId> 
         </Text>
       </ModOp>
@@ -467,7 +467,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Test Text. Meb Meb!</Text>
+            <Text>Test Text. Meb Meb!&#xD;Hint: This Effect can stack.</Text>
             <LineId>1600000386</LineId> 
         </Text>
         <!-- Boosted Hint -->
