@@ -2,168 +2,628 @@
   <!-- Common Specialists -->
   <Group>
   <!-- Specialist EffectRangeAllShrines-C -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Specialist EffectRangeAllShrines-C</Text>
-          <LineId>1600000327</LineId> <!-- <GUID>1600000327</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Test Text. Meb Meb!</Text>
-          <LineId>1600000328</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Specialist EffectRangeAllShrines-C</Text>
+            <LineId>1600000327</LineId> <!-- <GUID>1600000327</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Test Text. Meb Meb!</Text>
+            <LineId>1600000328</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
 
-  <!-- Specialist AreaEffect-MinorCeresShrine-C -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Specialist AreaEffect-MinorCeresShrine-C</Text>
-          <LineId>1600000329</LineId> <!-- <GUID>1600000329</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Test Text. Meb Meb!</Text>
-          <LineId>1600000330</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
+    <!-- Specialist AreaEffect-MinorCeresShrine-C -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Specialist AreaEffect-MinorCeresShrine-C</Text>
+            <LineId>1600000329</LineId> <!-- <GUID>1600000329</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Test Text. Meb Meb!</Text>
+            <LineId>1600000330</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
 
-  <!-- Specialist AreaEffect-MinorCernunnosShrine-C -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Specialist AreaEffect-MinorCernunnosShrine-C</Text>
-          <LineId>1600000333</LineId> <!-- <GUID>1600000333</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Test Text. Meb Meb!</Text>
-          <LineId>1600000334</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
+    <!-- Specialist AreaEffect-MinorCernunnosShrine-C -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Specialist AreaEffect-MinorCernunnosShrine-C</Text>
+            <LineId>1600000333</LineId> <!-- <GUID>1600000333</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Test Text. Meb Meb!</Text>
+            <LineId>1600000334</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
 
-  <!-- Specialist AreaEffect-MinorEponaShrine-C -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Specialist AreaEffect-MinorEponaShrine-C</Text>
-          <LineId>1600000337</LineId> <!-- <GUID>1600000337</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Test Text. Meb Meb!</Text>
-          <LineId>1600000338</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
+    <!-- Specialist AreaEffect-MinorEponaShrine-C -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Specialist AreaEffect-MinorEponaShrine-C</Text>
+            <LineId>1600000337</LineId> <!-- <GUID>1600000337</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Test Text. Meb Meb!</Text>
+            <LineId>1600000338</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
 
-  <!-- Specialist AreaEffect-MinorCeresShrine-C -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Specialist AreaEffect-MinorMarsShrine-C</Text>
-          <LineId>1600000341</LineId> <!-- <GUID>1600000341</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Test Text. Meb Meb!</Text>
-          <LineId>1600000342</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
+    <!-- Specialist AreaEffect-MinorCeresShrine-C -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Specialist AreaEffect-MinorMarsShrine-C</Text>
+            <LineId>1600000341</LineId> <!-- <GUID>1600000341</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Test Text. Meb Meb!</Text>
+            <LineId>1600000342</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
 
-  <!-- Specialist AreaEffect-MinorMercuryShrine-C -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Specialist AreaEffect-MinorMercuryShrine-C</Text>
-          <LineId>1600000345</LineId> <!-- <GUID>1600000345</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Test Text. Meb Meb!</Text>
-          <LineId>1600000346</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
+    <!-- Specialist AreaEffect-MinorMercuryShrine-C -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Specialist AreaEffect-MinorMercuryShrine-C</Text>
+            <LineId>1600000345</LineId> <!-- <GUID>1600000345</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Test Text. Meb Meb!</Text>
+            <LineId>1600000346</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
 
-  <!-- Specialist AreaEffect-MinorMinervaShrine-C -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Specialist AreaEffect-MinorMinervaShrine-C</Text>
-          <LineId>1600000349</LineId> <!-- <GUID>1600000349</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Test Text. Meb Meb!</Text>
-          <LineId>1600000350</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
+    <!-- Specialist AreaEffect-MinorMinervaShrine-C -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Specialist AreaEffect-MinorMinervaShrine-C</Text>
+            <LineId>1600000349</LineId> <!-- <GUID>1600000349</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Test Text. Meb Meb!</Text>
+            <LineId>1600000350</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
 
-  <!-- Specialist AreaEffect-MinorNeptuneShrine-C -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Specialist AreaEffect-MinorNeptuneShrine-C</Text>
-          <LineId>1600000353</LineId> <!-- <GUID>1600000353</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Test Text. Meb Meb!</Text>
-          <LineId>1600000354</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
+    <!-- Specialist AreaEffect-MinorNeptuneShrine-C -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Specialist AreaEffect-MinorNeptuneShrine-C</Text>
+            <LineId>1600000353</LineId> <!-- <GUID>1600000353</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Test Text. Meb Meb!</Text>
+            <LineId>1600000354</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
 
   </Group>
 
   <!-- Rare Specialists -->
   <Group>
-  
+
+    <!-- Specialist AreaEffect-FiresafetyAllShrines-R -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Specialist AreaEffect-FiresafetyAllShrines-R</Text>
+            <LineId>1600000388</LineId> <!-- <GUID>1600000388</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Test Text. Meb Meb!</Text>
+            <LineId>1600000389</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
+
+    <!-- Specialist AreaEffect-HappinessAllShrines-R -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Specialist AreaEffect-HappinessAllShrines-R</Text>
+            <LineId>1600000392</LineId> <!-- <GUID>1600000392</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Test Text. Meb Meb!</Text>
+            <LineId>1600000393</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
+
+    <!-- Specialist AreaEffect-HealthAllShrines-R -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Specialist AreaEffect-HealthAllShrines-R</Text>
+            <LineId>1600000396</LineId> <!-- <GUID>1600000396</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Test Text. Meb Meb!</Text>
+            <LineId>1600000397</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
+
+
+    <!-- Specialist AreaEffect-NeedRewardBasedCeresShrine-R -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Specialist AreaEffect-NeedRewardBasedCeresShrine-R</Text>
+            <LineId>1600000400</LineId> <!-- <GUID>1600000400</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Test Text. Meb Meb!</Text>
+            <LineId>1600000401</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
+
+    <!-- Specialist AreaEffect-NeedRewardBasedCernunnosShrine-R -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Specialist AreaEffect-NeedRewardBasedCernunnosShrine-R</Text>
+            <LineId>1600000404</LineId> <!-- <GUID>1600000404</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Test Text. Meb Meb!</Text>
+            <LineId>1600000405</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
+
+    <!-- Specialist AreaEffect-NeedRewardBasedEponaShrine-R -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Specialist AreaEffect-NeedRewardBasedEponaShrine-R</Text>
+            <LineId>1600000408</LineId> <!-- <GUID>1600000408</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Test Text. Meb Meb!</Text>
+            <LineId>1600000409</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
+
+    <!-- Specialist AreaEffect-NeedRewardBasedMarsShrine-R -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Specialist AreaEffect-NeedRewardBasedMarsShrine-R</Text>
+            <LineId>1600000412</LineId> <!-- <GUID>1600000412</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Test Text. Meb Meb!</Text>
+            <LineId>1600000413</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
+
+    <!-- Specialist AreaEffect-NeedRewardBasedMercuryShrine-R -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Specialist AreaEffect-NeedRewardBasedMercuryShrine-R</Text>
+            <LineId>1600000416</LineId> <!-- <GUID>1600000416</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Test Text. Meb Meb!</Text>
+            <LineId>1600000417</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
+
+    <!-- Specialist AreaEffect-NeedRewardBasedMinervaShrine-R -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Specialist AreaEffect-NeedRewardBasedMinervaShrine-R</Text>
+            <LineId>1600000420</LineId> <!-- <GUID>1600000420</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Test Text. Meb Meb!</Text>
+            <LineId>1600000421</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
+
+    <!-- Specialist AreaEffect-NeedRewardBasedNeptuneShrine-R -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Specialist AreaEffect-NeedRewardBasedNeptuneShrine-R</Text>
+            <LineId>1600000424</LineId> <!-- <GUID>1600000424</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Test Text. Meb Meb!</Text>
+            <LineId>1600000425</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
   </Group>
 
   <!-- Epic Specialists -->
   <Group>
-  
+    <!-- Specialist AreaEffect-WorkforceMaintenanceAdditionalGoodsCeresGoodsFromShrine-E -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Specialist AreaEffect-WorkforceMaintenanceAdditionalGoodsCeresGoodsFromShrine-E</Text>
+            <LineId>1600000357</LineId> <!-- <GUID>1600000353</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Test Text. Meb Meb!</Text>
+            <LineId>1600000358</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
+
+    <!-- Specialist AreaEffect-WorkforceMaintenanceAdditionalGoodsCernunnosGoodsFromShrine-E -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Specialist AreaEffect-WorkforceMaintenanceAdditionalGoodsCernunnosGoodsFromShrine-E</Text>
+            <LineId>1600000361</LineId> <!-- <GUID>1600000361</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Test Text. Meb Meb!</Text>
+            <LineId>1600000362</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
+
+    <!-- Specialist AreaEffect-WorkforceMaintenanceAdditionalGoodsEponaGoodsFromShrine-E -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Specialist AreaEffect-WorkforceMaintenanceAdditionalGoodsEponaGoodsFromShrine-E</Text>
+            <LineId>1600000365</LineId> <!-- <GUID>1600000365</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Test Text. Meb Meb!</Text>
+            <LineId>1600000366</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
+
+    <!-- Specialist AreaEffect-WorkforceMaintenanceAdditionalGoodsMarsGoodsFromShrine-E -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Specialist AreaEffect-WorkforceMaintenanceAdditionalGoodsMarsGoodsFromShrine-E</Text>
+            <LineId>1600000369</LineId> <!-- <GUID>1600000369</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Test Text. Meb Meb!</Text>
+            <LineId>1600000370</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
+
+    <!-- Specialist AreaEffect-WorkforceMaintenanceAdditionalGoodsMercuryGoodsFromShrine-E -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Specialist AreaEffect-WorkforceMaintenanceAdditionalGoodsMercuryGoodsFromShrine-E</Text>
+            <LineId>1600000373</LineId> <!-- <GUID>1600000373</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Test Text. Meb Meb!</Text>
+            <LineId>1600000374</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
+
+    <!-- Specialist AreaEffect-WorkforceMaintenanceAdditionalGoodsMinervaGoodsFromShrine-E -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Specialist AreaEffect-WorkforceMaintenanceAdditionalGoodsMinervaGoodsFromShrine-E</Text>
+            <LineId>1600000377</LineId> <!-- <GUID>1600000377</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Test Text. Meb Meb!</Text>
+            <LineId>1600000378</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
+
+    <!-- Specialist AreaEffect-WorkforceMaintenanceAdditionalGoodsNeptuneGoodsFromShrine-E -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Specialist AreaEffect-WorkforceMaintenanceAdditionalGoodsNeptuneGoodsFromShrine-E</Text>
+            <LineId>1600000381</LineId> <!-- <GUID>1600000381</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Test Text. Meb Meb!</Text>
+            <LineId>1600000382</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
+
   </Group>
 
   <!-- Legendary Specialists -->
   <Group>
-  <!-- Specialist AreaEffect-AdditionalSpecialistSlotFromShrine-L -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Specialist AreaEffect-AdditionalSpecialistSlotFromShrine-L</Text>
-          <LineId>1600000428</LineId> <!-- <GUID>1600000428</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Test Text. Meb Meb!</Text>
-          <LineId>1600000429</LineId> 
-      </Text>
-      <!-- Boosted Hint -->
-      <Text>
-          <Text>Boost Hint Text. Meb Meb!</Text>
-          <LineId>1600000430</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
 
+    <!-- Specialist AreaEffect-AdditionalSpecialistSlotFromShrine-L -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Specialist AreaEffect-AdditionalSpecialistSlotFromShrine-L</Text>
+            <LineId>1600000428</LineId> <!-- <GUID>1600000428</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Test Text. Meb Meb!</Text>
+            <LineId>1600000429</LineId> 
+        </Text>
+        <!-- Boosted Hint -->
+        <Text>
+            <Text>8 Shrines on Island</Text>
+            <LineId>1600000430</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
+
+    <!-- Specialist AreaEffect-HealthFiresafetyHappinessAllShrines-L -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Specialist AreaEffect-HealthFiresafetyHappinessAllShrines-L</Text>
+            <LineId>1600000432</LineId> <!-- <GUID>1600000432</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Test Text. Meb Meb!</Text>
+            <LineId>1600000433</LineId> 
+        </Text>
+        <!-- Boosted Hint -->
+        <Text>
+            <Text>4 Shrines on Island</Text>
+            <LineId>1600000434</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
+
+    <!-- Specialist EffectRangeAllShrines-L -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Specialist EffectRangeAllShrines-L</Text>
+            <LineId>1600000385</LineId> <!-- <GUID>1600000385</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Test Text. Meb Meb!</Text>
+            <LineId>1600000386</LineId> 
+        </Text>
+        <!-- Boosted Hint -->
+        <Text>
+            <Text>5000 Population & Belief on Island</Text>
+            <LineId>1600000387</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
+
+    <!-- Specialist AreaEffect-MajorCeresShrine-L -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Specialist AreaEffect-MajorCeresShrine-L</Text>
+            <LineId>1600000439</LineId> <!-- <GUID>1600000439</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Test Text. Meb Meb!</Text>
+            <LineId>1600000440</LineId> 
+        </Text>
+        <!-- Boosted Hint -->
+        <Text>
+            <Text>5 corresponding Shrines on Island</Text>
+            <LineId>1600000441</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
+
+    <!-- Specialist AreaEffect-MajorCernunnosShrine-L -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Specialist AreaEffect-MajorCernunnosShrine-L</Text>
+            <LineId>1600000446</LineId> <!-- <GUID>1600000446</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Test Text. Meb Meb!</Text>
+            <LineId>1600000447</LineId> 
+        </Text>
+        <!-- Boosted Hint -->
+        <Text>
+            <Text>5 corresponding Shrines on Island</Text>
+            <LineId>1600000448</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
+
+    <!-- Specialist AreaEffect-MajorEponaShrine-L -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Specialist AreaEffect-MajorEponaShrine-L</Text>
+            <LineId>1600000453</LineId> <!-- <GUID>1600000453</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Test Text. Meb Meb!</Text>
+            <LineId>1600000454</LineId> 
+        </Text>
+        <!-- Boosted Hint -->
+        <Text>
+            <Text>5 corresponding Shrines on Island</Text>
+            <LineId>1600000455</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
+
+    <!-- Specialist AreaEffect-MajorMarsShrine-L -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Specialist AreaEffect-MajorMarsShrine-L</Text>
+            <LineId>1600000460</LineId> <!-- <GUID>1600000460</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Test Text. Meb Meb!</Text>
+            <LineId>1600000461</LineId> 
+        </Text>
+        <!-- Boosted Hint -->
+        <Text>
+            <Text>5 corresponding Shrines on Island</Text>
+            <LineId>1600000462</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
+
+    <!-- Specialist AreaEffect-MajorMercuryShrine-L -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Specialist AreaEffect-MajorMercuryShrine-L</Text>
+            <LineId>1600000467</LineId> <!-- <GUID>1600000467</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Test Text. Meb Meb!</Text>
+            <LineId>1600000468</LineId> 
+        </Text>
+        <!-- Boosted Hint -->
+        <Text>
+            <Text>5 corresponding Shrines on Island</Text>
+            <LineId>1600000469</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
+
+    <!-- Specialist AreaEffect-MajorMinervaShrine-L -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Specialist AreaEffect-MajorMinervaShrine-L</Text>
+            <LineId>1600000474</LineId> <!-- <GUID>1600000474</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Test Text. Meb Meb!</Text>
+            <LineId>1600000475</LineId> 
+        </Text>
+        <!-- Boosted Hint -->
+        <Text>
+            <Text>5 corresponding Shrines on Island</Text>
+            <LineId>1600000476</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
+
+    <!-- Specialist AreaEffect-MajorNeptuneShrine-L -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Specialist AreaEffect-MajorNeptuneShrine-L</Text>
+            <LineId>1600000481</LineId> <!-- <GUID>1600000481</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Test Text. Meb Meb!</Text>
+            <LineId>1600000482</LineId> 
+        </Text>
+        <!-- Boosted Hint -->
+        <Text>
+            <Text>5 corresponding Shrines on Island</Text>
+            <LineId>1600000483</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
 
   </Group>
 
