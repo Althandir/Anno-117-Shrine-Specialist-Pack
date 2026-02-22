@@ -193,7 +193,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Test Text. Meb Meb!</Text>
+            <Text>Test Text. Meb Meb!&#xD;Hint: Affects all Residences in street distance of the shrine.</Text>
             <LineId>1600000401</LineId> 
         </Text>
       </ModOp>
@@ -209,7 +209,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Test Text. Meb Meb!</Text>
+            <Text>Test Text. Meb Meb!&#xD;Hint: Affects all Residences in street distance of the shrine.</Text>
             <LineId>1600000405</LineId> 
         </Text>
       </ModOp>
@@ -225,7 +225,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Test Text. Meb Meb!</Text>
+            <Text>Test Text. Meb Meb!&#xD;Hint: Affects all Residences in street distance of the shrine.</Text>
             <LineId>1600000409</LineId> 
         </Text>
       </ModOp>
@@ -241,7 +241,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Test Text. Meb Meb!</Text>
+            <Text>Test Text. Meb Meb!&#xD;Hint: Affects all Residences in street distance of the shrine.</Text>
             <LineId>1600000413</LineId> 
         </Text>
       </ModOp>
@@ -257,7 +257,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Test Text. Meb Meb!</Text>
+            <Text>Test Text. Meb Meb!&#xD;Hint: Affects all Residences in street distance of the shrine.</Text>
             <LineId>1600000417</LineId> 
         </Text>
       </ModOp>
@@ -273,7 +273,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Test Text. Meb Meb!</Text>
+            <Text>Test Text. Meb Meb!&#xD;Hint: Affects all Residences in street distance of the shrine.</Text>
             <LineId>1600000421</LineId> 
         </Text>
       </ModOp>
@@ -289,7 +289,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Test Text. Meb Meb!</Text>
+            <Text>Test Text. Meb Meb!&#xD;Hint: Affects all Residences in street distance of the shrine.</Text>
             <LineId>1600000425</LineId> 
         </Text>
       </ModOp>
