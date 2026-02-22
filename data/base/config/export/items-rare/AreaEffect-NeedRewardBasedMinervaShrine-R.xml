@@ -70,15 +70,15 @@
                     <GoodConsumptionUpgrade>
                         <Item>
                             <ProvidedNeed>2141</ProvidedNeed>
-                            <AmountInPercent>35</AmountInPercent>
+                            <AmountInPercent>20</AmountInPercent>
                         </Item>
                         <Item>
                             <ProvidedNeed>2142</ProvidedNeed>
-                            <AmountInPercent>35</AmountInPercent>
+                            <AmountInPercent>20</AmountInPercent>
                         </Item>
                         <Item>
                             <ProvidedNeed>2161</ProvidedNeed>
-                            <AmountInPercent>15</AmountInPercent>
+                            <AmountInPercent>10</AmountInPercent>
                         </Item>
                     </GoodConsumptionUpgrade>
                     <NeedProvidedNeedAttributes>
@@ -96,7 +96,7 @@
                     <AdditionalNeedAttributes>
                         <Belief>
                             <AmountOrPercent>
-                                <Value>3</Value>
+                                <Value>2</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Belief>
@@ -170,15 +170,15 @@
                     <GoodConsumptionUpgrade>
                         <Item>
                             <ProvidedNeed>2141</ProvidedNeed>
-                            <AmountInPercent>35</AmountInPercent>
+                            <AmountInPercent>20</AmountInPercent>
                         </Item>
                         <Item>
                             <ProvidedNeed>2142</ProvidedNeed>
-                            <AmountInPercent>35</AmountInPercent>
+                            <AmountInPercent>20</AmountInPercent>
                         </Item>
                         <Item>
                             <ProvidedNeed>2161</ProvidedNeed>
-                            <AmountInPercent>15</AmountInPercent>
+                            <AmountInPercent>10</AmountInPercent>
                         </Item>
                     </GoodConsumptionUpgrade>
                     <NeedProvidedNeedAttributes>
@@ -196,7 +196,7 @@
                     <AdditionalNeedAttributes>
                         <Belief>
                             <AmountOrPercent>
-                                <Value>3</Value>
+                                <Value>2</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Belief>

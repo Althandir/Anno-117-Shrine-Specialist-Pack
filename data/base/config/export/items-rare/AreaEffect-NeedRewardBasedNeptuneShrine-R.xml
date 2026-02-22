@@ -70,11 +70,11 @@
                     <GoodConsumptionUpgrade>
                         <Item>
                             <ProvidedNeed>2088</ProvidedNeed>
-                            <AmountInPercent>35</AmountInPercent>
+                            <AmountInPercent>20</AmountInPercent>
                         </Item>
                         <Item>
                             <ProvidedNeed>2097</ProvidedNeed>
-                            <AmountInPercent>35</AmountInPercent>
+                            <AmountInPercent>20</AmountInPercent>
                         </Item>
                         <Item>
                             <ProvidedNeed>2139</ProvidedNeed>
@@ -96,7 +96,7 @@
                     <AdditionalNeedAttributes>
                         <Belief>
                             <AmountOrPercent>
-                                <Value>3</Value>
+                                <Value>2</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Belief>
@@ -170,11 +170,11 @@
                     <GoodConsumptionUpgrade>
                         <Item>
                             <ProvidedNeed>2088</ProvidedNeed>
-                            <AmountInPercent>35</AmountInPercent>
+                            <AmountInPercent>20</AmountInPercent>
                         </Item>
                         <Item>
                             <ProvidedNeed>2097</ProvidedNeed>
-                            <AmountInPercent>35</AmountInPercent>
+                            <AmountInPercent>20</AmountInPercent>
                         </Item>
                         <Item>
                             <ProvidedNeed>2139</ProvidedNeed>
@@ -196,7 +196,7 @@
                     <AdditionalNeedAttributes>
                         <Belief>
                             <AmountOrPercent>
-                                <Value>3</Value>
+                                <Value>2</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Belief>

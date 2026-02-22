@@ -70,7 +70,7 @@
                     <GoodConsumptionUpgrade>
                         <Item>
                             <ProvidedNeed>2144</ProvidedNeed>
-                            <AmountInPercent>50</AmountInPercent>
+                            <AmountInPercent>35</AmountInPercent>
                         </Item>
                         <Item>
                             <ProvidedNeed>31706</ProvidedNeed>
@@ -78,7 +78,7 @@
                         </Item>
                         <Item>
                             <ProvidedNeed>2163</ProvidedNeed>
-                            <AmountInPercent>10</AmountInPercent>
+                            <AmountInPercent>5</AmountInPercent>
                         </Item>
                     </GoodConsumptionUpgrade>
                     <NeedProvidedNeedAttributes>
@@ -96,7 +96,7 @@
                     <AdditionalNeedAttributes>
                         <Belief>
                             <AmountOrPercent>
-                                <Value>3</Value>
+                                <Value>2</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Belief>
@@ -170,7 +170,7 @@
                     <GoodConsumptionUpgrade>
                         <Item>
                             <ProvidedNeed>2144</ProvidedNeed>
-                            <AmountInPercent>50</AmountInPercent>
+                            <AmountInPercent>35</AmountInPercent>
                         </Item>
                         <Item>
                             <ProvidedNeed>31706</ProvidedNeed>
@@ -178,7 +178,7 @@
                         </Item>
                         <Item>
                             <ProvidedNeed>2163</ProvidedNeed>
-                            <AmountInPercent>10</AmountInPercent>
+                            <AmountInPercent>5</AmountInPercent>
                         </Item>
                     </GoodConsumptionUpgrade>
                     <NeedProvidedNeedAttributes>
@@ -196,7 +196,7 @@
                     <AdditionalNeedAttributes>
                         <Belief>
                             <AmountOrPercent>
-                                <Value>3</Value>
+                                <Value>2</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Belief>

@@ -89,13 +89,13 @@
                     <AdditionalNeedAttributes>
                         <Belief>
                             <AmountOrPercent>
-                                <Value>3</Value>
+                                <Value>2</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Belief>
                         <Money>
                             <AmountOrPercent>
-                                <Value>2</Value>
+                                <Value>1</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Money>
@@ -169,11 +169,11 @@
                     <GoodConsumptionUpgrade>
                         <Item>
                             <ProvidedNeed>2146</ProvidedNeed>
-                            <AmountInPercent>25</AmountInPercent>
+                            <AmountInPercent>15</AmountInPercent>
                         </Item>
                         <Item>
                             <ProvidedNeed>2156</ProvidedNeed>
-                            <AmountInPercent>25</AmountInPercent>
+                            <AmountInPercent>15</AmountInPercent>
                         </Item>
                     </GoodConsumptionUpgrade>
                     <NeedProvidedNeedAttributes>
@@ -188,13 +188,13 @@
                     <AdditionalNeedAttributes>
                         <Belief>
                             <AmountOrPercent>
-                                <Value>3</Value>
+                                <Value>2</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Belief>
                         <Money>
                             <AmountOrPercent>
-                                <Value>2</Value>
+                                <Value>1</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Money>
