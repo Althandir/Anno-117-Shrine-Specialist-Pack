@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000329</GUID>
             <Name>Specialist AreaEffect-MinorCeresShrine-C</Name>
-            <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+            <IconFilename>data/base/graphics/icons/Minor/MinorCeresShrine.png</IconFilename>
             <InfoDescription>1600000330</InfoDescription>
           </Standard>
           <Effect>
@@ -53,7 +53,7 @@
                 <Standard>
                     <GUID>1600000330</GUID>
                     <Name>Specialist AreaEffect-MinorCeresShrine-C BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Minor/MinorCeresShrine.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000329</OasisId>
@@ -96,7 +96,7 @@
                 <Standard>
                     <GUID>1600000331</GUID>
                     <Name>Specialist AreaEffect-MinorCeresShrine-C FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Minor/MinorCeresShrine.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -128,7 +128,7 @@
                 <Standard>
                     <GUID>1600000332</GUID>
                     <Name>Specialist AreaEffect-MinorCeresShrine-C FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Minor/MinorCeresShrine.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000329</OasisId>

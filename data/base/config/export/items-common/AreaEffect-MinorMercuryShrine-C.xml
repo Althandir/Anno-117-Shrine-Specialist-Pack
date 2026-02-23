@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000345</GUID>
             <Name>Specialist AreaEffect-MinorMercuryShrine-C</Name>
-            <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+            <IconFilename>data/base/graphics/icons/Minor/MinorMercuryShrine.png</IconFilename>
             <InfoDescription>1600000346</InfoDescription>
           </Standard>
           <Effect>
@@ -53,7 +53,7 @@
                 <Standard>
                     <GUID>1600000346</GUID>
                     <Name>Specialist AreaEffect-MinorMercuryShrine-C BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Minor/MinorMercuryShrine.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000345</OasisId>
@@ -96,7 +96,7 @@
                 <Standard>
                     <GUID>1600000347</GUID>
                     <Name>Specialist AreaEffect-MinorMercuryShrine-C FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Minor/MinorMercuryShrine.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -128,7 +128,7 @@
                 <Standard>
                     <GUID>1600000348</GUID>
                     <Name>Specialist AreaEffect-MinorMercuryShrine-C FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Minor/MinorMercuryShrine.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000345</OasisId>

@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000333</GUID>
             <Name>Specialist AreaEffect-MinorCernunnosShrine-C</Name>
-            <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+            <IconFilename>data/base/graphics/icons/Minor/MinorCernunosShrine.png</IconFilename>
             <InfoDescription>1600000334</InfoDescription>
           </Standard>
           <Effect>
@@ -53,7 +53,7 @@
                 <Standard>
                     <GUID>1600000334</GUID>
                     <Name>Specialist AreaEffect-MinorCernunnosShrine-C BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Minor/MinorCernunosShrine.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000333</OasisId>
@@ -96,7 +96,7 @@
                 <Standard>
                     <GUID>1600000335</GUID>
                     <Name>Specialist AreaEffect-MinorCernunnosShrine-C FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Minor/MinorCernunosShrine.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -128,7 +128,7 @@
                 <Standard>
                     <GUID>1600000336</GUID>
                     <Name>Specialist AreaEffect-MinorCernunnosShrine-C FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Minor/MinorCernunosShrine.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000333</OasisId>

@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000353</GUID>
             <Name>Specialist AreaEffect-MinorNeptuneShrine-C</Name>
-            <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+            <IconFilename>data/base/graphics/icons/Minor/MinorNeptuneShrine.png</IconFilename>
             <InfoDescription>1600000354</InfoDescription>
           </Standard>
           <Effect>
@@ -53,7 +53,7 @@
                 <Standard>
                     <GUID>1600000354</GUID>
                     <Name>Specialist AreaEffect-MinorNeptuneShrine-C BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Minor/MinorNeptuneShrine.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000353</OasisId>
@@ -96,7 +96,7 @@
                 <Standard>
                     <GUID>1600000355</GUID>
                     <Name>Specialist AreaEffect-MinorNeptuneShrine-C FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Minor/MinorNeptuneShrine.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -128,7 +128,7 @@
                 <Standard>
                     <GUID>1600000356</GUID>
                     <Name>Specialist AreaEffect-MinorNeptuneShrine-C FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Minor/MinorNeptuneShrine.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000353</OasisId>

@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000341</GUID>
             <Name>Specialist AreaEffect-MinorMarsShrine-C</Name>
-            <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+            <IconFilename>data/base/graphics/icons/Minor/MinorMarsShrine.png</IconFilename>
             <InfoDescription>1600000342</InfoDescription>
           </Standard>
           <Effect>
@@ -53,7 +53,7 @@
                 <Standard>
                     <GUID>1600000342</GUID>
                     <Name>Specialist AreaEffect-MinorMarsShrine-C BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Minor/MinorMarsShrine.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000341</OasisId>
@@ -96,7 +96,7 @@
                 <Standard>
                     <GUID>1600000343</GUID>
                     <Name>Specialist AreaEffect-MinorMarsShrine-C FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Minor/MinorMarsShrine.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -128,7 +128,7 @@
                 <Standard>
                     <GUID>1600000344</GUID>
                     <Name>Specialist AreaEffect-MinorMarsShrine-C FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Minor/MinorMarsShrine.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000341</OasisId>
