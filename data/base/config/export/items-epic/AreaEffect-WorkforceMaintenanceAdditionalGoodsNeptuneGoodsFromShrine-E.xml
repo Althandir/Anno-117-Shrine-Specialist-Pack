@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000381</GUID>
             <Name>Specialist AreaEffect-WorkforceMaintenanceAdditionalGoodsNeptuneGoodsFromShrine-E</Name>
-            <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+            <IconFilename>data/base/graphics/icons/AdditionalGoods/Shrine_AdditionalGoods_Roman_Neptune.png</IconFilename>
             <InfoDescription>1600000382</InfoDescription>
           </Standard>
           <Effect>
@@ -53,7 +53,7 @@
                 <Standard>
                     <GUID>1600000382</GUID>
                     <Name>Specialist AreaEffect-WorkforceMaintenanceAdditionalGoodsNeptuneGoodsFromShrine-E BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/AdditionalGoods/Shrine_AdditionalGoods_Roman_Neptune.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000381</OasisId>
@@ -105,7 +105,7 @@
                 <Standard>
                     <GUID>1600000383</GUID>
                     <Name>Specialist AreaEffect-WorkforceMaintenanceAdditionalGoodsNeptuneGoodsFromShrine-E FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/AdditionalGoods/Shrine_AdditionalGoods_Roman_Neptune.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -137,7 +137,7 @@
                 <Standard>
                     <GUID>1600000384</GUID>
                     <Name>Specialist AreaEffect-WorkforceMaintenanceAdditionalGoodsNeptuneGoodsFromShrine-E FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/AdditionalGoods/Shrine_AdditionalGoods_Roman_Neptune.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000381</OasisId>

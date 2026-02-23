@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000365</GUID>
             <Name>Specialist AreaEffect-WorkforceMaintenanceAdditionalGoodsEponaGoodsFromShrine-E</Name>
-            <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+            <IconFilename>data/base/graphics/icons/AdditionalGoods/Shrine_AdditionalGoods_Celtic_Epona.png</IconFilename>
             <InfoDescription>1600000366</InfoDescription>
           </Standard>
           <Effect>
@@ -53,7 +53,7 @@
                 <Standard>
                     <GUID>1600000366</GUID>
                     <Name>Specialist AreaEffect-WorkforceMaintenanceAdditionalGoodsEponaGoodsFromShrine-E BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/AdditionalGoods/Shrine_AdditionalGoods_Celtic_Epona.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000365</OasisId>
@@ -105,7 +105,7 @@
                 <Standard>
                     <GUID>1600000367</GUID>
                     <Name>Specialist AreaEffect-WorkforceMaintenanceAdditionalGoodsEponaGoodsFromShrine-E FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/AdditionalGoods/Shrine_AdditionalGoods_Celtic_Epona.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -137,7 +137,7 @@
                 <Standard>
                     <GUID>1600000368</GUID>
                     <Name>Specialist AreaEffect-WorkforceMaintenanceAdditionalGoodsEponaGoodsFromShrine-E FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/AdditionalGoods/Shrine_AdditionalGoods_Celtic_Epona.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000365</OasisId>

@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000361</GUID>
             <Name>Specialist AreaEffect-WorkforceMaintenanceAdditionalGoodsCernunnosGoodsFromShrine-E</Name>
-            <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+            <IconFilename>data/base/graphics/icons/AdditionalGoods/Shrine_AdditionalGoods_Celtic_Cernunnos.png</IconFilename>
             <InfoDescription>1600000362</InfoDescription>
           </Standard>
           <Effect>
@@ -53,7 +53,7 @@
                 <Standard>
                     <GUID>1600000362</GUID>
                     <Name>Specialist AreaEffect-WorkforceMaintenanceAdditionalGoodsCernunnosGoodsFromShrine-E BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/AdditionalGoods/Shrine_AdditionalGoods_Celtic_Cernunnos.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000361</OasisId>
@@ -105,7 +105,7 @@
                 <Standard>
                     <GUID>1600000363</GUID>
                     <Name>Specialist AreaEffect-WorkforceMaintenanceAdditionalGoodsCernunnosGoodsFromShrine-E FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/AdditionalGoods/Shrine_AdditionalGoods_Celtic_Cernunnos.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -137,7 +137,7 @@
                 <Standard>
                     <GUID>1600000364</GUID>
                     <Name>Specialist AreaEffect-WorkforceMaintenanceAdditionalGoodsCernunnosGoodsFromShrine-E FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/AdditionalGoods/Shrine_AdditionalGoods_Celtic_Cernunnos.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000361</OasisId>

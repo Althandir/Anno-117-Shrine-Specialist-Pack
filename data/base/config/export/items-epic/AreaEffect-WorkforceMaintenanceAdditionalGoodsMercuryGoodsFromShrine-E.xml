@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000373</GUID>
             <Name>Specialist AreaEffect-WorkforceMaintenanceAdditionalGoodsMercuryGoodsFromShrine-E</Name>
-            <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+            <IconFilename>data/base/graphics/icons/AdditionalGoods/Shrine_AdditionalGoods_Roman_Mercury.png</IconFilename>
             <InfoDescription>1600000374</InfoDescription>
           </Standard>
           <Effect>
@@ -53,7 +53,7 @@
                 <Standard>
                     <GUID>1600000374</GUID>
                     <Name>Specialist AreaEffect-WorkforceMaintenanceAdditionalGoodsMercuryGoodsFromShrine-E BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/AdditionalGoods/Shrine_AdditionalGoods_Roman_Mercury.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000373</OasisId>
@@ -105,7 +105,7 @@
                 <Standard>
                     <GUID>1600000375</GUID>
                     <Name>Specialist AreaEffect-WorkforceMaintenanceAdditionalGoodsMercuryGoodsFromShrine-E FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/AdditionalGoods/Shrine_AdditionalGoods_Roman_Mercury.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -137,7 +137,7 @@
                 <Standard>
                     <GUID>1600000376</GUID>
                     <Name>Specialist AreaEffect-WorkforceMaintenanceAdditionalGoodsMercuryGoodsFromShrine-E FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/AdditionalGoods/Shrine_AdditionalGoods_Roman_Mercury.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000373</OasisId>
