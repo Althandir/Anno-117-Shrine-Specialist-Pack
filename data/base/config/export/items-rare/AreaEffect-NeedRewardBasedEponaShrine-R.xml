@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000408</GUID>
             <Name>Specialist AreaEffect-NeedRewardBasedEponaShrine-R</Name>
-            <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+            <IconFilename>data/base/graphics/icons/NeedReward/NeedRewardEpona.png</IconFilename>
             <InfoDescription>1600000409</InfoDescription>
           </Standard>
           <Effect>
@@ -53,7 +53,7 @@
                 <Standard>
                     <GUID>1600000409</GUID>
                     <Name>Specialist AreaEffect-NeedRewardBasedEponaShrine-R BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/NeedReward/NeedRewardEpona.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000408</OasisId>
@@ -123,7 +123,7 @@
                 <Standard>
                     <GUID>1600000410</GUID>
                     <Name>Specialist AreaEffect-NeedRewardBasedEponaShrine-R FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/NeedReward/NeedRewardEpona.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -155,7 +155,7 @@
                 <Standard>
                     <GUID>1600000411</GUID>
                     <Name>Specialist AreaEffect-NeedRewardBasedEponaShrine-R FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/NeedReward/NeedRewardEpona.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000408</OasisId>

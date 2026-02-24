@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000412</GUID>
             <Name>Specialist AreaEffect-NeedRewardBasedMarsShrine-R</Name>
-            <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+            <IconFilename>data/base/graphics/icons/NeedReward/NeedRewardMars.png</IconFilename>
             <InfoDescription>1600000413</InfoDescription>
           </Standard>
           <Effect>
@@ -53,7 +53,7 @@
                 <Standard>
                     <GUID>1600000413</GUID>
                     <Name>Specialist AreaEffect-NeedRewardBasedMarsShrine-R BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/NeedReward/NeedRewardMars.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000412</OasisId>
@@ -123,7 +123,7 @@
                 <Standard>
                     <GUID>1600000414</GUID>
                     <Name>Specialist AreaEffect-NeedRewardBasedMarsShrine-R FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/NeedReward/NeedRewardMars.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -155,7 +155,7 @@
                 <Standard>
                     <GUID>1600000415</GUID>
                     <Name>Specialist AreaEffect-NeedRewardBasedMarsShrine-R FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/NeedReward/NeedRewardMars.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000412</OasisId>

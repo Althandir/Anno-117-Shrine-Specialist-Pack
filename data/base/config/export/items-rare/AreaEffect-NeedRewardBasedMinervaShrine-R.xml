@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000420</GUID>
             <Name>Specialist AreaEffect-NeedRewardBasedMinervaShrine-R</Name>
-            <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+            <IconFilename>data/base/graphics/icons/NeedReward/NeedRewardMinerva.png</IconFilename>
             <InfoDescription>1600000421</InfoDescription>
           </Standard>
           <Effect>
@@ -53,7 +53,7 @@
                 <Standard>
                     <GUID>1600000421</GUID>
                     <Name>Specialist AreaEffect-NeedRewardBasedMinervaShrine-R BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/NeedReward/NeedRewardMinerva.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000420</OasisId>
@@ -123,7 +123,7 @@
                 <Standard>
                     <GUID>1600000422</GUID>
                     <Name>Specialist AreaEffect-NeedRewardBasedMinervaShrine-R FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/NeedReward/NeedRewardMinerva.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -155,7 +155,7 @@
                 <Standard>
                     <GUID>1600000423</GUID>
                     <Name>Specialist AreaEffect-NeedRewardBasedMinervaShrine-R FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/NeedReward/NeedRewardMinerva.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000420</OasisId>

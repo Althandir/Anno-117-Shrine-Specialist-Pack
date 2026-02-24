@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000400</GUID>
             <Name>Specialist AreaEffect-NeedRewardBasedCeresShrine-R</Name>
-            <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+            <IconFilename>data/base/graphics/icons/NeedReward/NeedRewardCeres.png</IconFilename>
             <InfoDescription>1600000401</InfoDescription>
           </Standard>
           <Effect>
@@ -53,7 +53,7 @@
                 <Standard>
                     <GUID>1600000401</GUID>
                     <Name>Specialist AreaEffect-NeedRewardBasedCeresShrine-R BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/NeedReward/NeedRewardCeres.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000400</OasisId>
@@ -123,7 +123,7 @@
                 <Standard>
                     <GUID>1600000402</GUID>
                     <Name>Specialist AreaEffect-NeedRewardBasedCeresShrine-R FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/NeedReward/NeedRewardCeres.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -155,7 +155,7 @@
                 <Standard>
                     <GUID>1600000403</GUID>
                     <Name>Specialist AreaEffect-NeedRewardBasedCeresShrine-R FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/NeedReward/NeedRewardCeres.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000400</OasisId>

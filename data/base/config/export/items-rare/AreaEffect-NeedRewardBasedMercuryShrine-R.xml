@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000416</GUID>
             <Name>Specialist AreaEffect-NeedRewardBasedMercuryShrine-R</Name>
-            <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+            <IconFilename>data/base/graphics/icons/NeedReward/NeedRewardMercury.png</IconFilename>
             <InfoDescription>1600000417</InfoDescription>
           </Standard>
           <Effect>
@@ -53,7 +53,7 @@
                 <Standard>
                     <GUID>1600000417</GUID>
                     <Name>Specialist AreaEffect-NeedRewardBasedMercuryShrine-R BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/NeedReward/NeedRewardMercury.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000416</OasisId>
@@ -122,7 +122,7 @@
                 <Standard>
                     <GUID>1600000418</GUID>
                     <Name>Specialist AreaEffect-NeedRewardBasedMercuryShrine-R FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/NeedReward/NeedRewardMercury.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -154,7 +154,7 @@
                 <Standard>
                     <GUID>1600000419</GUID>
                     <Name>Specialist AreaEffect-NeedRewardBasedMercuryShrine-R FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/NeedReward/NeedRewardMercury.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000416</OasisId>
