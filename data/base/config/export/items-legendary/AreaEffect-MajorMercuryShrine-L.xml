@@ -8,7 +8,7 @@
             <Standard>
                 <GUID>1600000467</GUID>
                 <Name>Specialist AreaEffect-MajorMercuryShrine-L</Name>
-                <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                <IconFilename>data/base/graphics/icons/Major/MajorMercuryShrine.png</IconFilename>
                 <InfoDescription>1600000468</InfoDescription>
             </Standard>
             <Effect>
@@ -100,7 +100,7 @@
                 <Standard>
                     <GUID>1600000468</GUID>
                     <Name>Specialist AreaEffect-MajorMercuryShrine-L BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Major/MajorMercuryShrine.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000467</OasisId>
@@ -134,7 +134,7 @@
                 <Standard>
                     <GUID>1600000469</GUID>
                     <Name>Specialist AreaEffect-MajorMercuryShrine-L FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Major/MajorMercuryShrine.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -166,7 +166,7 @@
                 <Standard>
                     <GUID>1600000470</GUID>
                     <Name>Specialist AreaEffect-MajorMercuryShrine-L FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Major/MajorMercuryShrine.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000467</OasisId>
@@ -210,7 +210,7 @@
                 <Standard>
                     <GUID>1600000471</GUID>
                     <Name>Specialist AreaEffect-MajorMercuryShrine-L Boosted BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Major/MajorMercuryShrine.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000467</OasisId>
@@ -249,7 +249,7 @@
                 <Standard>
                     <GUID>1600000472</GUID>
                     <Name>Specialist AreaEffect-MajorMercuryShrine-L Boosted FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Major/MajorMercuryShrine.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -281,7 +281,7 @@
                 <Standard>
                     <GUID>1600000473</GUID>
                     <Name>Specialist AreaEffect-MajorMercuryShrine-L Boosted FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Major/MajorMercuryShrine.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000467</OasisId>

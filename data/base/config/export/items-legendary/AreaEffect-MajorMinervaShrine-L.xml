@@ -8,7 +8,7 @@
             <Standard>
                 <GUID>1600000474</GUID>
                 <Name>Specialist AreaEffect-MajorMinervaShrine-L</Name>
-                <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                <IconFilename>data/base/graphics/icons/Major/MajorMinervaShrine.png</IconFilename>
                 <InfoDescription>1600000475</InfoDescription>
             </Standard>
             <Effect>
@@ -100,7 +100,7 @@
                 <Standard>
                     <GUID>1600000475</GUID>
                     <Name>Specialist AreaEffect-MajorMinervaShrine-L BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Major/MajorMinervaShrine.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000474</OasisId>
@@ -134,7 +134,7 @@
                 <Standard>
                     <GUID>1600000476</GUID>
                     <Name>Specialist AreaEffect-MajorMinervaShrine-L FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Major/MajorMinervaShrine.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -166,7 +166,7 @@
                 <Standard>
                     <GUID>1600000477</GUID>
                     <Name>Specialist AreaEffect-MajorMinervaShrine-L FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Major/MajorMinervaShrine.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000474</OasisId>
@@ -216,7 +216,7 @@
                 <Standard>
                     <GUID>1600000478</GUID>
                     <Name>Specialist AreaEffect-MajorMinervaShrine-L Boosted BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Major/MajorMinervaShrine.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000474</OasisId>
@@ -255,7 +255,7 @@
                 <Standard>
                     <GUID>1600000479</GUID>
                     <Name>Specialist AreaEffect-MajorMinervaShrine-L Boosted FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Major/MajorMinervaShrine.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -287,7 +287,7 @@
                 <Standard>
                     <GUID>1600000480</GUID>
                     <Name>Specialist AreaEffect-MajorMinervaShrine-L Boosted FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Major/MajorMinervaShrine.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000474</OasisId>

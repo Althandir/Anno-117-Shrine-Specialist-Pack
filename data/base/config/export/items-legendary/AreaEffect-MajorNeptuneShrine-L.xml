@@ -8,7 +8,7 @@
             <Standard>
                 <GUID>1600000481</GUID>
                 <Name>Specialist AreaEffect-MajorNeptuneShrine-L</Name>
-                <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                <IconFilename>data/base/graphics/icons/Major/MajorNeptuneShrine.png</IconFilename>
                 <InfoDescription>1600000482</InfoDescription>
             </Standard>
             <Effect>
@@ -100,7 +100,7 @@
                 <Standard>
                     <GUID>1600000482</GUID>
                     <Name>Specialist AreaEffect-MajorNeptuneShrine-L BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Major/MajorNeptuneShrine.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000481</OasisId>
@@ -134,7 +134,7 @@
                 <Standard>
                     <GUID>1600000483</GUID>
                     <Name>Specialist AreaEffect-MajorNeptuneShrine-L FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Major/MajorNeptuneShrine.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -166,7 +166,7 @@
                 <Standard>
                     <GUID>1600000484</GUID>
                     <Name>Specialist AreaEffect-MajorNeptuneShrine-L FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Major/MajorNeptuneShrine.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000481</OasisId>
@@ -216,7 +216,7 @@
                 <Standard>
                     <GUID>1600000485</GUID>
                     <Name>Specialist AreaEffect-MajorNeptuneShrine-L Boosted BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Major/MajorNeptuneShrine.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000481</OasisId>
@@ -255,7 +255,7 @@
                 <Standard>
                     <GUID>1600000486</GUID>
                     <Name>Specialist AreaEffect-MajorNeptuneShrine-L Boosted FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Major/MajorNeptuneShrine.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -287,7 +287,7 @@
                 <Standard>
                     <GUID>1600000487</GUID>
                     <Name>Specialist AreaEffect-MajorNeptuneShrine-L Boosted FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Major/MajorNeptuneShrine.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000481</OasisId>

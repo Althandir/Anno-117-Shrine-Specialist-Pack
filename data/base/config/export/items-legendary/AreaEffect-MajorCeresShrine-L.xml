@@ -8,7 +8,7 @@
             <Standard>
                 <GUID>1600000439</GUID>
                 <Name>Specialist AreaEffect-MajorCeresShrine-L</Name>
-                <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                <IconFilename>data/base/graphics/icons/Major/MajorCeresShrine.png</IconFilename>
                 <InfoDescription>1600000440</InfoDescription>
             </Standard>
             <Effect>
@@ -100,7 +100,7 @@
                 <Standard>
                     <GUID>1600000440</GUID>
                     <Name>Specialist AreaEffect-MajorCeresShrine-L BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Major/MajorCeresShrine.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000439</OasisId>
@@ -134,7 +134,7 @@
                 <Standard>
                     <GUID>1600000441</GUID>
                     <Name>Specialist AreaEffect-MajorCeresShrine-L FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Major/MajorCeresShrine.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -166,7 +166,7 @@
                 <Standard>
                     <GUID>1600000442</GUID>
                     <Name>Specialist AreaEffect-MajorCeresShrine-L FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Major/MajorCeresShrine.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000439</OasisId>
@@ -216,7 +216,7 @@
                 <Standard>
                     <GUID>1600000443</GUID>
                     <Name>Specialist AreaEffect-MajorCeresShrine-L Boosted BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Major/MajorCeresShrine.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000439</OasisId>
@@ -255,7 +255,7 @@
                 <Standard>
                     <GUID>1600000444</GUID>
                     <Name>Specialist AreaEffect-MajorCeresShrine-L Boosted FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Major/MajorCeresShrine.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -287,7 +287,7 @@
                 <Standard>
                     <GUID>1600000445</GUID>
                     <Name>Specialist AreaEffect-MajorCeresShrine-L Boosted FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Major/MajorCeresShrine.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000439</OasisId>

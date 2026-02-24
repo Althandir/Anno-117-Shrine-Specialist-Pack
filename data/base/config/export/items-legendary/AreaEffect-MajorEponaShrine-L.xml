@@ -8,7 +8,7 @@
             <Standard>
                 <GUID>1600000453</GUID>
                 <Name>Specialist AreaEffect-MajorEponaShrine-L</Name>
-                <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                <IconFilename>data/base/graphics/icons/Major/MajorEponaShrine.png</IconFilename>
                 <InfoDescription>1600000454</InfoDescription>
             </Standard>
             <Effect>
@@ -100,7 +100,7 @@
                 <Standard>
                     <GUID>1600000454</GUID>
                     <Name>Specialist AreaEffect-MajorEponaShrine-L BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Major/MajorEponaShrine.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000453</OasisId>
@@ -134,7 +134,7 @@
                 <Standard>
                     <GUID>1600000455</GUID>
                     <Name>Specialist AreaEffect-MajorEponaShrine-L FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Major/MajorEponaShrine.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -166,7 +166,7 @@
                 <Standard>
                     <GUID>1600000456</GUID>
                     <Name>Specialist AreaEffect-MajorEponaShrine-L FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Major/MajorEponaShrine.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000453</OasisId>
@@ -216,7 +216,7 @@
                 <Standard>
                     <GUID>1600000457</GUID>
                     <Name>Specialist AreaEffect-MajorEponaShrine-L Boosted BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Major/MajorEponaShrine.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000453</OasisId>
@@ -255,7 +255,7 @@
                 <Standard>
                     <GUID>1600000458</GUID>
                     <Name>Specialist AreaEffect-MajorEponaShrine-L Boosted FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Major/MajorEponaShrine.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -287,7 +287,7 @@
                 <Standard>
                     <GUID>1600000459</GUID>
                     <Name>Specialist AreaEffect-MajorEponaShrine-L Boosted FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Major/MajorEponaShrine.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000453</OasisId>
