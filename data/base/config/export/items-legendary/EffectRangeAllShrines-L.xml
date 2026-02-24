@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000385</GUID>
             <Name>Specialist EffectRangeAllShrines-L</Name>
-            <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+            <IconFilename>data/base/graphics/icons/EffectRange/EffectRangeShrines-L.png</IconFilename>
             <InfoDescription>1600000386</InfoDescription>
           </Standard>
           <Effect>
@@ -130,7 +130,7 @@
                 <Standard>
                     <GUID>1600000386</GUID>
                     <Name>Specialist EffectRangeAllShrines-L BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/EffectRange/EffectRangeShrines-L.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000385</OasisId>
@@ -166,7 +166,7 @@
                 <Standard>
                     <GUID>1600000387</GUID>
                     <Name>Specialist EffectRangeAllShrines-L BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/EffectRange/EffectRangeShrines-L.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000385</OasisId>
