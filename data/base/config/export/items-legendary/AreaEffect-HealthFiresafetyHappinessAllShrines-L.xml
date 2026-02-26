@@ -8,7 +8,7 @@
             <Standard>
                 <GUID>1600000432</GUID>
                 <Name>Specialist AreaEffect-HealthFiresafetyHappinessAllShrines-L</Name>
-                <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                <IconFilename>data/base/graphics/icons/general/AllShrinesAll-L.png</IconFilename>
                 <InfoDescription>1600000433</InfoDescription>
             </Standard>
             <Effect>
@@ -100,7 +100,7 @@
                 <Standard>
                     <GUID>1600000433</GUID>
                     <Name>Specialist AreaEffect-HealthFiresafetyHappinessAllShrines-L BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/general/AllShrinesAll-L.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000432</OasisId>
@@ -134,7 +134,7 @@
                 <Standard>
                     <GUID>1600000434</GUID>
                     <Name>Specialist AreaEffect-HealthFiresafetyHappinessAllShrines-L FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/general/AllShrinesAll-L.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -166,7 +166,7 @@
                 <Standard>
                     <GUID>1600000435</GUID>
                     <Name>Specialist AreaEffect-HealthFiresafetyHappinessAllShrines-L FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/general/AllShrinesAll-L.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000432</OasisId>
@@ -222,7 +222,7 @@
                 <Standard>
                     <GUID>1600000436</GUID>
                     <Name>Specialist AreaEffect-HealthFiresafetyHappinessAllShrines-L Boosted BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/general/AllShrinesAll-L.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000432</OasisId>
@@ -261,7 +261,7 @@
                 <Standard>
                     <GUID>1600000437</GUID>
                     <Name>Specialist AreaEffect-HealthFiresafetyHappinessAllShrines-L Boosted FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/general/AllShrinesAll-L.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -293,7 +293,7 @@
                 <Standard>
                     <GUID>1600000438</GUID>
                     <Name>Specialist AreaEffect-HealthFiresafetyHappinessAllShrines-L Boosted FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/general/AllShrinesAll-L.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000432</OasisId>
