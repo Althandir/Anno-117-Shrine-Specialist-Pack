@@ -29,7 +29,7 @@
           <Item>
             <Niche>Religion</Niche>  
             <TradePrice>5000</TradePrice> 
-            <BarkPool>83311</BarkPool> <!-- <GUID>83311</GUID> -->
+            <BarkPool>83333</BarkPool> <!-- <GUID>83333</GUID> -->
             <Rarity>Common</Rarity> 
           </Item>
           <Locked>
