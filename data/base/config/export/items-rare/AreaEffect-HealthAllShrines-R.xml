@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000396</GUID>
             <Name>Specialist AreaEffect-HealthAllShrines-R</Name>
-            <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+            <IconFilename>data/base/graphics/icons/general/AllShrinesHealth.png</IconFilename>
             <InfoDescription>1600000397</InfoDescription>
           </Standard>
           <Effect>
@@ -53,7 +53,7 @@
                 <Standard>
                     <GUID>1600000397</GUID>
                     <Name>Specialist AreaEffect-HealthAllShrines-R BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/general/AllShrinesHealth.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000396</OasisId>
@@ -87,7 +87,7 @@
                 <Standard>
                     <GUID>1600000398</GUID>
                     <Name>Specialist AreaEffect-HealthAllShrines-R FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/general/AllShrinesHealth.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -119,7 +119,7 @@
                 <Standard>
                     <GUID>1600000399</GUID>
                     <Name>Specialist AreaEffect-HealthAllShrines-R FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/general/AllShrinesHealth.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000396</OasisId>
