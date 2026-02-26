@@ -1,0 +1,39 @@
+<ModOps>
+<!-- Add to RewardPools -->
+<!-- RewardList Religion Legendary -->
+<Group>
+    <ModOp Type="add" GUID="121868" Path="/Values/RewardPool/ItemsPool">
+    <Item>
+        <ItemLink>1600000385</ItemLink>
+    </Item>
+    <Item>
+        <ItemLink>1600000428</ItemLink>
+    </Item>
+    <Item>
+        <ItemLink>1600000432</ItemLink>
+    </Item>
+    <Item>
+        <ItemLink>1600000439</ItemLink>
+    </Item>
+    <Item>
+        <ItemLink>1600000446</ItemLink>
+    </Item>
+    <Item>
+        <ItemLink>1600000453</ItemLink>
+    </Item>
+    <Item>
+        <ItemLink>1600000460</ItemLink>
+    </Item>
+    <Item>
+        <ItemLink>1600000467</ItemLink>
+    </Item>
+    <Item>
+        <ItemLink>1600000474</ItemLink>
+    </Item>
+    <Item>
+        <ItemLink>1600000481</ItemLink>
+    </Item>
+    </ModOp>
+</Group>
+
+</ModOps>

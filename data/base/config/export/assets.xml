@@ -66,6 +66,10 @@
 <Include File="pools/AssetList/AssetListPool.xml" />
 <Include File="pools/RewardPool/RewardPool-AllItems&Specialists.xml" />
 
+<Include File="pools/RewardPool/RewardPool-Religion-C.xml" />
+<Include File="pools/RewardPool/RewardPool-Religion-R.xml" />
+<Include File="pools/RewardPool/RewardPool-Religion-E.xml" />
+<Include File="pools/RewardPool/RewardPool-Religion-L.xml" />
 <!-- Add to Traderpools --> 
 
 <Include File="pools/Traders/pools-common.xml" />
