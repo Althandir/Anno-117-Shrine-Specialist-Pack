@@ -8,7 +8,7 @@
             <Standard>
                 <GUID>1600000428</GUID>
                 <Name>Specialist AreaEffect-AdditionalSpecialistSlotFromShrine-L</Name>
-                <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                <IconFilename>data/base/graphics/icons/general/AdditionalSpecialistShrine-L.png</IconFilename>
                 <InfoDescription>1600000429</InfoDescription>
             </Standard>
             <Effect>
@@ -100,7 +100,7 @@
                 <Standard>
                     <GUID>1600000429</GUID>
                     <Name>Specialist AreaEffect-AdditionalSpecialistSlotFromShrine-L BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/general/AdditionalSpecialistShrine-L.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000428</OasisId>
@@ -140,7 +140,7 @@
                 <Standard>
                     <GUID>1600000430</GUID>
                     <Name>Specialist AreaEffect-AdditionalSpecialistSlotFromShrine-L FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/general/AdditionalSpecialistShrine-L.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>ObjectsInArea</EffectScope>
@@ -172,7 +172,7 @@
                 <Standard>
                     <GUID>1600000431</GUID>
                     <Name>Specialist AreaEffect-AdditionalSpecialistSlotFromShrine-L ShipBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/general/AdditionalSpecialistShrine-L.png</IconFilename>
                 </Standard>
                 <HealthUpgrade/>
                 <VehicleUpgrade/>
