@@ -6,12 +6,12 @@
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
         <Text>
-            <Text>Specialist EffectRangeAllShrines-C</Text>
+            <Text>Shrine Visitor</Text>
             <LineId>1600000327</LineId> <!-- <GUID>1600000327</GUID> -->
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Test Text. Meb Meb!&#xD;Hint: This Effect can stack.</Text>
+            <Text>Admires every type of shrine.&#xD;Hint: This Effect can stack.</Text>
             <LineId>1600000328</LineId> 
         </Text>
       </ModOp>
@@ -22,12 +22,12 @@
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
         <Text>
-            <Text>Specialist AreaEffect-MinorCeresShrine-C</Text>
+            <Text>Follower of Ceres</Text>
             <LineId>1600000329</LineId> <!-- <GUID>1600000329</GUID> -->
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Test Text. Meb Meb!</Text>
+            <Text>Prays to find the blessing of Ceres.</Text>
             <LineId>1600000330</LineId> 
         </Text>
       </ModOp>
@@ -38,12 +38,12 @@
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
         <Text>
-            <Text>Specialist AreaEffect-MinorCernunnosShrine-C</Text>
+            <Text>Follower of Cernunnos</Text>
             <LineId>1600000333</LineId> <!-- <GUID>1600000333</GUID> -->
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Test Text. Meb Meb!</Text>
+            <Text>Prays to find the blessing of Cernunnos.</Text>
             <LineId>1600000334</LineId> 
         </Text>
       </ModOp>
@@ -54,28 +54,28 @@
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
         <Text>
-            <Text>Specialist AreaEffect-MinorEponaShrine-C</Text>
+            <Text>Follower of Epona</Text>
             <LineId>1600000337</LineId> <!-- <GUID>1600000337</GUID> -->
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Test Text. Meb Meb!</Text>
+            <Text>Prays to find the blessing of Epona.</Text>
             <LineId>1600000338</LineId> 
         </Text>
       </ModOp>
     </Group>
 
-    <!-- Specialist AreaEffect-MinorCeresShrine-C -->
+    <!-- Specialist AreaEffect-MinorMarsShrine-C -->
     <Group>
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
         <Text>
-            <Text>Specialist AreaEffect-MinorMarsShrine-C</Text>
+            <Text>Follower of Mars</Text>
             <LineId>1600000341</LineId> <!-- <GUID>1600000341</GUID> -->
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Test Text. Meb Meb!</Text>
+            <Text>Prays to find the blessing of Mars.</Text>
             <LineId>1600000342</LineId> 
         </Text>
       </ModOp>
@@ -86,12 +86,12 @@
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
         <Text>
-            <Text>Specialist AreaEffect-MinorMercuryShrine-C</Text>
+            <Text>Follower of Mercury-Lugus</Text>
             <LineId>1600000345</LineId> <!-- <GUID>1600000345</GUID> -->
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Test Text. Meb Meb!</Text>
+            <Text>Prays to find the blessing of Mercury-Lugus.</Text>
             <LineId>1600000346</LineId> 
         </Text>
       </ModOp>
@@ -102,12 +102,12 @@
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
         <Text>
-            <Text>Specialist AreaEffect-MinorMinervaShrine-C</Text>
+            <Text>Follower of Minerva</Text>
             <LineId>1600000349</LineId> <!-- <GUID>1600000349</GUID> -->
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Test Text. Meb Meb!</Text>
+            <Text>Prays to find the blessing of Minerva.</Text>
             <LineId>1600000350</LineId> 
         </Text>
       </ModOp>
@@ -118,12 +118,12 @@
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
         <Text>
-            <Text>Specialist AreaEffect-MinorNeptuneShrine-C</Text>
+            <Text>Follower of Neptune</Text>
             <LineId>1600000353</LineId> <!-- <GUID>1600000353</GUID> -->
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Test Text. Meb Meb!</Text>
+            <Text>Prays to find the blessing of Neptune.</Text>
             <LineId>1600000354</LineId> 
         </Text>
       </ModOp>
@@ -139,12 +139,12 @@
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
         <Text>
-            <Text>Specialist AreaEffect-FiresafetyAllShrines-R</Text>
+            <Text>Blessed Vigiles</Text>
             <LineId>1600000388</LineId> <!-- <GUID>1600000388</GUID> -->
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Test Text. Meb Meb!</Text>
+            <Text>Has himself blessed before every deployment to a fire.</Text>
             <LineId>1600000389</LineId> 
         </Text>
       </ModOp>
@@ -155,7 +155,7 @@
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
         <Text>
-            <Text>Specialist AreaEffect-HappinessAllShrines-R</Text>
+            <Text>Blessed Custodes</Text>
             <LineId>1600000392</LineId> <!-- <GUID>1600000392</GUID> -->
         </Text>
         <!-- Description -->
@@ -171,12 +171,12 @@
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
         <Text>
-            <Text>Specialist AreaEffect-HealthAllShrines-R</Text>
+            <Text>Smelling Shrine Visitor</Text>
             <LineId>1600000396</LineId> <!-- <GUID>1600000396</GUID> -->
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Test Text. Meb Meb!</Text>
+            <Text>Hopes for a divine blessing to remove her smell.</Text>
             <LineId>1600000397</LineId> 
         </Text>
       </ModOp>
@@ -188,7 +188,7 @@
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
         <Text>
-            <Text>Specialist AreaEffect-NeedRewardBasedCeresShrine-R</Text>
+            <Text>Sacrifice Collector of Ceres</Text>
             <LineId>1600000400</LineId> <!-- <GUID>1600000400</GUID> -->
         </Text>
         <!-- Description -->
@@ -204,7 +204,7 @@
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
         <Text>
-            <Text>Specialist AreaEffect-NeedRewardBasedCernunnosShrine-R</Text>
+            <Text>Sacrifice Collector of Cernunnos</Text>
             <LineId>1600000404</LineId> <!-- <GUID>1600000404</GUID> -->
         </Text>
         <!-- Description -->
@@ -220,7 +220,7 @@
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
         <Text>
-            <Text>Specialist AreaEffect-NeedRewardBasedEponaShrine-R</Text>
+            <Text>Sacrifice Collector of Epona</Text>
             <LineId>1600000408</LineId> <!-- <GUID>1600000408</GUID> -->
         </Text>
         <!-- Description -->
@@ -236,7 +236,7 @@
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
         <Text>
-            <Text>Specialist AreaEffect-NeedRewardBasedMarsShrine-R</Text>
+            <Text>Sacrifice Collector of Mars</Text>
             <LineId>1600000412</LineId> <!-- <GUID>1600000412</GUID> -->
         </Text>
         <!-- Description -->
@@ -252,7 +252,7 @@
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
         <Text>
-            <Text>Specialist AreaEffect-NeedRewardBasedMercuryShrine-R</Text>
+            <Text>Sacrifice Collector of Mercury-Lugus</Text>
             <LineId>1600000416</LineId> <!-- <GUID>1600000416</GUID> -->
         </Text>
         <!-- Description -->
@@ -268,7 +268,7 @@
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
         <Text>
-            <Text>Specialist AreaEffect-NeedRewardBasedMinervaShrine-R</Text>
+            <Text>Sacrifice Collector of Minerva</Text>
             <LineId>1600000420</LineId> <!-- <GUID>1600000420</GUID> -->
         </Text>
         <!-- Description -->
@@ -284,7 +284,7 @@
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
         <Text>
-            <Text>Specialist AreaEffect-NeedRewardBasedNeptuneShrine-R</Text>
+            <Text>Sacrifice Collector of Neptune</Text>
             <LineId>1600000424</LineId> <!-- <GUID>1600000424</GUID> -->
         </Text>
         <!-- Description -->
