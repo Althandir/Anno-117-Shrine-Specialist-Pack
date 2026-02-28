@@ -430,7 +430,7 @@
         </Text>
         <!-- Boosted Hint -->
         <Text>
-            <Text>Have a minimun of 8 Shrines of any deity on this Island&#xD;Hint: Effect applies Islandwide on all Villas and Officia.</Text>
+            <Text>Have at least 8 Shrines of any deity on this Island&#xD;Hint: Effect applies Islandwide on all Villas and Officia.</Text>
             <LineId>1600000430</LineId> 
         </Text>
       </ModOp>
@@ -451,7 +451,7 @@
         </Text>
         <!-- Boosted Hint -->
         <Text>
-            <Text>Have a minimun of 4 Shrines of any deity on this Island</Text>
+            <Text>Have at least 4 Shrines of any deity on this Island</Text>
             <LineId>1600000434</LineId> 
         </Text>
       </ModOp>
