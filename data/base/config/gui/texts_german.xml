@@ -1,0 +1,631 @@
+<ModOps>
+  <!-- Common Specialists -->
+  <Group>
+  <!-- Specialist EffectRangeAllShrines-C -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Schreinbesucherin</Text>
+            <LineId>1600000327</LineId> <!-- <GUID>1600000327</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Bewundert jede Art von Schrein.&#xD;Hinweis: Dieser Effekt ist stapelbar.</Text>
+            <LineId>1600000328</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
+
+    <!-- Specialist AreaEffect-MinorCeresShrine-C -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Anhänger der Ceres</Text>
+            <LineId>1600000329</LineId> <!-- <GUID>1600000329</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Betet am Schrein um den Segen von Ceres.</Text>
+            <LineId>1600000330</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
+
+    <!-- Specialist AreaEffect-MinorCernunnosShrine-C -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Anhänger des Cernunnos</Text>
+            <LineId>1600000333</LineId> <!-- <GUID>1600000333</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Betet am Schrein um den Segen von Cernunnos.</Text>
+            <LineId>1600000334</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
+
+    <!-- Specialist AreaEffect-MinorEponaShrine-C -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Anhänger der Epona</Text>
+            <LineId>1600000337</LineId> <!-- <GUID>1600000337</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Betet am Schrein um den Segen von Epona.</Text>
+            <LineId>1600000338</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
+
+    <!-- Specialist AreaEffect-MinorMarsShrine-C -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Anhänger des Mars</Text>
+            <LineId>1600000341</LineId> <!-- <GUID>1600000341</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Betet am Schrein um den Segen von Mars.</Text>
+            <LineId>1600000342</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
+
+    <!-- Specialist AreaEffect-MinorMercuryShrine-C -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Anhänger des Merkur-Lugus</Text>
+            <LineId>1600000345</LineId> <!-- <GUID>1600000345</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Betet am Schrein um den Segen von Merkur-Lugus.</Text>
+            <LineId>1600000346</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
+
+    <!-- Specialist AreaEffect-MinorMinervaShrine-C -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Anhänger der Minerva</Text>
+            <LineId>1600000349</LineId> <!-- <GUID>1600000349</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Betet am Schrein um den Segen von Minerva.</Text>
+            <LineId>1600000350</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
+
+    <!-- Specialist AreaEffect-MinorNeptuneShrine-C -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Anhänger des Neptun</Text>
+            <LineId>1600000353</LineId> <!-- <GUID>1600000353</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Betet am Schrein um den Segen von Neptun.</Text>
+            <LineId>1600000354</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
+
+  </Group>
+
+  <!-- Rare Specialists -->
+  <Group>
+
+    <!-- Specialist AreaEffect-FiresafetyAllShrines-R -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Gesegneter Vigiles</Text>
+            <LineId>1600000388</LineId> <!-- <GUID>1600000388</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Lässt sich vor jeden Brandeinsatz segnen.</Text>
+            <LineId>1600000389</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
+
+    <!-- Specialist AreaEffect-HappinessAllShrines-R -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Gesegneter Custodes</Text>
+            <LineId>1600000392</LineId> <!-- <GUID>1600000392</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Hält die Straßen sicher mit dem Segen der Götter.</Text>
+            <LineId>1600000393</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
+
+    <!-- Specialist AreaEffect-HealthAllShrines-R -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Unangehm duftene Schreinbesucherin</Text>
+            <LineId>1600000396</LineId> <!-- <GUID>1600000396</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Hofft auf einen göttlichen Segen um ihren Geruch loszuwerden.</Text>
+            <LineId>1600000397</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
+
+
+    <!-- Specialist AreaEffect-NeedRewardBasedCeresShrine-R -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Opfergabensammler der Ceres</Text>
+            <LineId>1600000400</LineId> <!-- <GUID>1600000400</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Sammelt Waren für ein Opfer im Namen von Ceres.&#xD;Hinweis: Beeinflusst alle Wohngebäude in Straßenreichweite des Schreins.</Text>
+            <LineId>1600000401</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
+
+    <!-- Specialist AreaEffect-NeedRewardBasedCernunnosShrine-R -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Opfergabensammler des Cernunnos</Text>
+            <LineId>1600000404</LineId> <!-- <GUID>1600000404</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Sammelt Waren für ein Opfer im Namen von Cernunnos.&#xD;Hinweis: Beeinflusst alle Wohngebäude in Straßenreichweite des Schreins.</Text>
+            <LineId>1600000405</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
+
+    <!-- Specialist AreaEffect-NeedRewardBasedEponaShrine-R -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Opfergabensammler der Epona</Text>
+            <LineId>1600000408</LineId> <!-- <GUID>1600000408</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Sammelt Waren für ein Opfer im Namen von Epona.&#xD;Hinweis: Beeinflusst alle Wohngebäude in Straßenreichweite des Schreins.</Text>
+            <LineId>1600000409</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
+
+    <!-- Specialist AreaEffect-NeedRewardBasedMarsShrine-R -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Opfergabensammler des Mars</Text>
+            <LineId>1600000412</LineId> <!-- <GUID>1600000412</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Sammelt Waren für ein Opfer im Namen von Mars.&#xD;Hinweis: Beeinflusst alle Wohngebäude in Straßenreichweite des Schreins.</Text>
+            <LineId>1600000413</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
+
+    <!-- Specialist AreaEffect-NeedRewardBasedMercuryShrine-R -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Opfergabensammler des Merkur-Lugus</Text>
+            <LineId>1600000416</LineId> <!-- <GUID>1600000416</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Sammelt Waren für ein Opfer im Namen von Merkur-Lugus.&#xD;Hinweis: Beeinflusst alle Wohngebäude in Straßenreichweite des Schreins.</Text>
+            <LineId>1600000417</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
+
+    <!-- Specialist AreaEffect-NeedRewardBasedMinervaShrine-R -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Opfergabensammler der Minerva</Text>
+            <LineId>1600000420</LineId> <!-- <GUID>1600000420</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Sammelt Waren für ein Opfer im Namen von Minerva.&#xD;Hinweis: Beeinflusst alle Wohngebäude in Straßenreichweite des Schreins.</Text>
+            <LineId>1600000421</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
+
+    <!-- Specialist AreaEffect-NeedRewardBasedNeptuneShrine-R -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Opfergabensammler des Neptuns</Text>
+            <LineId>1600000424</LineId> <!-- <GUID>1600000424</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Sammelt Waren für ein Opfer im Namen von Neptun.&#xD;Hinweis: Beeinflusst alle Wohngebäude in Straßenreichweite des Schreins.</Text>
+            <LineId>1600000425</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
+  </Group>
+
+  <!-- Epic Specialists -->
+  <Group>
+    <!-- Specialist AreaEffect-WorkforceMaintenanceAdditionalGoodsCeresGoodsFromShrine-E -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Wanderarbeiter der Ceres</Text>
+            <LineId>1600000357</LineId> <!-- <GUID>1600000353</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Auserwählt von Ceres um ihr bei ihrer Arbeit zu helfen.&#xD;Hinweis: Effekt wirkt auf alle von dieser Gottheit gesegneten Ketten.</Text>
+            <LineId>1600000358</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
+
+    <!-- Specialist AreaEffect-WorkforceMaintenanceAdditionalGoodsCernunnosGoodsFromShrine-E -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Wanderarbeiter des Cernunnos</Text>
+            <LineId>1600000361</LineId> <!-- <GUID>1600000361</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Auserwählt von Cernunnos um ihm bei seiner Arbeit zu helfen.&#xD;Hinweis: Effekt wirkt auf alle von dieser Gottheit gesegneten Ketten.</Text>
+            <LineId>1600000362</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
+
+    <!-- Specialist AreaEffect-WorkforceMaintenanceAdditionalGoodsEponaGoodsFromShrine-E -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Wanderarbeiter der Epona</Text>
+            <LineId>1600000365</LineId> <!-- <GUID>1600000365</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Auserwählt von Epona um ihr bei ihrer Arbeit zu helfen.&#xD;Hinweis: Effekt wirkt auf alle von dieser Gottheit gesegneten Ketten.</Text>
+            <LineId>1600000366</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
+
+    <!-- Specialist AreaEffect-WorkforceMaintenanceAdditionalGoodsMarsGoodsFromShrine-E -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Wanderarbeiter des Mars</Text>
+            <LineId>1600000369</LineId> <!-- <GUID>1600000369</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Auserwählt von Mars um ihm bei seiner Arbeit zu helfen.&#xD;Hinweis: Effekt wirkt auf alle von dieser Gottheit gesegneten Ketten.</Text>
+            <LineId>1600000370</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
+
+    <!-- Specialist AreaEffect-WorkforceMaintenanceAdditionalGoodsMercuryGoodsFromShrine-E -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Wanderarbeiter des Merkur-Lugus</Text>
+            <LineId>1600000373</LineId> <!-- <GUID>1600000373</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Auserwählt von Merkur-Lugus um ihm bei seiner Arbeit zu helfen.&#xD;Hinweis: Effekt wirkt auf alle von dieser Gottheit gesegneten Ketten.&#xD;Für Merkur-Lugus sind dies Gold und Silber.</Text>
+            <LineId>1600000374</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
+
+    <!-- Specialist AreaEffect-WorkforceMaintenanceAdditionalGoodsMinervaGoodsFromShrine-E -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Wanderarbeiter der Minerva</Text>
+            <LineId>1600000377</LineId> <!-- <GUID>1600000377</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Auserwählt von Minerva um ihr bei ihrer Arbeit zu helfen.&#xD;Hinweis: Effekt wirkt auf alle von dieser Gottheit gesegneten Ketten.</Text>
+            <LineId>1600000378</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
+
+    <!-- Specialist AreaEffect-WorkforceMaintenanceAdditionalGoodsNeptuneGoodsFromShrine-E -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Wanderarbeiter des Neptun</Text>
+            <LineId>1600000381</LineId> <!-- <GUID>1600000381</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Auserwählt von Neptun um ihm bei seiner Arbeit zu helfen.&#xD;Hinweis: Effekt wirkt auf alle von dieser Gottheit gesegneten Ketten.</Text>
+            <LineId>1600000382</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
+
+  </Group>
+
+  <!-- Legendary Specialists -->
+  <Group>
+
+    <!-- Specialist AreaEffect-AdditionalSpecialistSlotFromShrine-L -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Marcus Prodigiosus Nuntius, Wundersucher</Text>
+            <LineId>1600000428</LineId> <!-- <GUID>1600000428</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Verbreitet die Kunde über die heiligen Schreine auf dieser Insel durch das gesamte Reich.&#xD;Hinweis: Finde die Vorlieben dieses Spezialisten heraus und erfülle diese um den Effect freizuschalten.</Text>
+            <LineId>1600000429</LineId> 
+        </Text>
+        <!-- Boosted Hint -->
+        <Text>
+            <Text>Besitze mindestens 8 beliebige Schreine auf dieser Insel.&#xD;Hinweis: Effekt wirkt Inselweit auf die Villa und alle Officia. </Text>
+            <LineId>1600000430</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
+
+    <!-- Specialist AreaEffect-HealthFiresafetyHappinessAllShrines-L -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Magnanimus Vias, der großherzige Geist</Text>
+            <LineId>1600000432</LineId> <!-- <GUID>1600000432</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Bewahrt die Tugenden aller Gottheiten tief in seinem Herzen auf und hilft den Bürgern dabei ihren gewünschten Weg zur Erlösung zu gehen.</Text>
+            <LineId>1600000433</LineId> 
+        </Text>
+        <!-- Boosted Hint -->
+        <Text>
+            <Text>Besitze mindestens 4 beliebige Schreine auf dieser Insel.</Text>
+            <LineId>1600000434</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
+
+    <!-- Specialist EffectRangeAllShrines-L -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Memorata Peregrina, die unvergessliche Jüngerin</Text>
+            <LineId>1600000385</LineId> <!-- <GUID>1600000385</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Sie wandert gerne zwischen allen Schreinen der Insel umher, damit diese niemals in Vergessenheit geraten.&#xD;Hinweis: Dieser Effekt ist stapelbar.</Text>
+            <LineId>1600000386</LineId> 
+        </Text>
+        <!-- Boosted Hint -->
+        <Text>
+            <Text>Besitze eine ausreichend große und gläubige Bevölkerung auf dieser Insel. (mindestens. 5000 Einwohner & Glauben)</Text>
+            <LineId>1600000387</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
+
+    <!-- Specialist AreaEffect-MajorCeresShrine-L -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Gesegnete Anhängerin der Ceres</Text>
+            <LineId>1600000439</LineId> <!-- <GUID>1600000439</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Sie hat den Segen von Ceres gefunden und manifestiert diesen bei jedem Schrein von ihr auf dieser Insel.</Text>
+            <LineId>1600000440</LineId> 
+        </Text>
+        <!-- Boosted Hint -->
+        <Text>
+            <Text>Halte mindestens 5 Schreine von Ceres aktiv auf dieser Insel.</Text>
+            <LineId>1600000441</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
+
+    <!-- Specialist AreaEffect-MajorCernunnosShrine-L -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Gesegneter Wanderdruide des Cernunnos</Text>
+            <LineId>1600000446</LineId> <!-- <GUID>1600000446</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Er bringt den Segen von Cernunnos mit und manifestiert diesen bei jedem Schrein von ihm auf dieser Insel.</Text>
+            <LineId>1600000447</LineId> 
+        </Text>
+        <!-- Boosted Hint -->
+        <Text>
+            <Text>Halte mindestens 5 Schreine von Cernunnos aktiv auf dieser Insel.</Text>
+            <LineId>1600000448</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
+
+    <!-- Specialist AreaEffect-MajorEponaShrine-L -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Gesegneter Wanderdruide der Epona</Text>
+            <LineId>1600000453</LineId> <!-- <GUID>1600000453</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Er bringt den Segen von Epona mit und manifestiert diesen bei jedem Schrein von ihr auf dieser Insel.</Text>
+            <LineId>1600000454</LineId> 
+        </Text>
+        <!-- Boosted Hint -->
+        <Text>
+            <Text>Halte mindestens 5 Schreine von Epona aktiv auf dieser Insel.</Text>
+            <LineId>1600000455</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
+
+    <!-- Specialist AreaEffect-MajorMarsShrine-L -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Gesegnete Anhängerin des Mars</Text>
+            <LineId>1600000460</LineId> <!-- <GUID>1600000460</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Sie hat den Segen von Mars gefunden und manifestiert diesen bei jedem Schrein von ihm auf dieser Insel.</Text>
+            <LineId>1600000461</LineId> 
+        </Text>
+        <!-- Boosted Hint -->
+        <Text>
+            <Text>Halte mindestens 5 Schreine von Mars aktiv auf dieser Insel.</Text>
+            <LineId>1600000462</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
+
+    <!-- Specialist AreaEffect-MajorMercuryShrine-L -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Gesegnete Anhängerin des Merkur-Lugus</Text>
+            <LineId>1600000467</LineId> <!-- <GUID>1600000467</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Sie hat den Segen von Merkur-Lugus gefunden und manifestiert diesen bei jedem Schrein von ihm auf dieser Insel.</Text>
+            <LineId>1600000468</LineId> 
+        </Text>
+        <!-- Boosted Hint -->
+        <Text>
+            <Text>Halte mindestens 5 Schreine von Merkur-Lugus aktiv auf dieser Insel.</Text>
+            <LineId>1600000469</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
+
+    <!-- Specialist AreaEffect-MajorMinervaShrine-L -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Gesegnete Anhängerin der Minerva</Text>
+            <LineId>1600000474</LineId> <!-- <GUID>1600000474</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Sie hat den Segen von Minerva gefunden und manifestiert diesen bei jedem Schrein von ihr auf dieser Insel.</Text>
+            <LineId>1600000475</LineId> 
+        </Text>
+        <!-- Boosted Hint -->
+        <Text>
+            <Text>Halte mindestens 5 Schreine von Minerva aktiv auf dieser Insel.</Text>
+            <LineId>1600000476</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
+
+    <!-- Specialist AreaEffect-MajorNeptuneShrine-L -->
+    <Group>
+      <ModOp Add="/TextExport/Texts">
+        <!-- Title -->
+        <Text>
+            <Text>Gesegnete Anhängerin des Neptun</Text>
+            <LineId>1600000481</LineId> <!-- <GUID>1600000481</GUID> -->
+        </Text>
+        <!-- Description -->
+        <Text>
+            <Text>Sie hat den Segen von Neptun gefunden und manifestiert diesen bei jedem Schrein von ihm auf dieser Insel.</Text>
+            <LineId>1600000482</LineId> 
+        </Text>
+        <!-- Boosted Hint -->
+        <Text>
+            <Text>Halte mindestens 5 Schreine von Neptun aktiv auf dieser Insel.</Text>
+            <LineId>1600000483</LineId> 
+        </Text>
+      </ModOp>
+    </Group>
+
+  </Group>
+
+
+</ModOps>

@@ -11,7 +11,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Admires every type of shrine.&#xD;Hint: This Effect can stack.</Text>
+            <Text>Admires every type of shrine.&#xD;Hint: This effect is stackable.</Text>
             <LineId>1600000328</LineId> 
         </Text>
       </ModOp>
@@ -27,7 +27,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Prays to find the blessing of Ceres.</Text>
+            <Text>Prays at the shrine to find the blessing of Ceres.</Text>
             <LineId>1600000330</LineId> 
         </Text>
       </ModOp>
@@ -43,7 +43,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Prays to find the blessing of Cernunnos.</Text>
+            <Text>Prays at the shrine to find the blessing of Cernunnos.</Text>
             <LineId>1600000334</LineId> 
         </Text>
       </ModOp>
@@ -59,7 +59,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Prays to find the blessing of Epona.</Text>
+            <Text>Prays at the shrine to find the blessing of Epona.</Text>
             <LineId>1600000338</LineId> 
         </Text>
       </ModOp>
@@ -75,7 +75,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Prays to find the blessing of Mars.</Text>
+            <Text>Prays at the shrine to find the blessing of Mars.</Text>
             <LineId>1600000342</LineId> 
         </Text>
       </ModOp>
@@ -91,7 +91,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Prays to find the blessing of Mercury-Lugus.</Text>
+            <Text>Prays at the shrine to find the blessing of Mercury-Lugus.</Text>
             <LineId>1600000346</LineId> 
         </Text>
       </ModOp>
@@ -107,7 +107,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Prays to find the blessing of Minerva.</Text>
+            <Text>Prays at the shrine to find the blessing of Minerva.</Text>
             <LineId>1600000350</LineId> 
         </Text>
       </ModOp>
@@ -123,7 +123,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Prays to find the blessing of Neptune.</Text>
+            <Text>Prays at the shrine to find the blessing of Neptune.</Text>
             <LineId>1600000354</LineId> 
         </Text>
       </ModOp>
@@ -430,7 +430,7 @@
         </Text>
         <!-- Boosted Hint -->
         <Text>
-            <Text>Have at least 8 Shrines of any deity on this Island&#xD;Hint: Effect applies Islandwide on all Villas and Officia.</Text>
+            <Text>Have at least 8 Shrines of any deity on this Island.&#xD;Hint: Effect applies Islandwide on the Villa and all Officia.</Text>
             <LineId>1600000430</LineId> 
         </Text>
       </ModOp>
@@ -446,12 +446,12 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Has been born to keeps every the virtues of any deity deep in his heart and assists the citizens to follow their path to salvation.</Text>
+            <Text>Has been born to keep every virtues of the deities deep in his heart and assists the citizens to follow their desired path to salvation.</Text>
             <LineId>1600000433</LineId> 
         </Text>
         <!-- Boosted Hint -->
         <Text>
-            <Text>Have at least 4 Shrines of any deity on this Island</Text>
+            <Text>Have at least 4 Shrines of any deity on this Island.</Text>
             <LineId>1600000434</LineId> 
         </Text>
       </ModOp>
@@ -467,7 +467,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Enjoys wandering between all shrines on this island to keep them unforgotten.&#xD;Hint: This Effect can stack.</Text>
+            <Text>She likes to wander among all the shrines on this island so that they will never be forgotten.&#xD;Hint: This effect is stackable.</Text>
             <LineId>1600000386</LineId> 
         </Text>
         <!-- Boosted Hint -->
