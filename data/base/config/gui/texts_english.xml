@@ -160,7 +160,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Test Text. Meb Meb!</Text>
+            <Text>Keeps the Streets safe with the blessing of the gods.</Text>
             <LineId>1600000393</LineId> 
         </Text>
       </ModOp>
@@ -193,7 +193,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Test Text. Meb Meb!&#xD;Hint: Affects all Residences in street distance of the shrine.</Text>
+            <Text>Collects goods for a sacrifice in the name of Ceres.&#xD;Hint: Affects all Residences in street distance of the shrine.</Text>
             <LineId>1600000401</LineId> 
         </Text>
       </ModOp>
@@ -209,7 +209,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Test Text. Meb Meb!&#xD;Hint: Affects all Residences in street distance of the shrine.</Text>
+            <Text>Collects goods for a sacrifice in the name of Cernunnos.&#xD;Hint: Affects all Residences in street distance of the shrine.</Text>
             <LineId>1600000405</LineId> 
         </Text>
       </ModOp>
@@ -225,7 +225,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Test Text. Meb Meb!&#xD;Hint: Affects all Residences in street distance of the shrine.</Text>
+            <Text>Collects goods for a sacrifice in the name of Epona.&#xD;Hint: Affects all Residences in street distance of the shrine.</Text>
             <LineId>1600000409</LineId> 
         </Text>
       </ModOp>
@@ -241,7 +241,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Test Text. Meb Meb!&#xD;Hint: Affects all Residences in street distance of the shrine.</Text>
+            <Text>Collects goods for a sacrifice in the name of Mars.&#xD;Hint: Affects all Residences in street distance of the shrine.</Text>
             <LineId>1600000413</LineId> 
         </Text>
       </ModOp>
@@ -257,7 +257,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Test Text. Meb Meb!&#xD;Hint: Affects all Residences in street distance of the shrine.</Text>
+            <Text>Collects goods for a sacrifice in the name of Mercury-Lugus.&#xD;Hint: Affects all Residences in street distance of the shrine.</Text>
             <LineId>1600000417</LineId> 
         </Text>
       </ModOp>
@@ -273,7 +273,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Test Text. Meb Meb!&#xD;Hint: Affects all Residences in street distance of the shrine.</Text>
+            <Text>Collects goods for a sacrifice in the name of Minerva.&#xD;Hint: Affects all Residences in street distance of the shrine.</Text>
             <LineId>1600000421</LineId> 
         </Text>
       </ModOp>
@@ -289,7 +289,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Test Text. Meb Meb!&#xD;Hint: Affects all Residences in street distance of the shrine.</Text>
+            <Text>Collects goods for a sacrifice in the name of Neptune.&#xD;Hint: Affects all Residences in street distance of the shrine.</Text>
             <LineId>1600000425</LineId> 
         </Text>
       </ModOp>
@@ -303,12 +303,12 @@
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
         <Text>
-            <Text>Specialist AreaEffect-WorkforceMaintenanceAdditionalGoodsCeresGoodsFromShrine-E</Text>
+            <Text>Traveling Worker of Ceres</Text>
             <LineId>1600000357</LineId> <!-- <GUID>1600000353</GUID> -->
         </Text>
         <!-- Description -->
         <Text>
-            <Text>&#xD;Hint: Effect applies to all blessed chains associated with this deity.</Text>
+            <Text>Chosen by Ceres to assist at her hard work.&#xD;Hint: Effect applies to all blessed chains associated with this deity.</Text>
             <LineId>1600000358</LineId> 
         </Text>
       </ModOp>
@@ -319,12 +319,12 @@
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
         <Text>
-            <Text>Specialist AreaEffect-WorkforceMaintenanceAdditionalGoodsCernunnosGoodsFromShrine-E</Text>
+            <Text>Traveling Worker of Cernunnos</Text>
             <LineId>1600000361</LineId> <!-- <GUID>1600000361</GUID> -->
         </Text>
         <!-- Description -->
         <Text>
-            <Text>&#xD;Hint: Effect applies to all blessed chains associated with this deity.</Text>
+            <Text>Chosen by Cernunnos to assist at his hard work.&#xD;Hint: Effect applies to all blessed chains associated with this deity.</Text>
             <LineId>1600000362</LineId> 
         </Text>
       </ModOp>
@@ -335,12 +335,12 @@
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
         <Text>
-            <Text>Specialist AreaEffect-WorkforceMaintenanceAdditionalGoodsEponaGoodsFromShrine-E</Text>
+            <Text>Traveling Worker of Epona</Text>
             <LineId>1600000365</LineId> <!-- <GUID>1600000365</GUID> -->
         </Text>
         <!-- Description -->
         <Text>
-            <Text>&#xD;Hint: Effect applies to all blessed chains associated with this deity.</Text>
+            <Text>Chosen by Epona to assist at her hard work.&#xD;Hint: Effect applies to all blessed chains associated with this deity.</Text>
             <LineId>1600000366</LineId> 
         </Text>
       </ModOp>
@@ -351,12 +351,12 @@
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
         <Text>
-            <Text>Specialist AreaEffect-WorkforceMaintenanceAdditionalGoodsMarsGoodsFromShrine-E</Text>
+            <Text>Traveling Worker of Mars</Text>
             <LineId>1600000369</LineId> <!-- <GUID>1600000369</GUID> -->
         </Text>
         <!-- Description -->
         <Text>
-            <Text>&#xD;Hint: Effect applies to all blessed chains associated with this deity.</Text>
+            <Text>Chosen by Mars to assist at his hard work.&#xD;Hint: Effect applies to all blessed chains associated with this deity.</Text>
             <LineId>1600000370</LineId> 
         </Text>
       </ModOp>
@@ -367,12 +367,12 @@
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
         <Text>
-            <Text>Specialist AreaEffect-WorkforceMaintenanceAdditionalGoodsMercuryGoodsFromShrine-E</Text>
+            <Text>Traveling Worker of Mercury-Lugus</Text>
             <LineId>1600000373</LineId> <!-- <GUID>1600000373</GUID> -->
         </Text>
         <!-- Description -->
         <Text>
-            <Text>&#xD;Hint: Effect applies to all blessed chains associated with this deity.&#xD;For Mercury-Lugus these are Gold and Silver.</Text>
+            <Text>Chosen by Mercury-Lugus to assist at his hard work.&#xD;Hint: Effect applies to all blessed chains associated with this deity.&#xD;For Mercury-Lugus these are Gold and Silver.</Text>
             <LineId>1600000374</LineId> 
         </Text>
       </ModOp>
@@ -383,12 +383,12 @@
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
         <Text>
-            <Text>Specialist AreaEffect-WorkforceMaintenanceAdditionalGoodsMinervaGoodsFromShrine-E</Text>
+            <Text>Traveling Worker of Minerva</Text>
             <LineId>1600000377</LineId> <!-- <GUID>1600000377</GUID> -->
         </Text>
         <!-- Description -->
         <Text>
-            <Text>&#xD;Hint: Effect applies to all blessed chains associated with this deity.</Text>
+            <Text>Chosen by Minerva to assist at her hard work.&#xD;Hint: Effect applies to all blessed chains associated with this deity.</Text>
             <LineId>1600000378</LineId> 
         </Text>
       </ModOp>
@@ -399,12 +399,12 @@
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
         <Text>
-            <Text>Specialist AreaEffect-WorkforceMaintenanceAdditionalGoodsNeptuneGoodsFromShrine-E</Text>
+            <Text>Traveling Worker of Neptune</Text>
             <LineId>1600000381</LineId> <!-- <GUID>1600000381</GUID> -->
         </Text>
         <!-- Description -->
         <Text>
-            <Text>&#xD;Hint: Effect applies to all blessed chains associated with this deity.</Text>
+            <Text>Chosen by Neptune to assist at his hard work.&#xD;Hint: Effect applies to all blessed chains associated with this deity.</Text>
             <LineId>1600000382</LineId> 
         </Text>
       </ModOp>
@@ -420,17 +420,17 @@
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
         <Text>
-            <Text>Specialist AreaEffect-AdditionalSpecialistSlotFromShrine-L</Text>
+            <Text>Marcus Prodigiosus Nuntius, Micracle Seeker</Text>
             <LineId>1600000428</LineId> <!-- <GUID>1600000428</GUID> -->
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Test Text. Meb Meb!&#xD;Hint: Find out the Boost Condition and fulfill it to unlock the effect.</Text>
+            <Text>Will spread the word about the miraculous shrines on this island throughout the whole empire.&#xD;Hint: Find out the Boost Condition and fulfill it to unlock the effect.</Text>
             <LineId>1600000429</LineId> 
         </Text>
         <!-- Boosted Hint -->
         <Text>
-            <Text>8 Shrines on Island&#xD;Hint: Effect applies Islandwide on all Villas and Officia.</Text>
+            <Text>Have a minimun of 8 Shrines of any deity on this Island&#xD;Hint: Effect applies Islandwide on all Villas and Officia.</Text>
             <LineId>1600000430</LineId> 
         </Text>
       </ModOp>
@@ -441,17 +441,17 @@
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
         <Text>
-            <Text>Specialist AreaEffect-HealthFiresafetyHappinessAllShrines-L</Text>
+            <Text>Magnanimus Vias, The Great Hearted Spirit</Text>
             <LineId>1600000432</LineId> <!-- <GUID>1600000432</GUID> -->
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Test Text. Meb Meb!</Text>
+            <Text>Has been born to keeps every the virtues of any deity deep in his heart and assists the citizens to follow their path to salvation.</Text>
             <LineId>1600000433</LineId> 
         </Text>
         <!-- Boosted Hint -->
         <Text>
-            <Text>4 Shrines on Island</Text>
+            <Text>Have a minimun of 4 Shrines of any deity on this Island</Text>
             <LineId>1600000434</LineId> 
         </Text>
       </ModOp>
@@ -462,17 +462,17 @@
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
         <Text>
-            <Text>Specialist EffectRangeAllShrines-L</Text>
+            <Text>Memorata Peregrina, The Unforgotten Disciple</Text>
             <LineId>1600000385</LineId> <!-- <GUID>1600000385</GUID> -->
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Test Text. Meb Meb!&#xD;Hint: This Effect can stack.</Text>
+            <Text>Enjoys wandering between all shrines on this island to keep them unforgotten.&#xD;Hint: This Effect can stack.</Text>
             <LineId>1600000386</LineId> 
         </Text>
         <!-- Boosted Hint -->
         <Text>
-            <Text>5000 Population & Belief on Island</Text>
+            <Text>Have a sizeable, faithful population on this Island. (5000 Population & Belief)</Text>
             <LineId>1600000387</LineId> 
         </Text>
       </ModOp>
@@ -483,17 +483,17 @@
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
         <Text>
-            <Text>Specialist AreaEffect-MajorCeresShrine-L</Text>
+            <Text>Blessed Follower of Ceres</Text>
             <LineId>1600000439</LineId> <!-- <GUID>1600000439</GUID> -->
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Test Text. Meb Meb!</Text>
+            <Text>She has found the blessing of Ceres and manifests it at any shrine of her on the Island.</Text>
             <LineId>1600000440</LineId> 
         </Text>
         <!-- Boosted Hint -->
         <Text>
-            <Text>5 corresponding Shrines on Island</Text>
+            <Text>Have at least 5 Shrines of Ceres active on this Island.</Text>
             <LineId>1600000441</LineId> 
         </Text>
       </ModOp>
@@ -504,17 +504,17 @@
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
         <Text>
-            <Text>Specialist AreaEffect-MajorCernunnosShrine-L</Text>
+            <Text>Blessed Journeying Druid of Cernunnos</Text>
             <LineId>1600000446</LineId> <!-- <GUID>1600000446</GUID> -->
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Test Text. Meb Meb!</Text>
+            <Text>He brings the blessing of Cernunnos and manifests it at any shrine of him on the Island.</Text>
             <LineId>1600000447</LineId> 
         </Text>
         <!-- Boosted Hint -->
         <Text>
-            <Text>5 corresponding Shrines on Island</Text>
+            <Text>Have at least 5 Shrines of Cernunnos active on this Island.</Text>
             <LineId>1600000448</LineId> 
         </Text>
       </ModOp>
@@ -525,17 +525,17 @@
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
         <Text>
-            <Text>Specialist AreaEffect-MajorEponaShrine-L</Text>
+            <Text>Blessed Journeying Druid of Epona</Text>
             <LineId>1600000453</LineId> <!-- <GUID>1600000453</GUID> -->
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Test Text. Meb Meb!</Text>
+            <Text>He brings the blessing of Epona and manifests it at any shrine of her on the Island.</Text>
             <LineId>1600000454</LineId> 
         </Text>
         <!-- Boosted Hint -->
         <Text>
-            <Text>5 corresponding Shrines on Island</Text>
+            <Text>Have at least 5 Shrines of Epona active on this Island.</Text>
             <LineId>1600000455</LineId> 
         </Text>
       </ModOp>
@@ -546,17 +546,17 @@
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
         <Text>
-            <Text>Specialist AreaEffect-MajorMarsShrine-L</Text>
+            <Text>Blessed Follower of Mars</Text>
             <LineId>1600000460</LineId> <!-- <GUID>1600000460</GUID> -->
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Test Text. Meb Meb!</Text>
+            <Text>She has found the blessing of Mars and manifests it at any shrine of her on the Island.</Text>
             <LineId>1600000461</LineId> 
         </Text>
         <!-- Boosted Hint -->
         <Text>
-            <Text>5 corresponding Shrines on Island</Text>
+            <Text>Have at least 5 Shrines of Mars active on this Island.</Text>
             <LineId>1600000462</LineId> 
         </Text>
       </ModOp>
@@ -567,17 +567,17 @@
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
         <Text>
-            <Text>Specialist AreaEffect-MajorMercuryShrine-L</Text>
+            <Text>Blessed Follower of Mercury-Lugus</Text>
             <LineId>1600000467</LineId> <!-- <GUID>1600000467</GUID> -->
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Test Text. Meb Meb!</Text>
+            <Text>She has found the blessing of Mercury-Lugus and manifests it at any shrine of her on the Island.</Text>
             <LineId>1600000468</LineId> 
         </Text>
         <!-- Boosted Hint -->
         <Text>
-            <Text>5 corresponding Shrines on Island</Text>
+            <Text>Have at least 5 Shrines of Mercury-Lugus active on this Island.</Text>
             <LineId>1600000469</LineId> 
         </Text>
       </ModOp>
@@ -588,17 +588,17 @@
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
         <Text>
-            <Text>Specialist AreaEffect-MajorMinervaShrine-L</Text>
+            <Text>Blessed Follower of Minerva</Text>
             <LineId>1600000474</LineId> <!-- <GUID>1600000474</GUID> -->
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Test Text. Meb Meb!</Text>
+            <Text>She has found the blessing of Minerva and manifests it at any shrine of her on the Island.</Text>
             <LineId>1600000475</LineId> 
         </Text>
         <!-- Boosted Hint -->
         <Text>
-            <Text>5 corresponding Shrines on Island</Text>
+            <Text>Have at least 5 Shrines of Minerva active on this Island.</Text>
             <LineId>1600000476</LineId> 
         </Text>
       </ModOp>
@@ -609,17 +609,17 @@
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
         <Text>
-            <Text>Specialist AreaEffect-MajorNeptuneShrine-L</Text>
+            <Text>Blessed Follower of Neptune</Text>
             <LineId>1600000481</LineId> <!-- <GUID>1600000481</GUID> -->
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Test Text. Meb Meb!</Text>
+            <Text>She has found the blessing of Neptune and manifests it at any shrine of her on the Island.</Text>
             <LineId>1600000482</LineId> 
         </Text>
         <!-- Boosted Hint -->
         <Text>
-            <Text>5 corresponding Shrines on Island</Text>
+            <Text>Have at least 5 Shrines of Neptune active on this Island.</Text>
             <LineId>1600000483</LineId> 
         </Text>
       </ModOp>
