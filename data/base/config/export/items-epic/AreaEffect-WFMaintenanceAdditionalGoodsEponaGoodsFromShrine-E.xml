@@ -1,27 +1,27 @@
 <ModOps>
-<!-- Item Definition GUID:1600000373 - 1600000376 | LineID:1600000373 - 1600000374  -->
+<!-- Item Definition GUID:1600000365 - 1600000368 | LineID:1600000365 - 1600000366  -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>1600000373</GUID>
-            <Name>Specialist AreaEffect-WorkforceMaintenanceAdditionalGoodsMercuryGoodsFromShrine-E</Name>
-            <IconFilename>data/base/graphics/icons/AdditionalGoods/Shrine_AdditionalGoods_Roman_Mercury.png</IconFilename>
-            <InfoDescription>1600000374</InfoDescription>
+            <GUID>1600000365</GUID>
+            <Name>Specialist AreaEffect-WFMaintenanceAdditionalGoodsEponaGoodsFromShrine-E</Name>
+            <IconFilename>data/base/graphics/icons/AdditionalGoods/Shrine_AdditionalGoods_Celtic_Epona.png</IconFilename>
+            <InfoDescription>1600000366</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope>  
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>1600000374</GUID>
+                <GUID>1600000366</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
               <Item>
-                <GUID>82496</GUID>
+                <GUID>82497</GUID>
               </Item>
             </Targets>
             <HideInGovernorsBar>1</HideInGovernorsBar>
@@ -36,7 +36,7 @@
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>1600000373</OasisId>
+            <OasisId>1600000365</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -51,16 +51,16 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>1600000374</GUID>
-                    <Name>Specialist AreaEffect-WorkforceMaintenanceAdditionalGoodsMercuryGoodsFromShrine-E BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/AdditionalGoods/Shrine_AdditionalGoods_Roman_Mercury.png</IconFilename>
+                    <GUID>1600000366</GUID>
+                    <Name>Specialist AreaEffect-WFMaintenanceAdditionalGoodsEponaGoodsFromShrine-E BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/AdditionalGoods/Shrine_AdditionalGoods_Celtic_Epona.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>1600000373</OasisId>
+                    <OasisId>1600000365</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
-                    <AdditionalFunctionalEffect>1600000375</AdditionalFunctionalEffect>
+                    <AdditionalFunctionalEffect>1600000367</AdditionalFunctionalEffect>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>
                 <Buff>
@@ -103,28 +103,28 @@
             <Template>Effect</Template>
             <Values>
                 <Standard>
-                    <GUID>1600000375</GUID>
-                    <Name>Specialist AreaEffect-WorkforceMaintenanceAdditionalGoodsMercuryGoodsFromShrine-E FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/AdditionalGoods/Shrine_AdditionalGoods_Roman_Mercury.png</IconFilename>
+                    <GUID>1600000367</GUID>
+                    <Name>Specialist AreaEffect-WFMaintenanceAdditionalGoodsEponaGoodsFromShrine-E FunctionalEffect</Name>
+                    <IconFilename>data/base/graphics/icons/AdditionalGoods/Shrine_AdditionalGoods_Celtic_Epona.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
                     <SourceCategory>Adjacency</SourceCategory>
                     <Buffs>
                         <Item>
-                            <GUID>1600000376</GUID>
+                            <GUID>1600000368</GUID>
                         </Item>
                     </Buffs>
                     <Targets>
                         <Item>
-                            <GUID>50312</GUID> <!--TODO: Subject to Change! As game does not uses this AssetPool anywhere -->
+                            <GUID>80862</GUID>
                         </Item>
                     </Targets>
                     <ExcludeEffectSourceGUID>0</ExcludeEffectSourceGUID>
                     <HideInGovernorsBar>1</HideInGovernorsBar>
                 </Effect>
                 <Text>
-                    <OasisId>1600000373</OasisId>
+                    <OasisId>1600000365</OasisId>
                 </Text>
             </Values>
         </Asset>
@@ -135,12 +135,12 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>1600000376</GUID>
-                    <Name>Specialist AreaEffect-WorkforceMaintenanceAdditionalGoodsMercuryGoodsFromShrine-E FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/AdditionalGoods/Shrine_AdditionalGoods_Roman_Mercury.png</IconFilename>
+                    <GUID>1600000368</GUID>
+                    <Name>Specialist AreaEffect-WFMaintenanceAdditionalGoodsEponaGoodsFromShrine-E FunctionalEffect BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/AdditionalGoods/Shrine_AdditionalGoods_Celtic_Epona.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>1600000373</OasisId>
+                    <OasisId>1600000365</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>

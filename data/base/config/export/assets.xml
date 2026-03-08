@@ -41,13 +41,13 @@
 <Include File="items-rare/AreaEffect-NeedRewardBasedMinervaShrine-R.xml" />
 <Include File="items-rare/AreaEffect-NeedRewardBasedNeptuneShrine-R.xml" />
 
-<Include File="items-epic/AreaEffect-WorkforceMaintenanceAdditionalGoodsCeresGoodsFromShrine-E.xml" />
-<Include File="items-epic/AreaEffect-WorkforceMaintenanceAdditionalGoodsCernunnosGoodsFromShrine-E.xml" />
-<Include File="items-epic/AreaEffect-WorkforceMaintenanceAdditionalGoodsEponaGoodsFromShrine-E.xml" />
-<Include File="items-epic/AreaEffect-WorkforceMaintenanceAdditionalGoodsMarsGoodsFromShrine-E.xml" />
-<Include File="items-epic/AreaEffect-WorkforceMaintenanceAdditionalGoodsMercuryGoodsFromShrine-E.xml" />
-<Include File="items-epic/AreaEffect-WorkforceMaintenanceAdditionalGoodsMinervaGoodsFromShrine-E.xml" />
-<Include File="items-epic/AreaEffect-WorkforceMaintenanceAdditionalGoodsNeptuneGoodsFromShrine-E.xml" />
+<Include File="items-epic/AreaEffect-WFMaintenanceAdditionalGoodsCeresGoodsFromShrine-E.xml" />
+<Include File="items-epic/AreaEffect-WFMaintenanceAdditionalGoodsCernunnosGoodsFromShrine-E.xml" />
+<Include File="items-epic/AreaEffect-WFMaintenanceAdditionalGoodsEponaGoodsFromShrine-E.xml" />
+<Include File="items-epic/AreaEffect-WFMaintenanceAdditionalGoodsMarsGoodsFromShrine-E.xml" />
+<Include File="items-epic/AreaEffect-WFMaintenanceAdditionalGoodsMercuryGoodsFromShrine-E.xml" />
+<Include File="items-epic/AreaEffect-WFMaintenanceAdditionalGoodsMinervaGoodsFromShrine-E.xml" />
+<Include File="items-epic/AreaEffect-WFMaintenanceAdditionalGoodsNeptuneGoodsFromShrine-E.xml" />
 
 <Include File="items-legendary/EffectRangeAllShrines-L.xml" />
 <Include File="items-legendary/AreaEffect-AdditionalSpecialistSlotFromShrine-L.xml" />
