@@ -308,7 +308,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Chosen by Ceres to assist at her hard work.&#xD;Hint: Effect applies to all blessed chains associated with this deity.</Text>
+            <Text>Chosen by Ceres to assist at her hard work.&#xD;Hint: Effect applies to all blessed chains associated with this deity within street distance of the shrine.</Text>
             <LineId>1600000358</LineId> 
         </Text>
       </ModOp>
@@ -324,7 +324,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Chosen by Cernunnos to assist at his hard work.&#xD;Hint: Effect applies to all blessed chains associated with this deity.</Text>
+            <Text>Chosen by Cernunnos to assist at his hard work.&#xD;Hint: Effect applies to all blessed chains associated with this deity within street distance of the shrine.</Text>
             <LineId>1600000362</LineId> 
         </Text>
       </ModOp>
@@ -340,7 +340,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Chosen by Epona to assist at her hard work.&#xD;Hint: Effect applies to all blessed chains associated with this deity.</Text>
+            <Text>Chosen by Epona to assist at her hard work.&#xD;Hint: Effect applies to all blessed chains associated with this deity within street distance of the shrine.</Text>
             <LineId>1600000366</LineId> 
         </Text>
       </ModOp>
@@ -356,7 +356,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Chosen by Mars to assist at his hard work.&#xD;Hint: Effect applies to all blessed chains associated with this deity.</Text>
+            <Text>Chosen by Mars to assist at his hard work.&#xD;Hint: Effect applies to all blessed chains associated with this deity within street distance of the shrine.</Text>
             <LineId>1600000370</LineId> 
         </Text>
       </ModOp>
@@ -372,7 +372,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Chosen by Mercury-Lugus to assist at his hard work.&#xD;Hint: Effect applies to all blessed chains associated with this deity.&#xD;For Mercury-Lugus these are Gold and Silver.</Text>
+            <Text>Chosen by Mercury-Lugus to assist at his hard work.&#xD;Hint: Effect applies to all blessed chains associated with this deity within street distance of the shrine.&#xD;For Mercury-Lugus these are Gold and Silver.</Text>
             <LineId>1600000374</LineId> 
         </Text>
       </ModOp>
@@ -388,7 +388,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Chosen by Minerva to assist at her hard work.&#xD;Hint: Effect applies to all blessed chains associated with this deity.</Text>
+            <Text>Chosen by Minerva to assist at her hard work.&#xD;Hint: Effect applies to all blessed chains associated with this deity within street distance of the shrine.</Text>
             <LineId>1600000378</LineId> 
         </Text>
       </ModOp>
@@ -404,7 +404,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Chosen by Neptune to assist at his hard work.&#xD;Hint: Effect applies to all blessed chains associated with this deity.</Text>
+            <Text>Chosen by Neptune to assist at his hard work.&#xD;Hint: Effect applies to all blessed chains associated with this deity within street distance of the shrine.</Text>
             <LineId>1600000382</LineId> 
         </Text>
       </ModOp>
