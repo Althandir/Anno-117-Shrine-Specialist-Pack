@@ -180,12 +180,12 @@
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Health>
-                        <Population>
+                        <Belief>
                             <AmountOrPercent>
                                 <Value>0.5</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
-                        </Population>
+                        </Belief>
                     </AdditionalAttributes>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>
@@ -301,12 +301,12 @@
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Health>
-                        <Population>
+                        <Belief>
                             <AmountOrPercent>
                                 <Value>1</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
-                        </Population>
+                        </Belief>
                     </AdditionalAttributes>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>
