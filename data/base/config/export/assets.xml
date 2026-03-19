@@ -21,45 +21,45 @@
 <!-- Load Each Specialists from corresponding file -->
 
 <Include File="items-common/EffectRangeAllShrines-C.xml" />
-<Include File="items-common/AreaEffect-MinorCeresShrine-C.xml" />
-<Include File="items-common/AreaEffect-MinorCernunnosShrine-C.xml" />
-<Include File="items-common/AreaEffect-MinorEponaShrine-C.xml" />
-<Include File="items-common/AreaEffect-MinorMarsShrine-C.xml" />
-<Include File="items-common/AreaEffect-MinorMercuryShrine-C.xml" />
-<Include File="items-common/AreaEffect-MinorMinervaShrine-C.xml" />
-<Include File="items-common/AreaEffect-MinorNeptuneShrine-C.xml" />
+<Include File="items-common/AE-MinorCeresShrine-C.xml" />
+<Include File="items-common/AE-MinorCernunnosShrine-C.xml" />
+<Include File="items-common/AE-MinorEponaShrine-C.xml" />
+<Include File="items-common/AE-MinorMarsShrine-C.xml" />
+<Include File="items-common/AE-MinorMercuryShrine-C.xml" />
+<Include File="items-common/AE-MinorMinervaShrine-C.xml" />
+<Include File="items-common/AE-MinorNeptuneShrine-C.xml" />
 
-<Include File="items-rare/AreaEffect-FiresafetyAllShrines-R.xml" />
-<Include File="items-rare/AreaEffect-HappinessAllShrines-R.xml" />
-<Include File="items-rare/AreaEffect-HealthAllShrines-R.xml" />
+<Include File="items-rare/AE-FiresafetyAllShrines-R.xml" />
+<Include File="items-rare/AE-HappinessAllShrines-R.xml" />
+<Include File="items-rare/AE-HealthAllShrines-R.xml" />
 
-<Include File="items-rare/AreaEffect-NeedRewardBasedCeresShrine-R.xml" />
-<Include File="items-rare/AreaEffect-NeedRewardBasedCernunnosShrine-R.xml" />
-<Include File="items-rare/AreaEffect-NeedRewardBasedEponaShrine-R.xml" />
-<Include File="items-rare/AreaEffect-NeedRewardBasedMarsShrine-R.xml" />
-<Include File="items-rare/AreaEffect-NeedRewardBasedMercuryShrine-R.xml" />
-<Include File="items-rare/AreaEffect-NeedRewardBasedMinervaShrine-R.xml" />
-<Include File="items-rare/AreaEffect-NeedRewardBasedNeptuneShrine-R.xml" />
+<Include File="items-rare/AE-NR-CeresShrine-R.xml" />
+<Include File="items-rare/AE-NR-CernunnosShrine-R.xml" />
+<Include File="items-rare/AE-NR-EponaShrine-R.xml" />
+<Include File="items-rare/AE-NR-MarsShrine-R.xml" />
+<Include File="items-rare/AE-NR-MercuryShrine-R.xml" />
+<Include File="items-rare/AE-NR-MinervaShrine-R.xml" />
+<Include File="items-rare/AE-NR-NeptuneShrine-R.xml" />
 
-<Include File="items-epic/AreaEffect-WFMaintenanceAdditionalGoodsCeresGoodsFromShrine-E.xml" />
-<Include File="items-epic/AreaEffect-WFMaintenanceAdditionalGoodsCernunnosGoodsFromShrine-E.xml" />
-<Include File="items-epic/AreaEffect-WFMaintenanceAdditionalGoodsEponaGoodsFromShrine-E.xml" />
-<Include File="items-epic/AreaEffect-WFMaintenanceAdditionalGoodsMarsGoodsFromShrine-E.xml" />
-<Include File="items-epic/AreaEffect-WFMaintenanceAdditionalGoodsMercuryGoodsFromShrine-E.xml" />
-<Include File="items-epic/AreaEffect-WFMaintenanceAdditionalGoodsMinervaGoodsFromShrine-E.xml" />
-<Include File="items-epic/AreaEffect-WFMaintenanceAdditionalGoodsNeptuneGoodsFromShrine-E.xml" />
+<Include File="items-epic/AE-WFMaint-AddGoodsCeresShrine-E.xml" />
+<Include File="items-epic/AE-WFMaint-AddGoodsCernunnosShrine-E.xml" />
+<Include File="items-epic/AE-WFMaint-AddGoodsEponaShrine-E.xml" />
+<Include File="items-epic/AE-WFMaint-AddGoodsMarsShrine-E.xml" />
+<Include File="items-epic/AE-WFMaint-AddGoodsMercuryShrine-E.xml" />
+<Include File="items-epic/AE-WFMaint-AddGoodsMinervaShrine-E.xml" />
+<Include File="items-epic/AE-WFMaint-AddGoodsNeptuneShrine-E.xml" />
 
 <Include File="items-legendary/EffectRangeAllShrines-L.xml" />
-<Include File="items-legendary/AreaEffect-AdditionalSpecialistSlotFromShrine-L.xml" />
-<Include File="items-legendary/AreaEffect-HealthFiresafetyHappinessAllShrines-L.xml" />
+<Include File="items-legendary/AE-AddSpecialistSlotShrine-L.xml" />
+<Include File="items-legendary/AE-HealthFiresafetyHappinessAllShrines-L.xml" />
 
-<Include File="items-legendary/AreaEffect-MajorCeresShrine-L.xml" />
-<Include File="items-legendary/AreaEffect-MajorCernunnosShrine-L.xml" />
-<Include File="items-legendary/AreaEffect-MajorEponaShrine-L.xml" />
-<Include File="items-legendary/AreaEffect-MajorMarsShrine-L.xml" />
-<Include File="items-legendary/AreaEffect-MajorMercuryShrine-L.xml" />
-<Include File="items-legendary/AreaEffect-MajorMinervaShrine-L.xml" />
-<Include File="items-legendary/AreaEffect-MajorNeptuneShrine-L.xml" />
+<Include File="items-legendary/AE-MajorCeresShrine-L.xml" />
+<Include File="items-legendary/AE-MajorCernunnosShrine-L.xml" />
+<Include File="items-legendary/AE-MajorEponaShrine-L.xml" />
+<Include File="items-legendary/AE-MajorMarsShrine-L.xml" />
+<Include File="items-legendary/AE-MajorMercuryShrine-L.xml" />
+<Include File="items-legendary/AE-MajorMinervaShrine-L.xml" />
+<Include File="items-legendary/AE-MajorNeptuneShrine-L.xml" />
 
 <!-- Add to Asset & Rewardpools -->
 

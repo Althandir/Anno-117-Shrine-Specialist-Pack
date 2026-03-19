@@ -17,7 +17,7 @@
       </ModOp>
     </Group>
 
-    <!-- Specialist AreaEffect-MinorCeresShrine-C -->
+    <!-- Specialist AE-MinorCeresShrine-C -->
     <Group>
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
@@ -33,7 +33,7 @@
       </ModOp>
     </Group>
 
-    <!-- Specialist AreaEffect-MinorCernunnosShrine-C -->
+    <!-- Specialist AE-MinorCernunnosShrine-C -->
     <Group>
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
@@ -49,7 +49,7 @@
       </ModOp>
     </Group>
 
-    <!-- Specialist AreaEffect-MinorEponaShrine-C -->
+    <!-- Specialist AE-MinorEponaShrine-C -->
     <Group>
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
@@ -65,7 +65,7 @@
       </ModOp>
     </Group>
 
-    <!-- Specialist AreaEffect-MinorMarsShrine-C -->
+    <!-- Specialist AE-MinorMarsShrine-C -->
     <Group>
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
@@ -81,7 +81,7 @@
       </ModOp>
     </Group>
 
-    <!-- Specialist AreaEffect-MinorMercuryShrine-C -->
+    <!-- Specialist AE-MinorMercuryShrine-C -->
     <Group>
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
@@ -97,7 +97,7 @@
       </ModOp>
     </Group>
 
-    <!-- Specialist AreaEffect-MinorMinervaShrine-C -->
+    <!-- Specialist AE-MinorMinervaShrine-C -->
     <Group>
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
@@ -113,7 +113,7 @@
       </ModOp>
     </Group>
 
-    <!-- Specialist AreaEffect-MinorNeptuneShrine-C -->
+    <!-- Specialist AE-MinorNeptuneShrine-C -->
     <Group>
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
@@ -134,7 +134,7 @@
   <!-- Rare Specialists -->
   <Group>
 
-    <!-- Specialist AreaEffect-FiresafetyAllShrines-R -->
+    <!-- Specialist AE-FiresafetyAllShrines-R -->
     <Group>
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
@@ -150,7 +150,7 @@
       </ModOp>
     </Group>
 
-    <!-- Specialist AreaEffect-HappinessAllShrines-R -->
+    <!-- Specialist AE-HappinessAllShrines-R -->
     <Group>
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
@@ -166,7 +166,7 @@
       </ModOp>
     </Group>
 
-    <!-- Specialist AreaEffect-HealthAllShrines-R -->
+    <!-- Specialist AE-HealthAllShrines-R -->
     <Group>
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
@@ -183,7 +183,7 @@
     </Group>
 
 
-    <!-- Specialist AreaEffect-NeedRewardBasedCeresShrine-R -->
+    <!-- Specialist AE-NR-CeresShrine-R -->
     <Group>
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
@@ -199,7 +199,7 @@
       </ModOp>
     </Group>
 
-    <!-- Specialist AreaEffect-NeedRewardBasedCernunnosShrine-R -->
+    <!-- Specialist AE-NR-CernunnosShrine-R -->
     <Group>
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
@@ -215,7 +215,7 @@
       </ModOp>
     </Group>
 
-    <!-- Specialist AreaEffect-NeedRewardBasedEponaShrine-R -->
+    <!-- Specialist AE-NR-EponaShrine-R -->
     <Group>
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
@@ -231,7 +231,7 @@
       </ModOp>
     </Group>
 
-    <!-- Specialist AreaEffect-NeedRewardBasedMarsShrine-R -->
+    <!-- Specialist AE-NR-MarsShrine-R -->
     <Group>
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
@@ -247,7 +247,7 @@
       </ModOp>
     </Group>
 
-    <!-- Specialist AreaEffect-NeedRewardBasedMercuryShrine-R -->
+    <!-- Specialist AE-NR-MercuryShrine-R -->
     <Group>
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
@@ -263,7 +263,7 @@
       </ModOp>
     </Group>
 
-    <!-- Specialist AreaEffect-NeedRewardBasedMinervaShrine-R -->
+    <!-- Specialist AE-NR-MinervaShrine-R -->
     <Group>
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
@@ -279,7 +279,7 @@
       </ModOp>
     </Group>
 
-    <!-- Specialist AreaEffect-NeedRewardBasedNeptuneShrine-R -->
+    <!-- Specialist AE-NR-NeptuneShrine-R -->
     <Group>
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
@@ -298,7 +298,7 @@
 
   <!-- Epic Specialists -->
   <Group>
-    <!-- Specialist AreaEffect-WFMaintenanceAdditionalGoodsCeresGoodsFromShrine-E -->
+    <!-- Specialist AE-WFMaint-AddGoodsCeresShrine-E -->
     <Group>
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
@@ -314,7 +314,7 @@
       </ModOp>
     </Group>
 
-    <!-- Specialist AreaEffect-WFMaintenanceAdditionalGoodsCernunnosGoodsFromShrine-E -->
+    <!-- Specialist AE-WFMaint-AddGoodsCernunnosShrine-E -->
     <Group>
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
@@ -330,7 +330,7 @@
       </ModOp>
     </Group>
 
-    <!-- Specialist AreaEffect-WFMaintenanceAdditionalGoodsEponaGoodsFromShrine-E -->
+    <!-- Specialist AE-WFMaint-AddGoodsEponaShrine-E -->
     <Group>
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
@@ -346,7 +346,7 @@
       </ModOp>
     </Group>
 
-    <!-- Specialist AreaEffect-WFMaintenanceAdditionalGoodsMarsGoodsFromShrine-E -->
+    <!-- Specialist AE-WFMaint-AddGoodsMarsShrine-E -->
     <Group>
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
@@ -362,7 +362,7 @@
       </ModOp>
     </Group>
 
-    <!-- Specialist AreaEffect-WFMaintenanceAdditionalGoodsMercuryGoodsFromShrine-E -->
+    <!-- Specialist AE-WFMaint-AddGoodsMercuryShrine-E -->
     <Group>
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
@@ -378,7 +378,7 @@
       </ModOp>
     </Group>
 
-    <!-- Specialist AreaEffect-WFMaintenanceAdditionalGoodsMinervaGoodsFromShrine-E -->
+    <!-- Specialist AE-WFMaint-AddGoodsMinervaShrine-E -->
     <Group>
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
@@ -394,7 +394,7 @@
       </ModOp>
     </Group>
 
-    <!-- Specialist AreaEffect-WFMaintenanceAdditionalGoodsNeptuneGoodsFromShrine-E -->
+    <!-- Specialist AE-WFMaint-AddGoodsNeptuneShrine-E -->
     <Group>
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
@@ -415,7 +415,7 @@
   <!-- Legendary Specialists -->
   <Group>
 
-    <!-- Specialist AreaEffect-AdditionalSpecialistSlotFromShrine-L -->
+    <!-- Specialist AE-AddSpecialistSlotShrine-L -->
     <Group>
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
@@ -436,7 +436,7 @@
       </ModOp>
     </Group>
 
-    <!-- Specialist AreaEffect-HealthFiresafetyHappinessAllShrines-L -->
+    <!-- Specialist AE-HealthFiresafetyHappinessAllShrines-L -->
     <Group>
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
@@ -478,7 +478,7 @@
       </ModOp>
     </Group>
 
-    <!-- Specialist AreaEffect-MajorCeresShrine-L -->
+    <!-- Specialist AE-MajorCeresShrine-L -->
     <Group>
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
@@ -499,7 +499,7 @@
       </ModOp>
     </Group>
 
-    <!-- Specialist AreaEffect-MajorCernunnosShrine-L -->
+    <!-- Specialist AE-MajorCernunnosShrine-L -->
     <Group>
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
@@ -520,7 +520,7 @@
       </ModOp>
     </Group>
 
-    <!-- Specialist AreaEffect-MajorEponaShrine-L -->
+    <!-- Specialist AE-MajorEponaShrine-L -->
     <Group>
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
@@ -541,7 +541,7 @@
       </ModOp>
     </Group>
 
-    <!-- Specialist AreaEffect-MajorMarsShrine-L -->
+    <!-- Specialist AE-MajorMarsShrine-L -->
     <Group>
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
@@ -562,7 +562,7 @@
       </ModOp>
     </Group>
 
-    <!-- Specialist AreaEffect-MajorMercuryShrine-L -->
+    <!-- Specialist AE-MajorMercuryShrine-L -->
     <Group>
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
@@ -583,7 +583,7 @@
       </ModOp>
     </Group>
 
-    <!-- Specialist AreaEffect-MajorMinervaShrine-L -->
+    <!-- Specialist AE-MajorMinervaShrine-L -->
     <Group>
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
@@ -604,7 +604,7 @@
       </ModOp>
     </Group>
 
-    <!-- Specialist AreaEffect-MajorNeptuneShrine-L -->
+    <!-- Specialist AE-MajorNeptuneShrine-L -->
     <Group>
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
