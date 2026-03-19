@@ -1,0 +1,218 @@
+<ModOps>
+<!-- Item Definition GUID:1600000416 - 1600000419 | LineID:1600000416 - 1600000417  -->
+  <Group>
+    <ModOp Type="addNextSibling" GUID="106410">
+      <Asset>
+        <Template>Item</Template>
+        <Values>
+          <Standard>
+            <GUID>1600000416</GUID>
+            <Name>Specialist AE-NR-MercuryShrine-R</Name>
+            <IconFilename>data/base/graphics/icons/NeedReward/NeedRewardMercury.png</IconFilename>
+            <InfoDescription>1600000417</InfoDescription>
+          </Standard>
+          <Effect>
+            <EffectScope>Radius</EffectScope>  
+            <SourceCategory>Item</SourceCategory>
+            <Buffs>
+              <Item>
+                <GUID>1600000417</GUID>
+              </Item>
+            </Buffs>
+            <Targets> <!-- Targets of Buff -->
+              <Item>
+                <GUID>82496</GUID>
+              </Item>
+            </Targets>
+            <HideInGovernorsBar>1</HideInGovernorsBar>
+          </Effect>
+          <Item>
+            <Niche>Religion</Niche>  
+            <TradePrice>15000</TradePrice> 
+            <BarkPool>83298</BarkPool> <!-- <GUID>83298</GUID> -->
+            <Rarity>Rare</Rarity> 
+          </Item>
+          <Locked>
+            <DefaultLockedState>0</DefaultLockedState>
+          </Locked>
+          <Text>
+            <OasisId>1600000416</OasisId>
+          </Text>
+        </Values>
+      </Asset>
+    </ModOp>
+  </Group>
+
+  <!-- Buff Definitions-->
+  <Group>
+    <!-- Buff Definition -->
+    <ModOp Type="addNextSibling" GUID="80193">
+        <Asset>
+            <Template>BuildingBuff</Template>
+            <Values>
+                <Standard>
+                    <GUID>1600000417</GUID>
+                    <Name>Specialist AE-NR-MercuryShrine-R BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/NeedReward/NeedRewardMercury.png</IconFilename>
+                </Standard>
+                <Text>
+                    <OasisId>1600000416</OasisId>
+                </Text>
+                <HealthUpgrade/>
+                <BuildingUpgrade>
+                    <AdditionalFunctionalEffect>1600000418</AdditionalFunctionalEffect>
+                </BuildingUpgrade>
+                <DistributionUpgrade/>
+                <Buff>
+                    <SourceCategory>Item</SourceCategory>
+                </Buff>
+                <ResidenceUpgrade> <!-- # Hint for the Player -->
+                    <GoodConsumptionUpgrade>
+                        <Item>
+                            <ProvidedNeed>2146</ProvidedNeed>
+                            <AmountInPercent>15</AmountInPercent>
+                        </Item>
+                        <Item>
+                            <ProvidedNeed>2156</ProvidedNeed>
+                            <AmountInPercent>15</AmountInPercent>
+                        </Item>
+                    </GoodConsumptionUpgrade>
+                    <NeedProvidedNeedAttributes>
+                    <ChangeNeedAttributesOf>
+                        <Item>
+                            <ProvidedProduct>2146</ProvidedProduct> <!-- <GUID>2146</GUID> -->
+                        </Item>
+                        <Item>
+                            <ProvidedProduct>2156</ProvidedProduct> <!-- <GUID>2156</GUID> -->
+                        </Item>
+                    </ChangeNeedAttributesOf>
+                    <AdditionalNeedAttributes>
+                        <Belief>
+                            <AmountOrPercent>
+                                <Value>2</Value>
+                                <Percental>0</Percental>
+                            </AmountOrPercent>
+                        </Belief>
+                        <Money>
+                            <AmountOrPercent>
+                                <Value>1</Value>
+                                <Percental>0</Percental>
+                            </AmountOrPercent>
+                        </Money>
+                    </AdditionalNeedAttributes>
+                    </NeedProvidedNeedAttributes>
+                </ResidenceUpgrade>
+                <FactoryUpgrade/>
+                <ModuleOwnerUpgrade/>
+                <MaintenanceUpgrade/>
+                <CityInstitutionUpgrade/>
+                <IncidentInfectableUpgrade/>
+                <RecruitmentUpgrade/>
+                <AqueductUpgrade/>
+                <WarehouseUpgrade/>
+                <IrrigationUpgrade/>
+            </Values>
+        </Asset>
+    </ModOp>
+    
+    <ModOp Type="addNextSibling" GUID="135498">
+        <Asset>
+            <Template>Effect</Template>
+            <Values>
+                <Standard>
+                    <GUID>1600000418</GUID>
+                    <Name>Specialist AE-NR-MercuryShrine-R FunctionalEffect</Name>
+                    <IconFilename>data/base/graphics/icons/NeedReward/NeedRewardMercury.png</IconFilename>
+                </Standard>
+                <Effect>
+                    <EffectScope>StreetDistance</EffectScope>
+                    <SourceCategory>Adjacency</SourceCategory>
+                    <Buffs>
+                        <Item>
+                            <GUID>1600000419</GUID>
+                        </Item>
+                    </Buffs>
+                    <Targets>
+                        <Item>
+                            <GUID>31046</GUID>
+                        </Item>
+                    </Targets>
+                    <ExcludeEffectSourceGUID>0</ExcludeEffectSourceGUID>
+                    <HideInGovernorsBar>1</HideInGovernorsBar>
+                </Effect>
+                <Text>
+                    <OasisId>1600000416</OasisId>
+                </Text>
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp Type="addNextSibling" GUID="80193">
+        <Asset>
+            <Template>BuildingBuff</Template>
+            <Values>
+                <Standard>
+                    <GUID>1600000419</GUID>
+                    <Name>Specialist AE-NR-MercuryShrine-R FunctionalEffect BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/NeedReward/NeedRewardMercury.png</IconFilename>
+                </Standard>
+                <Text>
+                    <OasisId>1600000416</OasisId>
+                </Text>
+                <HealthUpgrade/>
+                <BuildingUpgrade/>
+                <DistributionUpgrade/>
+                <Buff>
+                    <SourceCategory>Adjacency</SourceCategory>
+                </Buff>
+                <ResidenceUpgrade> 
+                    <GoodConsumptionUpgrade>
+                        <Item>
+                            <ProvidedNeed>2146</ProvidedNeed>
+                            <AmountInPercent>15</AmountInPercent>
+                        </Item>
+                        <Item>
+                            <ProvidedNeed>2156</ProvidedNeed>
+                            <AmountInPercent>15</AmountInPercent>
+                        </Item>
+                    </GoodConsumptionUpgrade>
+                    <NeedProvidedNeedAttributes>
+                    <ChangeNeedAttributesOf>
+                        <Item>
+                            <ProvidedProduct>2146</ProvidedProduct> <!-- <GUID>2146</GUID> -->
+                        </Item>
+                        <Item>
+                            <ProvidedProduct>2156</ProvidedProduct> <!-- <GUID>2156</GUID> -->
+                        </Item>
+                    </ChangeNeedAttributesOf>
+                    <AdditionalNeedAttributes>
+                        <Belief>
+                            <AmountOrPercent>
+                                <Value>2</Value>
+                                <Percental>0</Percental>
+                            </AmountOrPercent>
+                        </Belief>
+                        <Money>
+                            <AmountOrPercent>
+                                <Value>1</Value>
+                                <Percental>0</Percental>
+                            </AmountOrPercent>
+                        </Money>
+                    </AdditionalNeedAttributes>
+                    </NeedProvidedNeedAttributes>
+                </ResidenceUpgrade>
+                <FactoryUpgrade/>
+                <ModuleOwnerUpgrade/>
+                <MaintenanceUpgrade/>
+                <CityInstitutionUpgrade/>
+                <IncidentInfectableUpgrade/>
+                <RecruitmentUpgrade/>
+                <AqueductUpgrade/>
+                <WarehouseUpgrade/>
+                <IrrigationUpgrade/>
+            </Values>
+        </Asset>
+    </ModOp>
+  </Group>
+
+</ModOps>
