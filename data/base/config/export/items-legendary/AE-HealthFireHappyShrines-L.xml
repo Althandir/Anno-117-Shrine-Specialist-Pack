@@ -7,7 +7,7 @@
         <Values>
             <Standard>
                 <GUID>1600000432</GUID>
-                <Name>Specialist AE-HealthFiresafetyHappinessAllShrines-L</Name>
+                <Name>Specialist AE-HealthFireHappyShrines-L</Name>
                 <IconFilename>data/base/graphics/icons/general/AllShrinesAll-L.png</IconFilename>
                 <InfoDescription>1600000433</InfoDescription>
             </Standard>
@@ -99,7 +99,7 @@
             <Values>
                 <Standard>
                     <GUID>1600000433</GUID>
-                    <Name>Specialist AE-HealthFiresafetyHappinessAllShrines-L BuildingBuff</Name>
+                    <Name>Specialist AE-HealthFireHappyShrines-L BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/general/AllShrinesAll-L.png</IconFilename>
                 </Standard>
                 <Text>
@@ -133,7 +133,7 @@
             <Values>
                 <Standard>
                     <GUID>1600000434</GUID>
-                    <Name>Specialist AE-HealthFiresafetyHappinessAllShrines-L FunctionalEffect</Name>
+                    <Name>Specialist AE-HealthFireHappyShrines-L FunctionalEffect</Name>
                     <IconFilename>data/base/graphics/icons/general/AllShrinesAll-L.png</IconFilename>
                 </Standard>
                 <Effect>
@@ -165,7 +165,7 @@
             <Values>
                 <Standard>
                     <GUID>1600000435</GUID>
-                    <Name>Specialist AE-HealthFiresafetyHappinessAllShrines-L FunctionalEffect BuildingBuff</Name>
+                    <Name>Specialist AE-HealthFireHappyShrines-L FunctionalEffect BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/general/AllShrinesAll-L.png</IconFilename>
                 </Standard>
                 <Text>
@@ -221,7 +221,7 @@
             <Values>
                 <Standard>
                     <GUID>1600000436</GUID>
-                    <Name>Specialist AE-HealthFiresafetyHappinessAllShrines-L Boosted BuildingBuff</Name>
+                    <Name>Specialist AE-HealthFireHappyShrines-L Boosted BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/general/AllShrinesAll-L.png</IconFilename>
                 </Standard>
                 <Text>
@@ -260,7 +260,7 @@
             <Values>
                 <Standard>
                     <GUID>1600000437</GUID>
-                    <Name>Specialist AE-HealthFiresafetyHappinessAllShrines-L Boosted FunctionalEffect</Name>
+                    <Name>Specialist AE-HealthFireHappyShrines-L Boosted FunctionalEffect</Name>
                     <IconFilename>data/base/graphics/icons/general/AllShrinesAll-L.png</IconFilename>
                 </Standard>
                 <Effect>
@@ -292,7 +292,7 @@
             <Values>
                 <Standard>
                     <GUID>1600000438</GUID>
-                    <Name>Specialist AE-HealthFiresafetyHappinessAllShrines-L Boosted FunctionalEffect BuildingBuff</Name>
+                    <Name>Specialist AE-HealthFireHappyShrines-L Boosted FunctionalEffect BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/general/AllShrinesAll-L.png</IconFilename>
                 </Standard>
                 <Text>

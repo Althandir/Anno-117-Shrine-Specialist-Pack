@@ -436,7 +436,7 @@
       </ModOp>
     </Group>
 
-    <!-- Specialist AE-HealthFiresafetyHappinessAllShrines-L -->
+    <!-- Specialist AE-HealthFireHappyShrines-L -->
     <Group>
       <ModOp Add="/TextExport/Texts">
         <!-- Title -->
