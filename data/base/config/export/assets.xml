@@ -11,13 +11,6 @@
 ###
 -->
 <ModOps>
-
-<!-- Testing -->
-<!-- 
-<Group>
-<Include File="testing/pools-forceSpawnTesting.xml"/> 
-</Group>
--->
 <!-- Load Each Specialists from corresponding file -->
 
 <Include File="items-common/EffectRangeAllShrines-C.xml" />
