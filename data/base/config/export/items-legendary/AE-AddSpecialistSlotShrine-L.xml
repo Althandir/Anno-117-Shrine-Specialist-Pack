@@ -189,7 +189,7 @@
                 <UnitUpgrade/>
                 <ItemContainerUpgrade>
                   <SocketCountUpgrade>
-                    <Value>1</Value>
+                    <Value>0</Value>
                     <Percental>0</Percental>
                   </SocketCountUpgrade>
                 </ItemContainerUpgrade>
