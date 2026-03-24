@@ -414,28 +414,6 @@
 
   <!-- Legendary Specialists -->
   <Group>
-
-    <!-- Specialist AE-AddSpecialistSlotShrine-L -->
-    <Group>
-      <ModOp Add="/TextExport/Texts">
-        <!-- Title -->
-        <Text>
-            <Text>Marcus Prodigiosus Nuntius, Micracle Seeker</Text>
-            <LineId>1600000428</LineId> <!-- <GUID>1600000428</GUID> -->
-        </Text>
-        <!-- Description -->
-        <Text>
-            <Text>Will spread the word about the miraculous shrines on this island throughout the whole empire.&#xD;Hint: Find out the Boost Condition and fulfill it to unlock the effect.</Text>
-            <LineId>1600000429</LineId> 
-        </Text>
-        <!-- Boosted Hint -->
-        <Text>
-            <Text>Have at least 8 Shrines of any deity on this Island.&#xD;Hint: Effect applies Islandwide on the Villa and all Officia.</Text>
-            <LineId>1600000430</LineId> 
-        </Text>
-      </ModOp>
-    </Group>
-
     <!-- Specialist AE-HealthFireHappyShrines-L -->
     <Group>
       <ModOp Add="/TextExport/Texts">

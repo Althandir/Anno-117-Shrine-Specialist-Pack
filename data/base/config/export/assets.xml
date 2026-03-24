@@ -43,7 +43,7 @@
 <Include File="items-epic/AE-WFMaint-AddGoodsNeptuneShrine-E.xml" />
 
 <Include File="items-legendary/EffectRangeAllShrines-L.xml" />
-<Include File="items-legendary/AE-AddSpecialistSlotShrine-L.xml" />
+
 <Include File="items-legendary/AE-HealthFireHappyShrines-L.xml" />
 
 <Include File="items-legendary/AE-MajorCeresShrine-L.xml" />

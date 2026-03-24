@@ -414,28 +414,6 @@
 
   <!-- Legendary Specialists -->
   <Group>
-
-    <!-- Specialist AE-AddSpecialistSlotShrine-L -->
-    <Group>
-      <ModOp Add="/TextExport/Texts">
-        <!-- Title -->
-        <Text>
-            <Text>Marcus Prodigiosus Nuntius, Wundersucher</Text>
-            <LineId>1600000428</LineId> <!-- <GUID>1600000428</GUID> -->
-        </Text>
-        <!-- Description -->
-        <Text>
-            <Text>Verbreitet die Kunde über die heiligen Schreine auf dieser Insel durch das gesamte Reich.&#xD;Hinweis: Finde die Vorlieben dieses Spezialisten heraus und erfülle diese um den Effect freizuschalten.</Text>
-            <LineId>1600000429</LineId> 
-        </Text>
-        <!-- Boosted Hint -->
-        <Text>
-            <Text>Besitze mindestens 8 beliebige Schreine auf dieser Insel.&#xD;Hinweis: Effekt wirkt Inselweit auf die Villa und alle Officia. </Text>
-            <LineId>1600000430</LineId> 
-        </Text>
-      </ModOp>
-    </Group>
-
     <!-- Specialist AE-HealthFireHappyShrines-L -->
     <Group>
       <ModOp Add="/TextExport/Texts">
