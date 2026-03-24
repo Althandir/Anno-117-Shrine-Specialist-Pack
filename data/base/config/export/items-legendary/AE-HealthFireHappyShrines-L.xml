@@ -176,19 +176,19 @@
                     <AdditionalAttributes>
                         <Health>
                             <AmountOrPercent>
-                                <Value>0.3</Value>
+                                <Value>0.25</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Health>
                         <Happiness>
                             <AmountOrPercent>
-                                <Value>0.3</Value>
+                                <Value>0.25</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Happiness>
                         <FireSafety>
                             <AmountOrPercent>
-                                <Value>0.3</Value>
+                                <Value>0.25</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </FireSafety>
@@ -240,7 +240,7 @@
                 <ModuleOwnerUpgrade/>
                 <MaintenanceUpgrade>
                     <MaintenanceFactorUpgrade>
-                        <Value>-20</Value>
+                        <Value>-50</Value>
                         <Percental>1</Percental>
                     </MaintenanceFactorUpgrade>
                 </MaintenanceUpgrade>
@@ -303,25 +303,25 @@
                     <AdditionalAttributes>
                         <Health>
                             <AmountOrPercent>
-                                <Value>0.6</Value>
+                                <Value>0.5</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Health>
                         <Happiness>
                             <AmountOrPercent>
-                                <Value>0.6</Value>
+                                <Value>0.5</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Happiness>
                         <FireSafety>
                             <AmountOrPercent>
-                                <Value>0.6</Value>
+                                <Value>0.5</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </FireSafety>
                         <Prestige>
                             <AmountOrPercent>
-                                <Value>0.6</Value>
+                                <Value>0.5</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Prestige>
