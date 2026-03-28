@@ -6,8 +6,8 @@
 # or my stupid brain getting new Ideas all the time and never finishing something >~<
  
 ### GUIDRANGE: 
-#   Starting GUID:  1600000327
-#   Ending GUID:    1600000487
+#   1600000327 - 1600000399
+#   1600000432 - 1600000487
 ###
 -->
 <ModOps>
@@ -26,14 +26,6 @@
 <Include File="items-rare/AE-HappinessAllShrines-R.xml" />
 <Include File="items-rare/AE-HealthAllShrines-R.xml" />
 
-<Include File="items-rare/AE-NR-CeresShrine-R.xml" />
-<Include File="items-rare/AE-NR-CernunnosShrine-R.xml" />
-<Include File="items-rare/AE-NR-EponaShrine-R.xml" />
-<Include File="items-rare/AE-NR-MarsShrine-R.xml" />
-<Include File="items-rare/AE-NR-MercuryShrine-R.xml" />
-<Include File="items-rare/AE-NR-MinervaShrine-R.xml" />
-<Include File="items-rare/AE-NR-NeptuneShrine-R.xml" />
-
 <Include File="items-epic/AE-WFMaint-AddGoodsCeresShrine-E.xml" />
 <Include File="items-epic/AE-WFMaint-AddGoodsCernunnosShrine-E.xml" />
 <Include File="items-epic/AE-WFMaint-AddGoodsEponaShrine-E.xml" />
@@ -43,8 +35,6 @@
 <Include File="items-epic/AE-WFMaint-AddGoodsNeptuneShrine-E.xml" />
 
 <Include File="items-legendary/EffectRangeAllShrines-L.xml" />
-
-<Include File="items-legendary/AE-HealthFireHappyShrines-L.xml" />
 
 <Include File="items-legendary/AE-MajorCeresShrine-L.xml" />
 <Include File="items-legendary/AE-MajorCernunnosShrine-L.xml" />

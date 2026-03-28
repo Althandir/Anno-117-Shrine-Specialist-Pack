@@ -182,120 +182,6 @@
       </ModOp>
     </Group>
 
-
-    <!-- Specialist AE-NR-CeresShrine-R -->
-    <Group>
-      <ModOp Add="/TextExport/Texts">
-        <!-- Title -->
-        <Text>
-            <Text>Sacrifice Collector of Ceres</Text>
-            <LineId>1600000400</LineId> <!-- <GUID>1600000400</GUID> -->
-        </Text>
-        <!-- Description -->
-        <Text>
-            <Text>Collects goods for a sacrifice in the name of Ceres.&#xD;Hint: Affects all Residences in street distance of the shrine.</Text>
-            <LineId>1600000401</LineId> 
-        </Text>
-      </ModOp>
-    </Group>
-
-    <!-- Specialist AE-NR-CernunnosShrine-R -->
-    <Group>
-      <ModOp Add="/TextExport/Texts">
-        <!-- Title -->
-        <Text>
-            <Text>Sacrifice Collector of Cernunnos</Text>
-            <LineId>1600000404</LineId> <!-- <GUID>1600000404</GUID> -->
-        </Text>
-        <!-- Description -->
-        <Text>
-            <Text>Collects goods for a sacrifice in the name of Cernunnos.&#xD;Hint: Affects all Residences in street distance of the shrine.</Text>
-            <LineId>1600000405</LineId> 
-        </Text>
-      </ModOp>
-    </Group>
-
-    <!-- Specialist AE-NR-EponaShrine-R -->
-    <Group>
-      <ModOp Add="/TextExport/Texts">
-        <!-- Title -->
-        <Text>
-            <Text>Sacrifice Collector of Epona</Text>
-            <LineId>1600000408</LineId> <!-- <GUID>1600000408</GUID> -->
-        </Text>
-        <!-- Description -->
-        <Text>
-            <Text>Collects goods for a sacrifice in the name of Epona.&#xD;Hint: Affects all Residences in street distance of the shrine.</Text>
-            <LineId>1600000409</LineId> 
-        </Text>
-      </ModOp>
-    </Group>
-
-    <!-- Specialist AE-NR-MarsShrine-R -->
-    <Group>
-      <ModOp Add="/TextExport/Texts">
-        <!-- Title -->
-        <Text>
-            <Text>Sacrifice Collector of Mars</Text>
-            <LineId>1600000412</LineId> <!-- <GUID>1600000412</GUID> -->
-        </Text>
-        <!-- Description -->
-        <Text>
-            <Text>Collects goods for a sacrifice in the name of Mars.&#xD;Hint: Affects all Residences in street distance of the shrine.</Text>
-            <LineId>1600000413</LineId> 
-        </Text>
-      </ModOp>
-    </Group>
-
-    <!-- Specialist AE-NR-MercuryShrine-R -->
-    <Group>
-      <ModOp Add="/TextExport/Texts">
-        <!-- Title -->
-        <Text>
-            <Text>Sacrifice Collector of Mercury-Lugus</Text>
-            <LineId>1600000416</LineId> <!-- <GUID>1600000416</GUID> -->
-        </Text>
-        <!-- Description -->
-        <Text>
-            <Text>Collects goods for a sacrifice in the name of Mercury-Lugus.&#xD;Hint: Affects all Residences in street distance of the shrine.</Text>
-            <LineId>1600000417</LineId> 
-        </Text>
-      </ModOp>
-    </Group>
-
-    <!-- Specialist AE-NR-MinervaShrine-R -->
-    <Group>
-      <ModOp Add="/TextExport/Texts">
-        <!-- Title -->
-        <Text>
-            <Text>Sacrifice Collector of Minerva</Text>
-            <LineId>1600000420</LineId> <!-- <GUID>1600000420</GUID> -->
-        </Text>
-        <!-- Description -->
-        <Text>
-            <Text>Collects goods for a sacrifice in the name of Minerva.&#xD;Hint: Affects all Residences in street distance of the shrine.</Text>
-            <LineId>1600000421</LineId> 
-        </Text>
-      </ModOp>
-    </Group>
-
-    <!-- Specialist AE-NR-NeptuneShrine-R -->
-    <Group>
-      <ModOp Add="/TextExport/Texts">
-        <!-- Title -->
-        <Text>
-            <Text>Sacrifice Collector of Neptune</Text>
-            <LineId>1600000424</LineId> <!-- <GUID>1600000424</GUID> -->
-        </Text>
-        <!-- Description -->
-        <Text>
-            <Text>Collects goods for a sacrifice in the name of Neptune.&#xD;Hint: Affects all Residences in street distance of the shrine.</Text>
-            <LineId>1600000425</LineId> 
-        </Text>
-      </ModOp>
-    </Group>
-  </Group>
-
   <!-- Epic Specialists -->
   <Group>
     <!-- Specialist AE-WFMaint-AddGoodsCeresShrine-E -->
@@ -414,27 +300,7 @@
 
   <!-- Legendary Specialists -->
   <Group>
-    <!-- Specialist AE-HealthFireHappyShrines-L -->
-    <Group>
-      <ModOp Add="/TextExport/Texts">
-        <!-- Title -->
-        <Text>
-            <Text>Magnanimus Vias, The Great Hearted Spirit</Text>
-            <LineId>1600000432</LineId> <!-- <GUID>1600000432</GUID> -->
-        </Text>
-        <!-- Description -->
-        <Text>
-            <Text>Has been born to keep every virtues of the deities deep in his heart and assists the citizens to follow their desired path to salvation.</Text>
-            <LineId>1600000433</LineId> 
-        </Text>
-        <!-- Boosted Hint -->
-        <Text>
-            <Text>Have at least 4 Shrines of any deity on this Island.</Text>
-            <LineId>1600000434</LineId> 
-        </Text>
-      </ModOp>
-    </Group>
-
+    
     <!-- Specialist EffectRangeAllShrines-L -->
     <Group>
       <ModOp Add="/TextExport/Texts">
