@@ -1,609 +1,477 @@
 <ModOps>
-  <!-- Common Specialists -->
-  <Group>
-  <!-- Specialist EffectRangeAllShrines-C -->
+    <!-- Common Specialists -->
     <Group>
-      <ModOp Add="/TextExport/Texts">
-        <!-- Title -->
-        <Text>
-            <Text>Shrine Visitor</Text>
-            <LineId>1600000327</LineId> <!-- <GUID>1600000327</GUID> -->
-        </Text>
-        <!-- Description -->
-        <Text>
-            <Text>Admires every type of shrine.&#xD;Hint: This effect is stackable.</Text>
-            <LineId>1600000328</LineId> 
-        </Text>
-      </ModOp>
+    <!-- Specialist EffectRangeAllShrines-C -->
+        <Group>
+        <ModOp Add="/TextExport/Texts">
+            <!-- Title -->
+            <Text>
+                <Text>Shrine Visitor</Text>
+                <LineId>1600000327</LineId> <!-- <GUID>1600000327</GUID> -->
+            </Text>
+            <!-- Description -->
+            <Text>
+                <Text>Admires every type of shrine.&#xD;Hint: This effect is stackable.&#xD;(Shrine-Pack)</Text>
+                <LineId>1600000328</LineId> 
+            </Text>
+        </ModOp>
+        </Group>
+
+        <!-- Specialist AE-MinorCeresShrine-C -->
+        <Group>
+        <ModOp Add="/TextExport/Texts">
+            <!-- Title -->
+            <Text>
+                <Text>Follower of Ceres</Text>
+                <LineId>1600000329</LineId> <!-- <GUID>1600000329</GUID> -->
+            </Text>
+            <!-- Description -->
+            <Text>
+                <Text>Prays at the shrine to find the blessing of Ceres.&#xD;(Shrine-Pack)</Text>
+                <LineId>1600000330</LineId> 
+            </Text>
+        </ModOp>
+        </Group>
+
+        <!-- Specialist AE-MinorCernunnosShrine-C -->
+        <Group>
+        <ModOp Add="/TextExport/Texts">
+            <!-- Title -->
+            <Text>
+                <Text>Follower of Cernunnos</Text>
+                <LineId>1600000333</LineId> <!-- <GUID>1600000333</GUID> -->
+            </Text>
+            <!-- Description -->
+            <Text>
+                <Text>Prays at the shrine to find the blessing of Cernunnos.&#xD;(Shrine-Pack)</Text>
+                <LineId>1600000334</LineId> 
+            </Text>
+        </ModOp>
+        </Group>
+
+        <!-- Specialist AE-MinorEponaShrine-C -->
+        <Group>
+        <ModOp Add="/TextExport/Texts">
+            <!-- Title -->
+            <Text>
+                <Text>Follower of Epona</Text>
+                <LineId>1600000337</LineId> <!-- <GUID>1600000337</GUID> -->
+            </Text>
+            <!-- Description -->
+            <Text>
+                <Text>Prays at the shrine to find the blessing of Epona.&#xD;(Shrine-Pack)</Text>
+                <LineId>1600000338</LineId> 
+            </Text>
+        </ModOp>
+        </Group>
+
+        <!-- Specialist AE-MinorMarsShrine-C -->
+        <Group>
+        <ModOp Add="/TextExport/Texts">
+            <!-- Title -->
+            <Text>
+                <Text>Follower of Mars</Text>
+                <LineId>1600000341</LineId> <!-- <GUID>1600000341</GUID> -->
+            </Text>
+            <!-- Description -->
+            <Text>
+                <Text>Prays at the shrine to find the blessing of Mars.&#xD;(Shrine-Pack)</Text>
+                <LineId>1600000342</LineId> 
+            </Text>
+        </ModOp>
+        </Group>
+
+        <!-- Specialist AE-MinorMercuryShrine-C -->
+        <Group>
+        <ModOp Add="/TextExport/Texts">
+            <!-- Title -->
+            <Text>
+                <Text>Follower of Mercury-Lugus</Text>
+                <LineId>1600000345</LineId> <!-- <GUID>1600000345</GUID> -->
+            </Text>
+            <!-- Description -->
+            <Text>
+                <Text>Prays at the shrine to find the blessing of Mercury-Lugus.&#xD;(Shrine-Pack)</Text>
+                <LineId>1600000346</LineId> 
+            </Text>
+        </ModOp>
+        </Group>
+
+        <!-- Specialist AE-MinorMinervaShrine-C -->
+        <Group>
+        <ModOp Add="/TextExport/Texts">
+            <!-- Title -->
+            <Text>
+                <Text>Follower of Minerva</Text>
+                <LineId>1600000349</LineId> <!-- <GUID>1600000349</GUID> -->
+            </Text>
+            <!-- Description -->
+            <Text>
+                <Text>Prays at the shrine to find the blessing of Minerva.&#xD;(Shrine-Pack)</Text>
+                <LineId>1600000350</LineId> 
+            </Text>
+        </ModOp>
+        </Group>
+
+        <!-- Specialist AE-MinorNeptuneShrine-C -->
+        <Group>
+        <ModOp Add="/TextExport/Texts">
+            <!-- Title -->
+            <Text>
+                <Text>Follower of Neptune</Text>
+                <LineId>1600000353</LineId> <!-- <GUID>1600000353</GUID> -->
+            </Text>
+            <!-- Description -->
+            <Text>
+                <Text>Prays at the shrine to find the blessing of Neptune.&#xD;(Shrine-Pack)</Text>
+                <LineId>1600000354</LineId> 
+            </Text>
+        </ModOp>
+        </Group>
+
     </Group>
 
-    <!-- Specialist AE-MinorCeresShrine-C -->
+    <!-- Rare Specialists -->
     <Group>
-      <ModOp Add="/TextExport/Texts">
-        <!-- Title -->
-        <Text>
-            <Text>Follower of Ceres</Text>
-            <LineId>1600000329</LineId> <!-- <GUID>1600000329</GUID> -->
-        </Text>
-        <!-- Description -->
-        <Text>
-            <Text>Prays at the shrine to find the blessing of Ceres.</Text>
-            <LineId>1600000330</LineId> 
-        </Text>
-      </ModOp>
+
+        <!-- Specialist AE-FiresafetyAllShrines-R -->
+        <Group>
+        <ModOp Add="/TextExport/Texts">
+            <!-- Title -->
+            <Text>
+                <Text>Blessed Vigiles</Text>
+                <LineId>1600000388</LineId> <!-- <GUID>1600000388</GUID> -->
+            </Text>
+            <!-- Description -->
+            <Text>
+                <Text>Has himself blessed before every deployment to a fire.&#xD;(Shrine-Pack)</Text>
+                <LineId>1600000389</LineId> 
+            </Text>
+        </ModOp>
+        </Group>
+
+        <!-- Specialist AE-HappinessAllShrines-R -->
+        <Group>
+        <ModOp Add="/TextExport/Texts">
+            <!-- Title -->
+            <Text>
+                <Text>Blessed Custodes</Text>
+                <LineId>1600000392</LineId> <!-- <GUID>1600000392</GUID> -->
+            </Text>
+            <!-- Description -->
+            <Text>
+                <Text>Keeps the Streets safe with the blessing of the gods.&#xD;(Shrine-Pack)</Text>
+                <LineId>1600000393</LineId> 
+            </Text>
+        </ModOp>
+        </Group>
+
+        <!-- Specialist AE-HealthAllShrines-R -->
+        <Group>
+        <ModOp Add="/TextExport/Texts">
+            <!-- Title -->
+            <Text>
+                <Text>Smelling Shrine Visitor</Text>
+                <LineId>1600000396</LineId> <!-- <GUID>1600000396</GUID> -->
+            </Text>
+            <!-- Description -->
+            <Text>
+                <Text>Hopes for a divine blessing to remove her smell.&#xD;(Shrine-Pack)</Text>
+                <LineId>1600000397</LineId> 
+            </Text>
+        </ModOp>
+        </Group>
+
+    </Group>
+    
+    <!-- Epic Specialists -->
+    <Group>
+        <!-- Specialist AE-WFMaint-AddGoodsCeresShrine-E -->
+        <Group>
+        <ModOp Add="/TextExport/Texts">
+            <!-- Title -->
+            <Text>
+                <Text>Traveling Worker of Ceres</Text>
+                <LineId>1600000357</LineId> <!-- <GUID>1600000353</GUID> -->
+            </Text>
+            <!-- Description -->
+            <Text>
+                <Text>Chosen by Ceres to assist at her hard work.&#xD;Hint: Effect applies to all blessed chains associated with this deity within street distance of the shrine.&#xD;(Shrine-Pack)</Text>
+                <LineId>1600000358</LineId> 
+            </Text>
+        </ModOp>
+        </Group>
+
+        <!-- Specialist AE-WFMaint-AddGoodsCernunnosShrine-E -->
+        <Group>
+        <ModOp Add="/TextExport/Texts">
+            <!-- Title -->
+            <Text>
+                <Text>Traveling Worker of Cernunnos</Text>
+                <LineId>1600000361</LineId> <!-- <GUID>1600000361</GUID> -->
+            </Text>
+            <!-- Description -->
+            <Text>
+                <Text>Chosen by Cernunnos to assist at his hard work.&#xD;Hint: Effect applies to all blessed chains associated with this deity within street distance of the shrine.&#xD;(Shrine-Pack)</Text>
+                <LineId>1600000362</LineId> 
+            </Text>
+        </ModOp>
+        </Group>
+
+        <!-- Specialist AE-WFMaint-AddGoodsEponaShrine-E -->
+        <Group>
+        <ModOp Add="/TextExport/Texts">
+            <!-- Title -->
+            <Text>
+                <Text>Traveling Worker of Epona</Text>
+                <LineId>1600000365</LineId> <!-- <GUID>1600000365</GUID> -->
+            </Text>
+            <!-- Description -->
+            <Text>
+                <Text>Chosen by Epona to assist at her hard work.&#xD;Hint: Effect applies to all blessed chains associated with this deity within street distance of the shrine.&#xD;(Shrine-Pack)</Text>
+                <LineId>1600000366</LineId> 
+            </Text>
+        </ModOp>
+        </Group>
+
+        <!-- Specialist AE-WFMaint-AddGoodsMarsShrine-E -->
+        <Group>
+        <ModOp Add="/TextExport/Texts">
+            <!-- Title -->
+            <Text>
+                <Text>Traveling Worker of Mars</Text>
+                <LineId>1600000369</LineId> <!-- <GUID>1600000369</GUID> -->
+            </Text>
+            <!-- Description -->
+            <Text>
+                <Text>Chosen by Mars to assist at his hard work.&#xD;Hint: Effect applies to all blessed chains associated with this deity within street distance of the shrine.&#xD;(Shrine-Pack)</Text>
+                <LineId>1600000370</LineId> 
+            </Text>
+        </ModOp>
+        </Group>
+
+        <!-- Specialist AE-WFMaint-AddGoodsMercuryShrine-E -->
+        <Group>
+        <ModOp Add="/TextExport/Texts">
+            <!-- Title -->
+            <Text>
+                <Text>Traveling Worker of Mercury-Lugus</Text>
+                <LineId>1600000373</LineId> <!-- <GUID>1600000373</GUID> -->
+            </Text>
+            <!-- Description -->
+            <Text>
+                <Text>Chosen by Mercury-Lugus to assist at his hard work.&#xD;Hint: Effect applies to all blessed chains associated with this deity within street distance of the shrine.&#xD;For Mercury-Lugus these are Gold and Silver.&#xD;(Shrine-Pack)</Text>
+                <LineId>1600000374</LineId> 
+            </Text>
+        </ModOp>
+        </Group>
+
+        <!-- Specialist AE-WFMaint-AddGoodsMinervaShrine-E -->
+        <Group>
+        <ModOp Add="/TextExport/Texts">
+            <!-- Title -->
+            <Text>
+                <Text>Traveling Worker of Minerva</Text>
+                <LineId>1600000377</LineId> <!-- <GUID>1600000377</GUID> -->
+            </Text>
+            <!-- Description -->
+            <Text>
+                <Text>Chosen by Minerva to assist at her hard work.&#xD;Hint: Effect applies to all blessed chains associated with this deity within street distance of the shrine.&#xD;(Shrine-Pack)</Text>
+                <LineId>1600000378</LineId> 
+            </Text>
+        </ModOp>
+        </Group>
+
+        <!-- Specialist AE-WFMaint-AddGoodsNeptuneShrine-E -->
+        <Group>
+        <ModOp Add="/TextExport/Texts">
+            <!-- Title -->
+            <Text>
+                <Text>Traveling Worker of Neptune</Text>
+                <LineId>1600000381</LineId> <!-- <GUID>1600000381</GUID> -->
+            </Text>
+            <!-- Description -->
+            <Text>
+                <Text>Chosen by Neptune to assist at his hard work.&#xD;Hint: Effect applies to all blessed chains associated with this deity within street distance of the shrine.&#xD;(Shrine-Pack)</Text>
+                <LineId>1600000382</LineId> 
+            </Text>
+        </ModOp>
+        </Group>
+
     </Group>
 
-    <!-- Specialist AE-MinorCernunnosShrine-C -->
+    <!-- Legendary Specialists -->
     <Group>
-      <ModOp Add="/TextExport/Texts">
-        <!-- Title -->
-        <Text>
-            <Text>Follower of Cernunnos</Text>
-            <LineId>1600000333</LineId> <!-- <GUID>1600000333</GUID> -->
-        </Text>
-        <!-- Description -->
-        <Text>
-            <Text>Prays at the shrine to find the blessing of Cernunnos.</Text>
-            <LineId>1600000334</LineId> 
-        </Text>
-      </ModOp>
+        
+        <!-- Specialist EffectRangeAllShrines-L -->
+        <Group>
+        <ModOp Add="/TextExport/Texts">
+            <!-- Title -->
+            <Text>
+                <Text>Memorata Peregrina, The Unforgotten Disciple</Text>
+                <LineId>1600000385</LineId> <!-- <GUID>1600000385</GUID> -->
+            </Text>
+            <!-- Description -->
+            <Text>
+                <Text>She likes to wander among all the shrines on this island so that they will never be forgotten.&#xD;Hint: This effect is stackable.&#xD;(Shrine-Pack)</Text>
+                <LineId>1600000386</LineId> 
+            </Text>
+            <!-- Boosted Hint -->
+            <Text>
+                <Text>Have a sizeable, faithful population on this Island. (5000 Population & Belief)</Text>
+                <LineId>1600000387</LineId> 
+            </Text>
+        </ModOp>
+        </Group>
+
+        <!-- Specialist AE-MajorCeresShrine-L -->
+        <Group>
+        <ModOp Add="/TextExport/Texts">
+            <!-- Title -->
+            <Text>
+                <Text>Blessed Follower of Ceres</Text>
+                <LineId>1600000439</LineId> <!-- <GUID>1600000439</GUID> -->
+            </Text>
+            <!-- Description -->
+            <Text>
+                <Text>She has found the blessing of Ceres and manifests it at any shrine of her on the Island.&#xD;(Shrine-Pack)</Text>
+                <LineId>1600000440</LineId> 
+            </Text>
+            <!-- Boosted Hint -->
+            <Text>
+                <Text>Have at least 5 Shrines of Ceres active on this Island.&#xD;(Shrine-Pack)</Text>
+                <LineId>1600000441</LineId> 
+            </Text>
+        </ModOp>
+        </Group>
+
+        <!-- Specialist AE-MajorCernunnosShrine-L -->
+        <Group>
+        <ModOp Add="/TextExport/Texts">
+            <!-- Title -->
+            <Text>
+                <Text>Blessed Journeying Druid of Cernunnos</Text>
+                <LineId>1600000446</LineId> <!-- <GUID>1600000446</GUID> -->
+            </Text>
+            <!-- Description -->
+            <Text>
+                <Text>He brings the blessing of Cernunnos and manifests it at any shrine of him on the Island.&#xD;(Shrine-Pack)</Text>
+                <LineId>1600000447</LineId> 
+            </Text>
+            <!-- Boosted Hint -->
+            <Text>
+                <Text>Have at least 5 Shrines of Cernunnos active on this Island.</Text>
+                <LineId>1600000448</LineId> 
+            </Text>
+        </ModOp>
+        </Group>
+
+        <!-- Specialist AE-MajorEponaShrine-L -->
+        <Group>
+        <ModOp Add="/TextExport/Texts">
+            <!-- Title -->
+            <Text>
+                <Text>Blessed Journeying Druid of Epona</Text>
+                <LineId>1600000453</LineId> <!-- <GUID>1600000453</GUID> -->
+            </Text>
+            <!-- Description -->
+            <Text>
+                <Text>He brings the blessing of Epona and manifests it at any shrine of her on the Island.&#xD;(Shrine-Pack)</Text>
+                <LineId>1600000454</LineId> 
+            </Text>
+            <!-- Boosted Hint -->
+            <Text>
+                <Text>Have at least 5 Shrines of Epona active on this Island.</Text>
+                <LineId>1600000455</LineId> 
+            </Text>
+        </ModOp>
+        </Group>
+
+        <!-- Specialist AE-MajorMarsShrine-L -->
+        <Group>
+        <ModOp Add="/TextExport/Texts">
+            <!-- Title -->
+            <Text>
+                <Text>Blessed Follower of Mars</Text>
+                <LineId>1600000460</LineId> <!-- <GUID>1600000460</GUID> -->
+            </Text>
+            <!-- Description -->
+            <Text>
+                <Text>She has found the blessing of Mars and manifests it at any shrine of her on the Island.&#xD;(Shrine-Pack)</Text>
+                <LineId>1600000461</LineId> 
+            </Text>
+            <!-- Boosted Hint -->
+            <Text>
+                <Text>Have at least 5 Shrines of Mars active on this Island.</Text>
+                <LineId>1600000462</LineId> 
+            </Text>
+        </ModOp>
+        </Group>
+
+        <!-- Specialist AE-MajorMercuryShrine-L -->
+        <Group>
+        <ModOp Add="/TextExport/Texts">
+            <!-- Title -->
+            <Text>
+                <Text>Blessed Follower of Mercury-Lugus</Text>
+                <LineId>1600000467</LineId> <!-- <GUID>1600000467</GUID> -->
+            </Text>
+            <!-- Description -->
+            <Text>
+                <Text>She has found the blessing of Mercury-Lugus and manifests it at any shrine of her on the Island.&#xD;(Shrine-Pack)</Text>
+                <LineId>1600000468</LineId> 
+            </Text>
+            <!-- Boosted Hint -->
+            <Text>
+                <Text>Have at least 5 Shrines of Mercury-Lugus active on this Island.</Text>
+                <LineId>1600000469</LineId> 
+            </Text>
+        </ModOp>
+        </Group>
+
+        <!-- Specialist AE-MajorMinervaShrine-L -->
+        <Group>
+        <ModOp Add="/TextExport/Texts">
+            <!-- Title -->
+            <Text>
+                <Text>Blessed Follower of Minerva</Text>
+                <LineId>1600000474</LineId> <!-- <GUID>1600000474</GUID> -->
+            </Text>
+            <!-- Description -->
+            <Text>
+                <Text>She has found the blessing of Minerva and manifests it at any shrine of her on the Island.&#xD;(Shrine-Pack)</Text>
+                <LineId>1600000475</LineId> 
+            </Text>
+            <!-- Boosted Hint -->
+            <Text>
+                <Text>Have at least 5 Shrines of Minerva active on this Island.</Text>
+                <LineId>1600000476</LineId> 
+            </Text>
+        </ModOp>
+        </Group>
+
+        <!-- Specialist AE-MajorNeptuneShrine-L -->
+        <Group>
+        <ModOp Add="/TextExport/Texts">
+            <!-- Title -->
+            <Text>
+                <Text>Blessed Follower of Neptune</Text>
+                <LineId>1600000481</LineId> <!-- <GUID>1600000481</GUID> -->
+            </Text>
+            <!-- Description -->
+            <Text>
+                <Text>She has found the blessing of Neptune and manifests it at any shrine of her on the Island.&#xD;(Shrine-Pack)</Text>
+                <LineId>1600000482</LineId> 
+            </Text>
+            <!-- Boosted Hint -->
+            <Text>
+                <Text>Have at least 5 Shrines of Neptune active on this Island.</Text>
+                <LineId>1600000483</LineId> 
+            </Text>
+        </ModOp>
+        </Group>
+
     </Group>
-
-    <!-- Specialist AE-MinorEponaShrine-C -->
-    <Group>
-      <ModOp Add="/TextExport/Texts">
-        <!-- Title -->
-        <Text>
-            <Text>Follower of Epona</Text>
-            <LineId>1600000337</LineId> <!-- <GUID>1600000337</GUID> -->
-        </Text>
-        <!-- Description -->
-        <Text>
-            <Text>Prays at the shrine to find the blessing of Epona.</Text>
-            <LineId>1600000338</LineId> 
-        </Text>
-      </ModOp>
-    </Group>
-
-    <!-- Specialist AE-MinorMarsShrine-C -->
-    <Group>
-      <ModOp Add="/TextExport/Texts">
-        <!-- Title -->
-        <Text>
-            <Text>Follower of Mars</Text>
-            <LineId>1600000341</LineId> <!-- <GUID>1600000341</GUID> -->
-        </Text>
-        <!-- Description -->
-        <Text>
-            <Text>Prays at the shrine to find the blessing of Mars.</Text>
-            <LineId>1600000342</LineId> 
-        </Text>
-      </ModOp>
-    </Group>
-
-    <!-- Specialist AE-MinorMercuryShrine-C -->
-    <Group>
-      <ModOp Add="/TextExport/Texts">
-        <!-- Title -->
-        <Text>
-            <Text>Follower of Mercury-Lugus</Text>
-            <LineId>1600000345</LineId> <!-- <GUID>1600000345</GUID> -->
-        </Text>
-        <!-- Description -->
-        <Text>
-            <Text>Prays at the shrine to find the blessing of Mercury-Lugus.</Text>
-            <LineId>1600000346</LineId> 
-        </Text>
-      </ModOp>
-    </Group>
-
-    <!-- Specialist AE-MinorMinervaShrine-C -->
-    <Group>
-      <ModOp Add="/TextExport/Texts">
-        <!-- Title -->
-        <Text>
-            <Text>Follower of Minerva</Text>
-            <LineId>1600000349</LineId> <!-- <GUID>1600000349</GUID> -->
-        </Text>
-        <!-- Description -->
-        <Text>
-            <Text>Prays at the shrine to find the blessing of Minerva.</Text>
-            <LineId>1600000350</LineId> 
-        </Text>
-      </ModOp>
-    </Group>
-
-    <!-- Specialist AE-MinorNeptuneShrine-C -->
-    <Group>
-      <ModOp Add="/TextExport/Texts">
-        <!-- Title -->
-        <Text>
-            <Text>Follower of Neptune</Text>
-            <LineId>1600000353</LineId> <!-- <GUID>1600000353</GUID> -->
-        </Text>
-        <!-- Description -->
-        <Text>
-            <Text>Prays at the shrine to find the blessing of Neptune.</Text>
-            <LineId>1600000354</LineId> 
-        </Text>
-      </ModOp>
-    </Group>
-
-  </Group>
-
-  <!-- Rare Specialists -->
-  <Group>
-
-    <!-- Specialist AE-FiresafetyAllShrines-R -->
-    <Group>
-      <ModOp Add="/TextExport/Texts">
-        <!-- Title -->
-        <Text>
-            <Text>Blessed Vigiles</Text>
-            <LineId>1600000388</LineId> <!-- <GUID>1600000388</GUID> -->
-        </Text>
-        <!-- Description -->
-        <Text>
-            <Text>Has himself blessed before every deployment to a fire.</Text>
-            <LineId>1600000389</LineId> 
-        </Text>
-      </ModOp>
-    </Group>
-
-    <!-- Specialist AE-HappinessAllShrines-R -->
-    <Group>
-      <ModOp Add="/TextExport/Texts">
-        <!-- Title -->
-        <Text>
-            <Text>Blessed Custodes</Text>
-            <LineId>1600000392</LineId> <!-- <GUID>1600000392</GUID> -->
-        </Text>
-        <!-- Description -->
-        <Text>
-            <Text>Keeps the Streets safe with the blessing of the gods.</Text>
-            <LineId>1600000393</LineId> 
-        </Text>
-      </ModOp>
-    </Group>
-
-    <!-- Specialist AE-HealthAllShrines-R -->
-    <Group>
-      <ModOp Add="/TextExport/Texts">
-        <!-- Title -->
-        <Text>
-            <Text>Smelling Shrine Visitor</Text>
-            <LineId>1600000396</LineId> <!-- <GUID>1600000396</GUID> -->
-        </Text>
-        <!-- Description -->
-        <Text>
-            <Text>Hopes for a divine blessing to remove her smell.</Text>
-            <LineId>1600000397</LineId> 
-        </Text>
-      </ModOp>
-    </Group>
-
-
-    <!-- Specialist AE-NR-CeresShrine-R -->
-    <Group>
-      <ModOp Add="/TextExport/Texts">
-        <!-- Title -->
-        <Text>
-            <Text>Sacrifice Collector of Ceres</Text>
-            <LineId>1600000400</LineId> <!-- <GUID>1600000400</GUID> -->
-        </Text>
-        <!-- Description -->
-        <Text>
-            <Text>Collects goods for a sacrifice in the name of Ceres.&#xD;Hint: Affects all Residences in street distance of the shrine.</Text>
-            <LineId>1600000401</LineId> 
-        </Text>
-      </ModOp>
-    </Group>
-
-    <!-- Specialist AE-NR-CernunnosShrine-R -->
-    <Group>
-      <ModOp Add="/TextExport/Texts">
-        <!-- Title -->
-        <Text>
-            <Text>Sacrifice Collector of Cernunnos</Text>
-            <LineId>1600000404</LineId> <!-- <GUID>1600000404</GUID> -->
-        </Text>
-        <!-- Description -->
-        <Text>
-            <Text>Collects goods for a sacrifice in the name of Cernunnos.&#xD;Hint: Affects all Residences in street distance of the shrine.</Text>
-            <LineId>1600000405</LineId> 
-        </Text>
-      </ModOp>
-    </Group>
-
-    <!-- Specialist AE-NR-EponaShrine-R -->
-    <Group>
-      <ModOp Add="/TextExport/Texts">
-        <!-- Title -->
-        <Text>
-            <Text>Sacrifice Collector of Epona</Text>
-            <LineId>1600000408</LineId> <!-- <GUID>1600000408</GUID> -->
-        </Text>
-        <!-- Description -->
-        <Text>
-            <Text>Collects goods for a sacrifice in the name of Epona.&#xD;Hint: Affects all Residences in street distance of the shrine.</Text>
-            <LineId>1600000409</LineId> 
-        </Text>
-      </ModOp>
-    </Group>
-
-    <!-- Specialist AE-NR-MarsShrine-R -->
-    <Group>
-      <ModOp Add="/TextExport/Texts">
-        <!-- Title -->
-        <Text>
-            <Text>Sacrifice Collector of Mars</Text>
-            <LineId>1600000412</LineId> <!-- <GUID>1600000412</GUID> -->
-        </Text>
-        <!-- Description -->
-        <Text>
-            <Text>Collects goods for a sacrifice in the name of Mars.&#xD;Hint: Affects all Residences in street distance of the shrine.</Text>
-            <LineId>1600000413</LineId> 
-        </Text>
-      </ModOp>
-    </Group>
-
-    <!-- Specialist AE-NR-MercuryShrine-R -->
-    <Group>
-      <ModOp Add="/TextExport/Texts">
-        <!-- Title -->
-        <Text>
-            <Text>Sacrifice Collector of Mercury-Lugus</Text>
-            <LineId>1600000416</LineId> <!-- <GUID>1600000416</GUID> -->
-        </Text>
-        <!-- Description -->
-        <Text>
-            <Text>Collects goods for a sacrifice in the name of Mercury-Lugus.&#xD;Hint: Affects all Residences in street distance of the shrine.</Text>
-            <LineId>1600000417</LineId> 
-        </Text>
-      </ModOp>
-    </Group>
-
-    <!-- Specialist AE-NR-MinervaShrine-R -->
-    <Group>
-      <ModOp Add="/TextExport/Texts">
-        <!-- Title -->
-        <Text>
-            <Text>Sacrifice Collector of Minerva</Text>
-            <LineId>1600000420</LineId> <!-- <GUID>1600000420</GUID> -->
-        </Text>
-        <!-- Description -->
-        <Text>
-            <Text>Collects goods for a sacrifice in the name of Minerva.&#xD;Hint: Affects all Residences in street distance of the shrine.</Text>
-            <LineId>1600000421</LineId> 
-        </Text>
-      </ModOp>
-    </Group>
-
-    <!-- Specialist AE-NR-NeptuneShrine-R -->
-    <Group>
-      <ModOp Add="/TextExport/Texts">
-        <!-- Title -->
-        <Text>
-            <Text>Sacrifice Collector of Neptune</Text>
-            <LineId>1600000424</LineId> <!-- <GUID>1600000424</GUID> -->
-        </Text>
-        <!-- Description -->
-        <Text>
-            <Text>Collects goods for a sacrifice in the name of Neptune.&#xD;Hint: Affects all Residences in street distance of the shrine.</Text>
-            <LineId>1600000425</LineId> 
-        </Text>
-      </ModOp>
-    </Group>
-  </Group>
-
-  <!-- Epic Specialists -->
-  <Group>
-    <!-- Specialist AE-WFMaint-AddGoodsCeresShrine-E -->
-    <Group>
-      <ModOp Add="/TextExport/Texts">
-        <!-- Title -->
-        <Text>
-            <Text>Traveling Worker of Ceres</Text>
-            <LineId>1600000357</LineId> <!-- <GUID>1600000353</GUID> -->
-        </Text>
-        <!-- Description -->
-        <Text>
-            <Text>Chosen by Ceres to assist at her hard work.&#xD;Hint: Effect applies to all blessed chains associated with this deity within street distance of the shrine.</Text>
-            <LineId>1600000358</LineId> 
-        </Text>
-      </ModOp>
-    </Group>
-
-    <!-- Specialist AE-WFMaint-AddGoodsCernunnosShrine-E -->
-    <Group>
-      <ModOp Add="/TextExport/Texts">
-        <!-- Title -->
-        <Text>
-            <Text>Traveling Worker of Cernunnos</Text>
-            <LineId>1600000361</LineId> <!-- <GUID>1600000361</GUID> -->
-        </Text>
-        <!-- Description -->
-        <Text>
-            <Text>Chosen by Cernunnos to assist at his hard work.&#xD;Hint: Effect applies to all blessed chains associated with this deity within street distance of the shrine.</Text>
-            <LineId>1600000362</LineId> 
-        </Text>
-      </ModOp>
-    </Group>
-
-    <!-- Specialist AE-WFMaint-AddGoodsEponaShrine-E -->
-    <Group>
-      <ModOp Add="/TextExport/Texts">
-        <!-- Title -->
-        <Text>
-            <Text>Traveling Worker of Epona</Text>
-            <LineId>1600000365</LineId> <!-- <GUID>1600000365</GUID> -->
-        </Text>
-        <!-- Description -->
-        <Text>
-            <Text>Chosen by Epona to assist at her hard work.&#xD;Hint: Effect applies to all blessed chains associated with this deity within street distance of the shrine.</Text>
-            <LineId>1600000366</LineId> 
-        </Text>
-      </ModOp>
-    </Group>
-
-    <!-- Specialist AE-WFMaint-AddGoodsMarsShrine-E -->
-    <Group>
-      <ModOp Add="/TextExport/Texts">
-        <!-- Title -->
-        <Text>
-            <Text>Traveling Worker of Mars</Text>
-            <LineId>1600000369</LineId> <!-- <GUID>1600000369</GUID> -->
-        </Text>
-        <!-- Description -->
-        <Text>
-            <Text>Chosen by Mars to assist at his hard work.&#xD;Hint: Effect applies to all blessed chains associated with this deity within street distance of the shrine.</Text>
-            <LineId>1600000370</LineId> 
-        </Text>
-      </ModOp>
-    </Group>
-
-    <!-- Specialist AE-WFMaint-AddGoodsMercuryShrine-E -->
-    <Group>
-      <ModOp Add="/TextExport/Texts">
-        <!-- Title -->
-        <Text>
-            <Text>Traveling Worker of Mercury-Lugus</Text>
-            <LineId>1600000373</LineId> <!-- <GUID>1600000373</GUID> -->
-        </Text>
-        <!-- Description -->
-        <Text>
-            <Text>Chosen by Mercury-Lugus to assist at his hard work.&#xD;Hint: Effect applies to all blessed chains associated with this deity within street distance of the shrine.&#xD;For Mercury-Lugus these are Gold and Silver.</Text>
-            <LineId>1600000374</LineId> 
-        </Text>
-      </ModOp>
-    </Group>
-
-    <!-- Specialist AE-WFMaint-AddGoodsMinervaShrine-E -->
-    <Group>
-      <ModOp Add="/TextExport/Texts">
-        <!-- Title -->
-        <Text>
-            <Text>Traveling Worker of Minerva</Text>
-            <LineId>1600000377</LineId> <!-- <GUID>1600000377</GUID> -->
-        </Text>
-        <!-- Description -->
-        <Text>
-            <Text>Chosen by Minerva to assist at her hard work.&#xD;Hint: Effect applies to all blessed chains associated with this deity within street distance of the shrine.</Text>
-            <LineId>1600000378</LineId> 
-        </Text>
-      </ModOp>
-    </Group>
-
-    <!-- Specialist AE-WFMaint-AddGoodsNeptuneShrine-E -->
-    <Group>
-      <ModOp Add="/TextExport/Texts">
-        <!-- Title -->
-        <Text>
-            <Text>Traveling Worker of Neptune</Text>
-            <LineId>1600000381</LineId> <!-- <GUID>1600000381</GUID> -->
-        </Text>
-        <!-- Description -->
-        <Text>
-            <Text>Chosen by Neptune to assist at his hard work.&#xD;Hint: Effect applies to all blessed chains associated with this deity within street distance of the shrine.</Text>
-            <LineId>1600000382</LineId> 
-        </Text>
-      </ModOp>
-    </Group>
-
-  </Group>
-
-  <!-- Legendary Specialists -->
-  <Group>
-    <!-- Specialist AE-HealthFireHappyShrines-L -->
-    <Group>
-      <ModOp Add="/TextExport/Texts">
-        <!-- Title -->
-        <Text>
-            <Text>Magnanimus Vias, The Great Hearted Spirit</Text>
-            <LineId>1600000432</LineId> <!-- <GUID>1600000432</GUID> -->
-        </Text>
-        <!-- Description -->
-        <Text>
-            <Text>Has been born to keep every virtues of the deities deep in his heart and assists the citizens to follow their desired path to salvation.</Text>
-            <LineId>1600000433</LineId> 
-        </Text>
-        <!-- Boosted Hint -->
-        <Text>
-            <Text>Have at least 4 Shrines of any deity on this Island</Text>
-            <LineId>1600000434</LineId> 
-        </Text>
-      </ModOp>
-    </Group>
-
-    <!-- Specialist EffectRangeAllShrines-L -->
-    <Group>
-      <ModOp Add="/TextExport/Texts">
-        <!-- Title -->
-        <Text>
-            <Text>Memorata Peregrina, The Unforgotten Disciple</Text>
-            <LineId>1600000385</LineId> <!-- <GUID>1600000385</GUID> -->
-        </Text>
-        <!-- Description -->
-        <Text>
-            <Text>She likes to wander among all the shrines on this island so that they will never be forgotten.&#xD;Hint: This effect is stackable.</Text>
-            <LineId>1600000386</LineId> 
-        </Text>
-        <!-- Boosted Hint -->
-        <Text>
-            <Text>Have a sizeable, faithful population on this Island. (5000 Population & Belief)</Text>
-            <LineId>1600000387</LineId> 
-        </Text>
-      </ModOp>
-    </Group>
-
-    <!-- Specialist AE-MajorCeresShrine-L -->
-    <Group>
-      <ModOp Add="/TextExport/Texts">
-        <!-- Title -->
-        <Text>
-            <Text>Blessed Follower of Ceres</Text>
-            <LineId>1600000439</LineId> <!-- <GUID>1600000439</GUID> -->
-        </Text>
-        <!-- Description -->
-        <Text>
-            <Text>She has found the blessing of Ceres and manifests it at any shrine of her on the Island.</Text>
-            <LineId>1600000440</LineId> 
-        </Text>
-        <!-- Boosted Hint -->
-        <Text>
-            <Text>Have at least 5 Shrines of Ceres active on this Island.</Text>
-            <LineId>1600000441</LineId> 
-        </Text>
-      </ModOp>
-    </Group>
-
-    <!-- Specialist AE-MajorCernunnosShrine-L -->
-    <Group>
-      <ModOp Add="/TextExport/Texts">
-        <!-- Title -->
-        <Text>
-            <Text>Blessed Journeying Druid of Cernunnos</Text>
-            <LineId>1600000446</LineId> <!-- <GUID>1600000446</GUID> -->
-        </Text>
-        <!-- Description -->
-        <Text>
-            <Text>He brings the blessing of Cernunnos and manifests it at any shrine of him on the Island.</Text>
-            <LineId>1600000447</LineId> 
-        </Text>
-        <!-- Boosted Hint -->
-        <Text>
-            <Text>Have at least 5 Shrines of Cernunnos active on this Island.</Text>
-            <LineId>1600000448</LineId> 
-        </Text>
-      </ModOp>
-    </Group>
-
-    <!-- Specialist AE-MajorEponaShrine-L -->
-    <Group>
-      <ModOp Add="/TextExport/Texts">
-        <!-- Title -->
-        <Text>
-            <Text>Blessed Journeying Druid of Epona</Text>
-            <LineId>1600000453</LineId> <!-- <GUID>1600000453</GUID> -->
-        </Text>
-        <!-- Description -->
-        <Text>
-            <Text>He brings the blessing of Epona and manifests it at any shrine of her on the Island.</Text>
-            <LineId>1600000454</LineId> 
-        </Text>
-        <!-- Boosted Hint -->
-        <Text>
-            <Text>Have at least 5 Shrines of Epona active on this Island.</Text>
-            <LineId>1600000455</LineId> 
-        </Text>
-      </ModOp>
-    </Group>
-
-    <!-- Specialist AE-MajorMarsShrine-L -->
-    <Group>
-      <ModOp Add="/TextExport/Texts">
-        <!-- Title -->
-        <Text>
-            <Text>Blessed Follower of Mars</Text>
-            <LineId>1600000460</LineId> <!-- <GUID>1600000460</GUID> -->
-        </Text>
-        <!-- Description -->
-        <Text>
-            <Text>She has found the blessing of Mars and manifests it at any shrine of her on the Island.</Text>
-            <LineId>1600000461</LineId> 
-        </Text>
-        <!-- Boosted Hint -->
-        <Text>
-            <Text>Have at least 5 Shrines of Mars active on this Island.</Text>
-            <LineId>1600000462</LineId> 
-        </Text>
-      </ModOp>
-    </Group>
-
-    <!-- Specialist AE-MajorMercuryShrine-L -->
-    <Group>
-      <ModOp Add="/TextExport/Texts">
-        <!-- Title -->
-        <Text>
-            <Text>Blessed Follower of Mercury-Lugus</Text>
-            <LineId>1600000467</LineId> <!-- <GUID>1600000467</GUID> -->
-        </Text>
-        <!-- Description -->
-        <Text>
-            <Text>She has found the blessing of Mercury-Lugus and manifests it at any shrine of her on the Island.</Text>
-            <LineId>1600000468</LineId> 
-        </Text>
-        <!-- Boosted Hint -->
-        <Text>
-            <Text>Have at least 5 Shrines of Mercury-Lugus active on this Island.</Text>
-            <LineId>1600000469</LineId> 
-        </Text>
-      </ModOp>
-    </Group>
-
-    <!-- Specialist AE-MajorMinervaShrine-L -->
-    <Group>
-      <ModOp Add="/TextExport/Texts">
-        <!-- Title -->
-        <Text>
-            <Text>Blessed Follower of Minerva</Text>
-            <LineId>1600000474</LineId> <!-- <GUID>1600000474</GUID> -->
-        </Text>
-        <!-- Description -->
-        <Text>
-            <Text>She has found the blessing of Minerva and manifests it at any shrine of her on the Island.</Text>
-            <LineId>1600000475</LineId> 
-        </Text>
-        <!-- Boosted Hint -->
-        <Text>
-            <Text>Have at least 5 Shrines of Minerva active on this Island.</Text>
-            <LineId>1600000476</LineId> 
-        </Text>
-      </ModOp>
-    </Group>
-
-    <!-- Specialist AE-MajorNeptuneShrine-L -->
-    <Group>
-      <ModOp Add="/TextExport/Texts">
-        <!-- Title -->
-        <Text>
-            <Text>Blessed Follower of Neptune</Text>
-            <LineId>1600000481</LineId> <!-- <GUID>1600000481</GUID> -->
-        </Text>
-        <!-- Description -->
-        <Text>
-            <Text>She has found the blessing of Neptune and manifests it at any shrine of her on the Island.</Text>
-            <LineId>1600000482</LineId> 
-        </Text>
-        <!-- Boosted Hint -->
-        <Text>
-            <Text>Have at least 5 Shrines of Neptune active on this Island.</Text>
-            <LineId>1600000483</LineId> 
-        </Text>
-      </ModOp>
-    </Group>
-
-  </Group>
 
 
 </ModOps>
