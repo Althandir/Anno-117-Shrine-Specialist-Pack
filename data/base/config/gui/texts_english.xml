@@ -11,7 +11,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Admires every type of shrine.&#xD;Hint: This effect is stackable.</Text>
+            <Text>Admires every type of shrine.&#xD;Hint: This effect is stackable.&#xD;(Shrine-Pack)</Text>
             <LineId>1600000328</LineId> 
         </Text>
       </ModOp>
@@ -27,7 +27,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Prays at the shrine to find the blessing of Ceres.</Text>
+            <Text>Prays at the shrine to find the blessing of Ceres.&#xD;(Shrine-Pack)</Text>
             <LineId>1600000330</LineId> 
         </Text>
       </ModOp>
@@ -43,7 +43,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Prays at the shrine to find the blessing of Cernunnos.</Text>
+            <Text>Prays at the shrine to find the blessing of Cernunnos.&#xD;(Shrine-Pack)</Text>
             <LineId>1600000334</LineId> 
         </Text>
       </ModOp>
@@ -59,7 +59,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Prays at the shrine to find the blessing of Epona.</Text>
+            <Text>Prays at the shrine to find the blessing of Epona.&#xD;(Shrine-Pack)</Text>
             <LineId>1600000338</LineId> 
         </Text>
       </ModOp>
@@ -75,7 +75,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Prays at the shrine to find the blessing of Mars.</Text>
+            <Text>Prays at the shrine to find the blessing of Mars.&#xD;(Shrine-Pack)</Text>
             <LineId>1600000342</LineId> 
         </Text>
       </ModOp>
@@ -91,7 +91,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Prays at the shrine to find the blessing of Mercury-Lugus.</Text>
+            <Text>Prays at the shrine to find the blessing of Mercury-Lugus.&#xD;(Shrine-Pack)</Text>
             <LineId>1600000346</LineId> 
         </Text>
       </ModOp>
@@ -107,7 +107,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Prays at the shrine to find the blessing of Minerva.</Text>
+            <Text>Prays at the shrine to find the blessing of Minerva.&#xD;(Shrine-Pack)</Text>
             <LineId>1600000350</LineId> 
         </Text>
       </ModOp>
@@ -123,7 +123,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Prays at the shrine to find the blessing of Neptune.</Text>
+            <Text>Prays at the shrine to find the blessing of Neptune.&#xD;(Shrine-Pack)</Text>
             <LineId>1600000354</LineId> 
         </Text>
       </ModOp>
@@ -144,7 +144,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Has himself blessed before every deployment to a fire.</Text>
+            <Text>Has himself blessed before every deployment to a fire.&#xD;(Shrine-Pack)</Text>
             <LineId>1600000389</LineId> 
         </Text>
       </ModOp>
@@ -160,7 +160,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Keeps the Streets safe with the blessing of the gods.</Text>
+            <Text>Keeps the Streets safe with the blessing of the gods.&#xD;(Shrine-Pack)</Text>
             <LineId>1600000393</LineId> 
         </Text>
       </ModOp>
@@ -176,7 +176,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Hopes for a divine blessing to remove her smell.</Text>
+            <Text>Hopes for a divine blessing to remove her smell.&#xD;(Shrine-Pack)</Text>
             <LineId>1600000397</LineId> 
         </Text>
       </ModOp>
@@ -194,7 +194,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Chosen by Ceres to assist at her hard work.&#xD;Hint: Effect applies to all blessed chains associated with this deity within street distance of the shrine.</Text>
+            <Text>Chosen by Ceres to assist at her hard work.&#xD;Hint: Effect applies to all blessed chains associated with this deity within street distance of the shrine.&#xD;(Shrine-Pack)</Text>
             <LineId>1600000358</LineId> 
         </Text>
       </ModOp>
@@ -210,7 +210,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Chosen by Cernunnos to assist at his hard work.&#xD;Hint: Effect applies to all blessed chains associated with this deity within street distance of the shrine.</Text>
+            <Text>Chosen by Cernunnos to assist at his hard work.&#xD;Hint: Effect applies to all blessed chains associated with this deity within street distance of the shrine.&#xD;(Shrine-Pack)</Text>
             <LineId>1600000362</LineId> 
         </Text>
       </ModOp>
@@ -226,7 +226,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Chosen by Epona to assist at her hard work.&#xD;Hint: Effect applies to all blessed chains associated with this deity within street distance of the shrine.</Text>
+            <Text>Chosen by Epona to assist at her hard work.&#xD;Hint: Effect applies to all blessed chains associated with this deity within street distance of the shrine.&#xD;(Shrine-Pack)</Text>
             <LineId>1600000366</LineId> 
         </Text>
       </ModOp>
@@ -242,7 +242,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Chosen by Mars to assist at his hard work.&#xD;Hint: Effect applies to all blessed chains associated with this deity within street distance of the shrine.</Text>
+            <Text>Chosen by Mars to assist at his hard work.&#xD;Hint: Effect applies to all blessed chains associated with this deity within street distance of the shrine.&#xD;(Shrine-Pack)</Text>
             <LineId>1600000370</LineId> 
         </Text>
       </ModOp>
@@ -258,7 +258,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Chosen by Mercury-Lugus to assist at his hard work.&#xD;Hint: Effect applies to all blessed chains associated with this deity within street distance of the shrine.&#xD;For Mercury-Lugus these are Gold and Silver.</Text>
+            <Text>Chosen by Mercury-Lugus to assist at his hard work.&#xD;Hint: Effect applies to all blessed chains associated with this deity within street distance of the shrine.&#xD;For Mercury-Lugus these are Gold and Silver.&#xD;(Shrine-Pack)</Text>
             <LineId>1600000374</LineId> 
         </Text>
       </ModOp>
@@ -274,7 +274,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Chosen by Minerva to assist at her hard work.&#xD;Hint: Effect applies to all blessed chains associated with this deity within street distance of the shrine.</Text>
+            <Text>Chosen by Minerva to assist at her hard work.&#xD;Hint: Effect applies to all blessed chains associated with this deity within street distance of the shrine.&#xD;(Shrine-Pack)</Text>
             <LineId>1600000378</LineId> 
         </Text>
       </ModOp>
@@ -290,7 +290,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>Chosen by Neptune to assist at his hard work.&#xD;Hint: Effect applies to all blessed chains associated with this deity within street distance of the shrine.</Text>
+            <Text>Chosen by Neptune to assist at his hard work.&#xD;Hint: Effect applies to all blessed chains associated with this deity within street distance of the shrine.&#xD;(Shrine-Pack)</Text>
             <LineId>1600000382</LineId> 
         </Text>
       </ModOp>
@@ -311,7 +311,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>She likes to wander among all the shrines on this island so that they will never be forgotten.&#xD;Hint: This effect is stackable.</Text>
+            <Text>She likes to wander among all the shrines on this island so that they will never be forgotten.&#xD;Hint: This effect is stackable.&#xD;(Shrine-Pack)</Text>
             <LineId>1600000386</LineId> 
         </Text>
         <!-- Boosted Hint -->
@@ -332,12 +332,12 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>She has found the blessing of Ceres and manifests it at any shrine of her on the Island.</Text>
+            <Text>She has found the blessing of Ceres and manifests it at any shrine of her on the Island.&#xD;(Shrine-Pack)</Text>
             <LineId>1600000440</LineId> 
         </Text>
         <!-- Boosted Hint -->
         <Text>
-            <Text>Have at least 5 Shrines of Ceres active on this Island.</Text>
+            <Text>Have at least 5 Shrines of Ceres active on this Island.&#xD;(Shrine-Pack)</Text>
             <LineId>1600000441</LineId> 
         </Text>
       </ModOp>
@@ -353,7 +353,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>He brings the blessing of Cernunnos and manifests it at any shrine of him on the Island.</Text>
+            <Text>He brings the blessing of Cernunnos and manifests it at any shrine of him on the Island.&#xD;(Shrine-Pack)</Text>
             <LineId>1600000447</LineId> 
         </Text>
         <!-- Boosted Hint -->
@@ -374,7 +374,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>He brings the blessing of Epona and manifests it at any shrine of her on the Island.</Text>
+            <Text>He brings the blessing of Epona and manifests it at any shrine of her on the Island.&#xD;(Shrine-Pack)</Text>
             <LineId>1600000454</LineId> 
         </Text>
         <!-- Boosted Hint -->
@@ -395,7 +395,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>She has found the blessing of Mars and manifests it at any shrine of her on the Island.</Text>
+            <Text>She has found the blessing of Mars and manifests it at any shrine of her on the Island.&#xD;(Shrine-Pack)</Text>
             <LineId>1600000461</LineId> 
         </Text>
         <!-- Boosted Hint -->
@@ -416,7 +416,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>She has found the blessing of Mercury-Lugus and manifests it at any shrine of her on the Island.</Text>
+            <Text>She has found the blessing of Mercury-Lugus and manifests it at any shrine of her on the Island.&#xD;(Shrine-Pack)</Text>
             <LineId>1600000468</LineId> 
         </Text>
         <!-- Boosted Hint -->
@@ -437,7 +437,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>She has found the blessing of Minerva and manifests it at any shrine of her on the Island.</Text>
+            <Text>She has found the blessing of Minerva and manifests it at any shrine of her on the Island.&#xD;(Shrine-Pack)</Text>
             <LineId>1600000475</LineId> 
         </Text>
         <!-- Boosted Hint -->
@@ -458,7 +458,7 @@
         </Text>
         <!-- Description -->
         <Text>
-            <Text>She has found the blessing of Neptune and manifests it at any shrine of her on the Island.</Text>
+            <Text>She has found the blessing of Neptune and manifests it at any shrine of her on the Island.&#xD;(Shrine-Pack)</Text>
             <LineId>1600000482</LineId> 
         </Text>
         <!-- Boosted Hint -->
