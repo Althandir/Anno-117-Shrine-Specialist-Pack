@@ -12,7 +12,7 @@
                 <InfoDescription>1600000454</InfoDescription>
             </Standard>
             <Effect>
-                <EffectScope>ObjectsInArea</EffectScope>  
+                <EffectScope>Radius</EffectScope>  
                 <SourceCategory>Item</SourceCategory>
                 <Buffs>
                     <Item>
@@ -176,13 +176,13 @@
                     <AdditionalAttributes>
                         <Happiness>
                             <AmountOrPercent>
-                                <Value>0.5</Value>
+                                <Value>1</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Happiness>
                         <Population>
                             <AmountOrPercent>
-                                <Value>0.5</Value>
+                                <Value>1</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Population>
@@ -234,7 +234,7 @@
                 <ModuleOwnerUpgrade/>
                 <MaintenanceUpgrade>
                     <MaintenanceFactorUpgrade>
-                        <Value>-20</Value>
+                        <Value>-50</Value>
                         <Percental>1</Percental>
                     </MaintenanceFactorUpgrade>
                 </MaintenanceUpgrade>
@@ -297,13 +297,13 @@
                     <AdditionalAttributes>
                         <Happiness>
                             <AmountOrPercent>
-                                <Value>1</Value>
+                                <Value>2</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Happiness>
                         <Population>
                             <AmountOrPercent>
-                                <Value>1</Value>
+                                <Value>2</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Population>
