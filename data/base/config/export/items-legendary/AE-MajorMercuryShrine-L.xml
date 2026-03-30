@@ -176,7 +176,7 @@
                     <AdditionalAttributes>
                         <Money>
                             <AmountOrPercent>
-                                <Value>2</Value>
+                                <Value>3</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Money>
@@ -291,7 +291,7 @@
                     <AdditionalAttributes>
                         <Money>
                             <AmountOrPercent>
-                                <Value>4</Value>
+                                <Value>6</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Money>

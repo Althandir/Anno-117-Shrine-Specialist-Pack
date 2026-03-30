@@ -176,13 +176,13 @@
                     <AdditionalAttributes>
                         <Health>
                             <AmountOrPercent>
-                                <Value>1</Value>
+                                <Value>1.5</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Health>
                         <Population>
                             <AmountOrPercent>
-                                <Value>1</Value>
+                                <Value>1.5</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Population>
@@ -297,13 +297,13 @@
                     <AdditionalAttributes>
                         <Health>
                             <AmountOrPercent>
-                                <Value>2</Value>
+                                <Value>3</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Health>
                         <Population>
                             <AmountOrPercent>
-                                <Value>2</Value>
+                                <Value>3</Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Population>
