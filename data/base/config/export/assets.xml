@@ -6,14 +6,14 @@
 # or my stupid brain getting new Ideas all the time and never finishing something >~<
  
 ### GUIDRANGE: 
-#   1600000327 - 1600000399
+#   1600000329 - 1600000384
+#   1600000388 - 1600000399
 #   1600000439 - 1600000487
 ###
 -->
 <ModOps>
 <!-- Load Each Specialists from corresponding file -->
 
-<Include File="items-common/EffectRangeAllShrines-C.xml" />
 <Include File="items-common/AE-MinorCeresShrine-C.xml" />
 <Include File="items-common/AE-MinorCernunnosShrine-C.xml" />
 <Include File="items-common/AE-MinorEponaShrine-C.xml" />
@@ -33,8 +33,6 @@
 <Include File="items-epic/AE-WFMaint-AddGoodsMercuryShrine-E.xml" />
 <Include File="items-epic/AE-WFMaint-AddGoodsMinervaShrine-E.xml" />
 <Include File="items-epic/AE-WFMaint-AddGoodsNeptuneShrine-E.xml" />
-
-<Include File="items-legendary/EffectRangeAllShrines-L.xml" />
 
 <Include File="items-legendary/AE-MajorCeresShrine-L.xml" />
 <Include File="items-legendary/AE-MajorCernunnosShrine-L.xml" />

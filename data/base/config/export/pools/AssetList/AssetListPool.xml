@@ -1,10 +1,7 @@
 <ModOps>
 <!-- Add to AssetList -->
 <Group>
-    <ModOp Type="add" GUID="113059" Path="/Values/AssetPool/AssetList">
-    <Item>
-        <ItemLink>1600000327</ItemLink>
-    </Item>   
+    <ModOp Type="add" GUID="113059" Path="/Values/AssetPool/AssetList"> 
     <Item>
         <ItemLink>1600000329</ItemLink>
     </Item>
@@ -46,9 +43,6 @@
     </Item>
     <Item>
         <ItemLink>1600000381</ItemLink>
-    </Item>
-    <Item>
-        <ItemLink>1600000385</ItemLink>
     </Item>
     <Item>
         <ItemLink>1600000388</ItemLink>

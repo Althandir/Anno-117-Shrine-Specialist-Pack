@@ -2,10 +2,7 @@
 <!-- Add to RewardPools -->
 <!-- RewardList All Items & Specialists Items-->
 <Group>
-    <ModOp Type="add" GUID="43037,82598" Path="/Values/RewardPool/ItemsPool">
-    <Item>
-        <ItemLink>1600000327</ItemLink>
-    </Item>   
+    <ModOp Type="add" GUID="43037,82598" Path="/Values/RewardPool/ItemsPool">  
     <Item>
         <ItemLink>1600000329</ItemLink>
     </Item>
@@ -47,9 +44,6 @@
     </Item>
     <Item>
         <ItemLink>1600000381</ItemLink>
-    </Item>
-    <Item>
-        <ItemLink>1600000385</ItemLink>
     </Item>
     <Item>
         <ItemLink>1600000388</ItemLink>
