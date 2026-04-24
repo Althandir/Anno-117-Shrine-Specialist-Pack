@@ -1,21 +1,6 @@
 <ModOps>
     <!-- Common Specialists -->
     <Group>
-    <!-- Specialist EffectRangeAllShrines-C -->
-        <Group>
-        <ModOp Add="/TextExport/Texts">
-            <!-- Title -->
-            <Text>
-                <Text>Shrine Visitor</Text>
-                <LineId>1600000327</LineId> <!-- <GUID>1600000327</GUID> -->
-            </Text>
-            <!-- Description -->
-            <Text>
-                <Text>Admires every type of shrine.&#xD;Hint: This effect is stackable.&#xD;(Shrine-Pack)</Text>
-                <LineId>1600000328</LineId> 
-            </Text>
-        </ModOp>
-        </Group>
 
         <!-- Specialist AE-MinorCeresShrine-C -->
         <Group>
@@ -303,27 +288,6 @@
     <!-- Legendary Specialists -->
     <Group>
         
-        <!-- Specialist EffectRangeAllShrines-L -->
-        <Group>
-        <ModOp Add="/TextExport/Texts">
-            <!-- Title -->
-            <Text>
-                <Text>Memorata Peregrina, The Unforgotten Disciple</Text>
-                <LineId>1600000385</LineId> <!-- <GUID>1600000385</GUID> -->
-            </Text>
-            <!-- Description -->
-            <Text>
-                <Text>She likes to wander among all the shrines on this island so that they will never be forgotten.&#xD;Hint: This effect is stackable.&#xD;(Shrine-Pack)</Text>
-                <LineId>1600000386</LineId> 
-            </Text>
-            <!-- Boosted Hint -->
-            <Text>
-                <Text>Have a sizeable, faithful population on this Island. (5000 Population & Belief)</Text>
-                <LineId>1600000387</LineId> 
-            </Text>
-        </ModOp>
-        </Group>
-
         <!-- Specialist AE-MajorCeresShrine-L -->
         <Group>
         <ModOp Add="/TextExport/Texts">

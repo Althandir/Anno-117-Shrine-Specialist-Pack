@@ -1,21 +1,6 @@
 <ModOps>
     <!-- Common Specialists -->
     <Group>
-    <!-- Specialist EffectRangeAllShrines-C -->
-        <Group>
-        <ModOp Add="/TextExport/Texts">
-            <!-- Title -->
-            <Text>
-                <Text>Schreinbesucherin</Text>
-                <LineId>1600000327</LineId> <!-- <GUID>1600000327</GUID> -->
-            </Text>
-            <!-- Description -->
-            <Text>
-                <Text>Bewundert jede Art von Schrein.&#xD;Hinweis: Dieser Effekt ist stapelbar.&#xD;(Shrine-Pack)</Text>
-                <LineId>1600000328</LineId> 
-            </Text>
-        </ModOp>
-        </Group>
 
         <!-- Specialist AE-MinorCeresShrine-C -->
         <Group>
@@ -302,27 +287,6 @@
 
     <!-- Legendary Specialists -->
     <Group>
-
-        <!-- Specialist EffectRangeAllShrines-L -->
-        <Group>
-        <ModOp Add="/TextExport/Texts">
-            <!-- Title -->
-            <Text>
-                <Text>Magnanimus Vias, der unvergessliche Jünger</Text>
-                <LineId>1600000385</LineId> <!-- <GUID>1600000385</GUID> -->
-            </Text>
-            <!-- Description -->
-            <Text>
-                <Text>Er wandert gerne zwischen allen Schreinen der Insel umher, damit diese niemals in Vergessenheit geraten.&#xD;Hinweis: Dieser Effekt ist stapelbar.&#xD;(Shrine-Pack)</Text>
-                <LineId>1600000386</LineId> 
-            </Text>
-            <!-- Boosted Hint -->
-            <Text>
-                <Text>Besitze eine ausreichend große und gläubige Bevölkerung auf dieser Insel. (mindestens. 5000 Einwohner & Glauben)</Text>
-                <LineId>1600000387</LineId> 
-            </Text>
-        </ModOp>
-        </Group>
 
         <!-- Specialist AE-MajorCeresShrine-L -->
         <Group>
