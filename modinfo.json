@@ -69,15 +69,15 @@
   {
     "TradePrice_Common":
     {
-      "default": "6000"
+      "default": "3500"
     },
     "TradePrice_Rare":
     {
-      "default": "20000"
+      "default": "17500"
     },
     "TradePrice_Epic":
     {
-      "default": "125000"
+      "default": "100000"
     },
     "TradePrice_Legendary":
     {
