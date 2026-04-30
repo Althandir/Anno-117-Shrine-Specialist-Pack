@@ -2,7 +2,7 @@
 This mod adds Specialists with focus on the Shrines into Anno 117. This Mod is part as a submod of "Extended Specialists Mod".
 ***
 
-### Specialists Overview (AI Generated - might still contain Issues)
+### Specialists Overview (with help of AI Generated - manually revisited - might still contain Issues)
 ***
 ### Common
 | Image Preview | GUID | Internal Name | Itemname | Description | Targets | Base Effects |
@@ -14,7 +14,6 @@ This mod adds Specialists with focus on the Shrines into Anno 117. This Mod is p
 | ![data/base/graphics/icons/Minor/MinorMercuryShrine.png](data/base/graphics/icons/Minor/MinorMercuryShrine.png) | 1600000345 | Specialist AE-MinorMercuryShrine-C | Follower of Mercury-Lugus | Prays at the shrine to find the blessing of Mercury-Lugus. (Shrine-Pack) | All Marcury-Lugus Shrines | Area Effect:<br>• +1 Money |
 | ![data/base/graphics/icons/Minor/MinorMinervaShrine.png](data/base/graphics/icons/Minor/MinorMinervaShrine.png) | 1600000349 | Specialist AE-MinorMinervaShrine-C | Follower of Minerva | Prays at the shrine to find the blessing of Minerva. (Shrine-Pack) | All Minerva Shrines | Area Effect:<br>• +0.5 Prestige<br>• +0.5 Knowledge |
 | ![data/base/graphics/icons/Minor/MinorNeptuneShrine.png](data/base/graphics/icons/Minor/MinorNeptuneShrine.png) | 1600000353 | Specialist AE-MinorNeptuneShrine-C | Follower of Neptune | Prays at the shrine to find the blessing of Neptune. (Shrine-Pack) | All Neptune Shrines | Area Effect:<br>• +0.5 Money<br>• +0.5 FireSafety |
-| ![data/base/graphics/icons/EffectRange/EffectRangeShrines-C.png](data/base/graphics/icons/EffectRange/EffectRangeShrines-C.png) | 1600000327 | Specialist EffectRangeAllShrines-C | Shrine Visitor | Admires every type of shrine. (Shrine-Pack) | All Shrines on Island | • Island Buff: Increases radius effect range by 15% for all shrines. |
 ***
 ### Rare
 | Image Preview | GUID | Internal Name | Itemname | Description | Targets | Base Effects |
@@ -37,7 +36,6 @@ This mod adds Specialists with focus on the Shrines into Anno 117. This Mod is p
 ### Legendary
 | Image Preview | GUID | Internal Name | Itemname | Description | Targets | Base Effects | Boosted Effects | Boost Condition |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![data/base/graphics/icons/EffectRange/EffectRangeShrines-L.png](data/base/graphics/icons/EffectRange/EffectRangeShrines-L.png) | 1600000385 | Specialist EffectRangeAllShrines-L | Memorata Peregrina, The Unforgotten Disciple | She likes to wander among all the shrines on this island so that they will never be forgotten. (Shrine-Pack) | All Shrines | • Island Buff: Increases radius effect range by 25% for all shrines. | Island Buff: Increases radius effect range by 50% for all shrines. | Have a sizeable, faithful population on this Island. (5000 Population & Belief) |
 | ![data/base/graphics/icons/Major/MajorCeresShrine.png](data/base/graphics/icons/Major/MajorCeresShrine.png) | 1600000439 | Specialist AE-MajorCeresShrine-L | Blessed Follower of Ceres | She has found the blessing of Ceres and manifests it at any shrine of her on the Island. (Shrine-Pack) | All Ceres Shrines | • Area Effect:<br>• +1.5 Health<br>• +1.5 Population | Area Effect:<br>• +3 Health<br>• +3 Population | Have at least 5 Shrines of Ceres active on this Island. |
 | ![data/base/graphics/icons/Major/MajorCernunnosShrine.png](data/base/graphics/icons/Major/MajorCernunnosShrine.png) | 1600000446 | Specialist AE-MajorCernunnosShrine-L | Blessed Journeying Druid of Cernunnos | He brings the blessing of Cernunnos and manifests it at any shrine of him on the Island. (Shrine-Pack) | All Cernunnos Shrines | Area Effect:<br>• +1.5 Health<br>• +1.5 Belief | Area Effect:<br>• +3 Health<br>• +3 Belief | Have at least 5 Shrines of Cernunnos active on this Island. |
 | ![data/base/graphics/icons/Major/MajorEponaShrine.png](data/base/graphics/icons/Major/MajorEponaShrine.png) | 1600000453 | Specialist AE-MajorEponaShrine-L | Blessed Journeying Druid of Epona | He brings the blessing of Epona and manifests it at any shrine of her on the Island. (Shrine-Pack) | All Epona Shrines | Area Effect:<br>• +1.5 Happiness<br>• +1.5 Population | Area Effect:<br>• +3 Happiness<br>• +3 Population | Have at least 5 Shrines of Epona active on this Island. |
