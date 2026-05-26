@@ -14,13 +14,13 @@
 <ModOps>
 <!-- Load Each Specialists from corresponding file -->
 
-<Include File="items-common/AE-MinorCeresShrine-C.xml" />
-<Include File="items-common/AE-MinorCernunnosShrine-C.xml" />
-<Include File="items-common/AE-MinorEponaShrine-C.xml" />
-<Include File="items-common/AE-MinorMarsShrine-C.xml" />
-<Include File="items-common/AE-MinorMercuryShrine-C.xml" />
-<Include File="items-common/AE-MinorMinervaShrine-C.xml" />
-<Include File="items-common/AE-MinorNeptuneShrine-C.xml" />
+<Include File="items-rare/AE-MinorCeresShrine-R.xml" />
+<Include File="items-rare/AE-MinorCernunnosShrine-R.xml" />
+<Include File="items-rare/AE-MinorEponaShrine-R.xml" />
+<Include File="items-rare/AE-MinorMarsShrine-R.xml" />
+<Include File="items-rare/AE-MinorMercuryShrine-R.xml" />
+<Include File="items-rare/AE-MinorMinervaShrine-R.xml" />
+<Include File="items-rare/AE-MinorNeptuneShrine-R.xml" />
 
 <Include File="items-rare/AE-FiresafetyAllShrines-R.xml" />
 <Include File="items-rare/AE-HappinessAllShrines-R.xml" />
