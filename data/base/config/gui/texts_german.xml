@@ -2,7 +2,7 @@
     <!-- Common Specialists -->
     <Group>
 
-        <!-- Specialist AE-MinorCeresShrine-C -->
+        <!-- Specialist AE-MinorCeresShrine-R -->
         <Group>
         <ModOp Add="/TextExport/Texts">
             <!-- Title -->
@@ -18,7 +18,7 @@
         </ModOp>
         </Group>
 
-        <!-- Specialist AE-MinorCernunnosShrine-C -->
+        <!-- Specialist AE-MinorCernunnosShrine-R -->
         <Group>
         <ModOp Add="/TextExport/Texts">
             <!-- Title -->
@@ -34,7 +34,7 @@
         </ModOp>
         </Group>
 
-        <!-- Specialist AE-MinorEponaShrine-C -->
+        <!-- Specialist AE-MinorEponaShrine-R -->
         <Group>
         <ModOp Add="/TextExport/Texts">
             <!-- Title -->
@@ -50,7 +50,7 @@
         </ModOp>
         </Group>
 
-        <!-- Specialist AE-MinorMarsShrine-C -->
+        <!-- Specialist AE-MinorMarsShrine-R -->
         <Group>
         <ModOp Add="/TextExport/Texts">
             <!-- Title -->
@@ -66,7 +66,7 @@
         </ModOp>
         </Group>
 
-        <!-- Specialist AE-MinorMercuryShrine-C -->
+        <!-- Specialist AE-MinorMercuryShrine-R -->
         <Group>
         <ModOp Add="/TextExport/Texts">
             <!-- Title -->
@@ -82,7 +82,7 @@
         </ModOp>
         </Group>
 
-        <!-- Specialist AE-MinorMinervaShrine-C -->
+        <!-- Specialist AE-MinorMinervaShrine-R -->
         <Group>
         <ModOp Add="/TextExport/Texts">
             <!-- Title -->
@@ -98,7 +98,7 @@
         </ModOp>
         </Group>
 
-        <!-- Specialist AE-MinorNeptuneShrine-C -->
+        <!-- Specialist AE-MinorNeptuneShrine-R -->
         <Group>
         <ModOp Add="/TextExport/Texts">
             <!-- Title -->

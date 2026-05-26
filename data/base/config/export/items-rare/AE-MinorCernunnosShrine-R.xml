@@ -1,42 +1,42 @@
 <ModOps>
-<!-- Item Definition GUID:1600000345 - 1600000348 | LineID:1600000345 - 1600000346  -->
+<!-- Item Definition GUID:1600000333 - 1600000336 | LineID:1600000333 - 1600000334  -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>1600000345</GUID>
-            <Name>Specialist AE-MinorMercuryShrine-C</Name>
-            <IconFilename>data/base/graphics/icons/Minor/MinorMercuryShrine.png</IconFilename>
-            <InfoDescription>1600000346</InfoDescription>
+            <GUID>1600000333</GUID>
+            <Name>Specialist AE-MinorCernunnosShrine-R</Name>
+            <IconFilename>data/base/graphics/icons/Minor/MinorCernunosShrine.png</IconFilename>
+            <InfoDescription>1600000334</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope>  
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>1600000346</GUID>
+                <GUID>1600000334</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
               <Item>
-                <GUID>82496</GUID>
+                <GUID>82498</GUID>
               </Item>
             </Targets>
             <HideInGovernorsBar>1</HideInGovernorsBar>
           </Effect>
           <Item>
             <Niche>Religion</Niche>  
-            <TradePrice><ModValue Insert="$TradePrice_Common"/></TradePrice> 
-            <BarkPool>80244</BarkPool> <!-- <GUID>80244</GUID> -->
-            <Rarity>Common</Rarity> 
+            <TradePrice><ModValue Insert="$TradePrice_Rare"/></TradePrice> 
+            <BarkPool>83333</BarkPool> <!-- <GUID>83333</GUID> -->
+            <Rarity>Rare</Rarity> 
           </Item>
           <Locked>
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>1600000345</OasisId>
+            <OasisId>1600000333</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -51,16 +51,16 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>1600000346</GUID>
-                    <Name>Specialist AE-MinorMercuryShrine-C BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Minor/MinorMercuryShrine.png</IconFilename>
+                    <GUID>1600000334</GUID>
+                    <Name>Specialist AE-MinorCernunnosShrine-R BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/Minor/MinorCernunosShrine.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>1600000345</OasisId>
+                    <OasisId>1600000333</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
-                    <AdditionalFunctionalEffect>1600000347</AdditionalFunctionalEffect>
+                    <AdditionalFunctionalEffect>1600000335</AdditionalFunctionalEffect>
                     <AdditionalAttributes>
                       <Belief>
                           <AmountOrPercent>
@@ -94,28 +94,28 @@
             <Template>Effect</Template>
             <Values>
                 <Standard>
-                    <GUID>1600000347</GUID>
-                    <Name>Specialist AE-MinorMercuryShrine-C FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/Minor/MinorMercuryShrine.png</IconFilename>
+                    <GUID>1600000335</GUID>
+                    <Name>Specialist AE-MinorCernunnosShrine-R FunctionalEffect</Name>
+                    <IconFilename>data/base/graphics/icons/Minor/MinorCernunosShrine.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
                     <SourceCategory>Adjacency</SourceCategory>
                     <Buffs>
                         <Item>
-                            <GUID>1600000348</GUID>
+                            <GUID>1600000336</GUID>
                         </Item>
                     </Buffs>
                     <Targets>
                         <Item>
-                            <GUID>43097</GUID> <!--TODO: Subject to Change! As game does not uses this AssetPool anywhere -->
+                            <GUID>43097</GUID>
                         </Item>
                     </Targets>
                     <ExcludeEffectSourceGUID>0</ExcludeEffectSourceGUID>
                     <HideInGovernorsBar>1</HideInGovernorsBar>
                 </Effect>
                 <Text>
-                    <OasisId>1600000345</OasisId>
+                    <OasisId>1600000333</OasisId>
                 </Text>
             </Values>
         </Asset>
@@ -126,22 +126,28 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>1600000348</GUID>
-                    <Name>Specialist AE-MinorMercuryShrine-C FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Minor/MinorMercuryShrine.png</IconFilename>
+                    <GUID>1600000336</GUID>
+                    <Name>Specialist AE-MinorCernunnosShrine-R FunctionalEffect BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/Minor/MinorCernunosShrine.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>1600000345</OasisId>
+                    <OasisId>1600000333</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
                     <AdditionalAttributes>
-                      <Money>
+                      <Belief>
                           <AmountOrPercent>
-                              <Value>1</Value>
+                              <Value>1.0</Value>
                               <Percental>0</Percental>
                           </AmountOrPercent>
-                      </Money>
+                      </Belief>
+                      <Health>
+                          <AmountOrPercent>
+                              <Value>1.0</Value>
+                              <Percental>0</Percental>
+                          </AmountOrPercent>
+                      </Health>
                     </AdditionalAttributes>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>
