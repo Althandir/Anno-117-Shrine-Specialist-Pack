@@ -3,7 +3,15 @@
 <!-- RewardList Religion Common -->
 <Group>
     <ModOp Type="add" GUID="121865" Path="/Values/RewardPool/ItemsPool">
-
+    <Item>
+        <ItemLink>1600000388</ItemLink>
+    </Item> 
+    <Item>
+        <ItemLink>1600000392</ItemLink>
+    </Item>     
+    <Item>
+        <ItemLink>1600000396</ItemLink>
+    </Item> 
     </ModOp>
 </Group>
 

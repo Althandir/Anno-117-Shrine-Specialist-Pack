@@ -119,7 +119,7 @@
     <!-- Rare Specialists -->
     <Group>
 
-        <!-- Specialist AE-FiresafetyAllShrines-R -->
+        <!-- Specialist AE-FiresafetyAllShrines-C -->
         <Group>
         <ModOp Add="/TextExport/Texts">
             <!-- Title -->
@@ -135,7 +135,7 @@
         </ModOp>
         </Group>
 
-        <!-- Specialist AE-HappinessAllShrines-R -->
+        <!-- Specialist AE-HappinessAllShrines-C -->
         <Group>
         <ModOp Add="/TextExport/Texts">
             <!-- Title -->
@@ -151,7 +151,7 @@
         </ModOp>
         </Group>
 
-        <!-- Specialist AE-HealthAllShrines-R -->
+        <!-- Specialist AE-HealthAllShrines-C -->
         <Group>
         <ModOp Add="/TextExport/Texts">
             <!-- Title -->

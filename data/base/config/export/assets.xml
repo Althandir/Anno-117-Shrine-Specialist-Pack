@@ -14,6 +14,10 @@
 <ModOps>
 <!-- Load Each Specialists from corresponding file -->
 
+<Include File="items-common/AE-FiresafetyAllShrines-C.xml" />
+<Include File="items-common/AE-HappinessAllShrines-C.xml" />
+<Include File="items-common/AE-HealthAllShrines-C.xml" />
+
 <Include File="items-rare/AE-MinorCeresShrine-R.xml" />
 <Include File="items-rare/AE-MinorCernunnosShrine-R.xml" />
 <Include File="items-rare/AE-MinorEponaShrine-R.xml" />
@@ -21,10 +25,6 @@
 <Include File="items-rare/AE-MinorMercuryShrine-R.xml" />
 <Include File="items-rare/AE-MinorMinervaShrine-R.xml" />
 <Include File="items-rare/AE-MinorNeptuneShrine-R.xml" />
-
-<Include File="items-rare/AE-FiresafetyAllShrines-R.xml" />
-<Include File="items-rare/AE-HappinessAllShrines-R.xml" />
-<Include File="items-rare/AE-HealthAllShrines-R.xml" />
 
 <Include File="items-epic/AE-WFMaint-AddGoodsCeresShrine-E.xml" />
 <Include File="items-epic/AE-WFMaint-AddGoodsCernunnosShrine-E.xml" />
