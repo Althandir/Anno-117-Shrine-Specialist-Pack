@@ -1,22 +1,22 @@
 <ModOps>
-<!-- Item Definition GUID:1600000388 - 1600000391 | LineID:1600000388 - 1600000389  -->
+<!-- Item Definition GUID:1600000392 - 1600000395 | LineID:1600000392 - 1600000393  -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>1600000388</GUID>
-            <Name>Specialist AE-FiresafetyAllShrines-R</Name>
-            <IconFilename>data/base/graphics/icons/general/AllShrinesFireSafety.png</IconFilename>
-            <InfoDescription>1600000389</InfoDescription>
+            <GUID>1600000392</GUID>
+            <Name>Specialist AE-HappinessAllShrines-C</Name>
+            <IconFilename>data/base/graphics/icons/general/AllShrinesHappiness.png</IconFilename>
+            <InfoDescription>1600000393</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope>  
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>1600000389</GUID>
+                <GUID>1600000393</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
@@ -28,15 +28,15 @@
           </Effect>
           <Item>
             <Niche>Religion</Niche>  
-            <TradePrice><ModValue Insert="$TradePrice_Rare"/></TradePrice> 
-            <BarkPool>83300</BarkPool> <!-- <GUID>83300</GUID> -->
+            <TradePrice><ModValue Insert="$TradePrice_Common"/></TradePrice> 
+            <BarkPool>83304</BarkPool> <!-- <GUID>83304</GUID> -->
             <Rarity>Rare</Rarity> 
           </Item>
           <Locked>
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>1600000388</OasisId>
+            <OasisId>1600000392</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -51,16 +51,16 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>1600000389</GUID>
-                    <Name>Specialist AE-FiresafetyAllShrines-R BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/general/AllShrinesFireSafety.png</IconFilename>
+                    <GUID>1600000393</GUID>
+                    <Name>Specialist AE-HappinessAllShrines-C BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/general/AllShrinesHappiness.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>1600000388</OasisId>
+                    <OasisId>1600000392</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
-                    <AdditionalFunctionalEffect>1600000390</AdditionalFunctionalEffect>
+                    <AdditionalFunctionalEffect>1600000394</AdditionalFunctionalEffect>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>
                 <Buff>
@@ -85,16 +85,16 @@
             <Template>Effect</Template>
             <Values>
                 <Standard>
-                    <GUID>1600000390</GUID>
-                    <Name>Specialist AE-FiresafetyAllShrines-R FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/general/AllShrinesFireSafety.png</IconFilename>
+                    <GUID>1600000394</GUID>
+                    <Name>Specialist AE-HappinessAllShrines-C FunctionalEffect</Name>
+                    <IconFilename>data/base/graphics/icons/general/AllShrinesHappiness.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
                     <SourceCategory>Adjacency</SourceCategory>
                     <Buffs>
                         <Item>
-                            <GUID>1600000391</GUID>
+                            <GUID>1600000395</GUID>
                         </Item>
                     </Buffs>
                     <Targets>
@@ -106,7 +106,7 @@
                     <HideInGovernorsBar>1</HideInGovernorsBar>
                 </Effect>
                 <Text>
-                    <OasisId>1600000388</OasisId>
+                    <OasisId>1600000392</OasisId>
                 </Text>
             </Values>
         </Asset>
@@ -117,22 +117,22 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>1600000391</GUID>
-                    <Name>Specialist AE-FiresafetyAllShrines-R FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/general/AllShrinesFireSafety.png</IconFilename>
+                    <GUID>1600000395</GUID>
+                    <Name>Specialist AE-HappinessAllShrines-C FunctionalEffect BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/general/AllShrinesHappiness.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>1600000388</OasisId>
+                    <OasisId>1600000392</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
                     <AdditionalAttributes>
-                      <FireSafety>
+                      <Happiness>
                           <AmountOrPercent>
                               <Value>1</Value>
                               <Percental>0</Percental>
                           </AmountOrPercent>
-                      </FireSafety>
+                      </Happiness>
                     </AdditionalAttributes>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>

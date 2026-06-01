@@ -7,7 +7,7 @@
         <Values>
           <Standard>
             <GUID>1600000396</GUID>
-            <Name>Specialist AE-HealthAllShrines-R</Name>
+            <Name>Specialist AE-HealthAllShrines-C</Name>
             <IconFilename>data/base/graphics/icons/general/AllShrinesHealth.png</IconFilename>
             <InfoDescription>1600000397</InfoDescription>
           </Standard>
@@ -28,7 +28,7 @@
           </Effect>
           <Item>
             <Niche>Religion</Niche>  
-            <TradePrice><ModValue Insert="$TradePrice_Rare"/></TradePrice> 
+            <TradePrice><ModValue Insert="$TradePrice_Common"/></TradePrice> 
             <BarkPool>83328</BarkPool> <!-- <GUID>83328</GUID> -->
             <Rarity>Rare</Rarity> 
           </Item>
@@ -52,7 +52,7 @@
             <Values>
                 <Standard>
                     <GUID>1600000397</GUID>
-                    <Name>Specialist AE-HealthAllShrines-R BuildingBuff</Name>
+                    <Name>Specialist AE-HealthAllShrines-C BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/general/AllShrinesHealth.png</IconFilename>
                 </Standard>
                 <Text>
@@ -86,7 +86,7 @@
             <Values>
                 <Standard>
                     <GUID>1600000398</GUID>
-                    <Name>Specialist AE-HealthAllShrines-R FunctionalEffect</Name>
+                    <Name>Specialist AE-HealthAllShrines-C FunctionalEffect</Name>
                     <IconFilename>data/base/graphics/icons/general/AllShrinesHealth.png</IconFilename>
                 </Standard>
                 <Effect>
@@ -118,7 +118,7 @@
             <Values>
                 <Standard>
                     <GUID>1600000399</GUID>
-                    <Name>Specialist AE-HealthAllShrines-R FunctionalEffect BuildingBuff</Name>
+                    <Name>Specialist AE-HealthAllShrines-C FunctionalEffect BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/general/AllShrinesHealth.png</IconFilename>
                 </Standard>
                 <Text>

@@ -5,12 +5,16 @@ This mod adds Specialists with focus on the Shrines into Anno 117. This Mod is p
 ### Specialists Overview (with help of AI Generated - manually revisited - might still contain Issues)
 ***
 
+### Common
+| Image Preview | GUID | Internal Name | Itemname | Description | Targets | Base Effects |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![data/base/graphics/icons/general/AllShrinesFireSafety.png](data/base/graphics/icons/general/AllShrinesFireSafety.png) | 1600000388 | Specialist AE-FiresafetyAllShrines-C | Blessed Vigiles | Has himself blessed before every deployment to a fire. (Shrine-Pack) | All Shrines | • +1 FireSafety |
+| ![data/base/graphics/icons/general/AllShrinesHappiness.png](data/base/graphics/icons/general/AllShrinesHappiness.png) | 1600000392 | Specialist AE-HappinessAllShrines-C | Blessed Custodes | Keeps the Streets safe with the blessing of the gods. (Shrine-Pack) | All Shrines | • +1 Happiness |
+| ![data/base/graphics/icons/general/AllShrinesHealth.png](data/base/graphics/icons/general/AllShrinesHealth.png) | 1600000396 | Specialist AE-HealthAllShrines-C | Smelling Shrine Visitor | Hopes for a divine blessing to remove her smell. (Shrine-Pack) | All Shrines | • +1 Health |
+
 ### Rare
 | Image Preview | GUID | Internal Name | Itemname | Description | Targets | Base Effects |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![data/base/graphics/icons/general/AllShrinesFireSafety.png](data/base/graphics/icons/general/AllShrinesFireSafety.png) | 1600000388 | Specialist AE-FiresafetyAllShrines-R | Blessed Vigiles | Has himself blessed before every deployment to a fire. (Shrine-Pack) | All Shrines | • +1 FireSafety |
-| ![data/base/graphics/icons/general/AllShrinesHappiness.png](data/base/graphics/icons/general/AllShrinesHappiness.png) | 1600000392 | Specialist AE-HappinessAllShrines-R | Blessed Custodes | Keeps the Streets safe with the blessing of the gods. (Shrine-Pack) | All Shrines | • +1 Happiness |
-| ![data/base/graphics/icons/general/AllShrinesHealth.png](data/base/graphics/icons/general/AllShrinesHealth.png) | 1600000396 | Specialist AE-HealthAllShrines-R | Smelling Shrine Visitor | Hopes for a divine blessing to remove her smell. (Shrine-Pack) | All Shrines | • +1 Health |
 | ![data/base/graphics/icons/Minor/MinorCeresShrine.png](data/base/graphics/icons/Minor/MinorCeresShrine.png) | 1600000329 | Specialist AE-MinorCeresShrine-R | Follower of Ceres | Prays at the shrine to find the blessing of Ceres. (Shrine-Pack) | All Ceres Shrines | Area Effect:<br>• +1 Health<br>• +1 Population |
 | ![data/base/graphics/icons/Minor/MinorCernunosShrine.png](data/base/graphics/icons/Minor/MinorCernunosShrine.png) | 1600000333 | Specialist AE-MinorCernunnosShrine-R | Follower of Cernunnos | Prays at the shrine to find the blessing of Cernunnos. (Shrine-Pack) | All Cernunnos Shrines | Area Effect:<br>• +1 Health <br>• +1 Belief |
 | ![data/base/graphics/icons/Minor/MinorEponaShrine.png](data/base/graphics/icons/Minor/MinorEponaShrine.png) | 1600000337 | Specialist AE-MinorEponaShrine-R | Follower of Epona | Prays at the shrine to find the blessing of Epona. (Shrine-Pack) | All Epona Shrines | Area Effect:<br>• +1 Happiness<br>• +1 Population |
