@@ -112,22 +112,19 @@
                 <Text>
                     <OasisId>1600000388</OasisId>
                 </Text>
-                
                 <BuildingUpgrade>
                     <AdditionalAttributes>
                       <FireSafety>
                           <AmountOrPercent>
-                              <Value>1</Value>
+                              <Value><ModValue Insert="$Shrine_Common_BuffValue"/></Value>
                               <Percental>0</Percental>
                           </AmountOrPercent>
                       </FireSafety>
                     </AdditionalAttributes>
                 </BuildingUpgrade>
-
                 <Buff>
                     <SourceCategory>Adjacency</SourceCategory>
                 </Buff>
-
             </Values>
         </Asset>
     </ModOp>

@@ -83,6 +83,10 @@
     {
       "default": "500000"
     },
+    "Shrine_Common_BuffValue":
+    {
+      "default": "1"
+    },
     "ShrineDeity_Rare_BuffValue":
     {
       "default": "0.8"

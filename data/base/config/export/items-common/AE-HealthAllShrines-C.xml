@@ -116,7 +116,7 @@
                     <AdditionalAttributes>
                       <Health>
                           <AmountOrPercent>
-                              <Value>1</Value>
+                              <Value><ModValue Insert="$Shrine_Common_BuffValue"/></Value>
                               <Percental>0</Percental>
                           </AmountOrPercent>
                       </Health>
