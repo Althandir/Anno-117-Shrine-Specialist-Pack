@@ -82,6 +82,26 @@
     "TradePrice_Legendary":
     {
       "default": "500000"
+    },
+    "ShrineDeity_Rare_BuffValue":
+    {
+      "default": "0.8"
+    },
+    "ShrineDeity_Legendary_BuffValue_NonBoosted":
+    {
+      "default": "1.2"
+    },
+    "ShrineDeity_Legendary_BuffValue_Boosted":
+    {
+      "default": "2"
+    },
+    "ShrineDeity_Legendary_MainenanceBuff_NonBoosted":
+    {
+      "default": "-50"
+    },
+    "ShrineDeity_Legendary_MainenanceBuff_Boosted":
+    {
+      "default": "-100"
     }
   }
 

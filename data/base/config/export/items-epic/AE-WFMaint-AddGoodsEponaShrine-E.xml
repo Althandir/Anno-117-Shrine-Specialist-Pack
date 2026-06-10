@@ -58,16 +58,13 @@
                 <Text>
                     <OasisId>1600000365</OasisId>
                 </Text>
-                <HealthUpgrade/>
                 <BuildingUpgrade>
                     <AdditionalFunctionalEffect>1600000367</AdditionalFunctionalEffect>
                 </BuildingUpgrade>
-                <DistributionUpgrade/>
                 <Buff>
                     <SourceCategory>Item</SourceCategory>
                 </Buff>
-                <ResidenceUpgrade>
-                </ResidenceUpgrade>
+
                 <FactoryUpgrade>
                     <AdditionalOutput>
                         <Item>
@@ -77,7 +74,6 @@
                         </Item>
                     </AdditionalOutput>
                 </FactoryUpgrade>
-                <ModuleOwnerUpgrade/>
                 <MaintenanceUpgrade>
                   <MaintenanceFactorUpgrade>
                     <Value>0</Value>
@@ -88,12 +84,6 @@
                     <Percental>1</Percental>
                   </WorkforceMaintenanceFactorUpgrade>
                 </MaintenanceUpgrade>
-                <CityInstitutionUpgrade/>
-                <IncidentInfectableUpgrade/>
-                <RecruitmentUpgrade/>
-                <AqueductUpgrade/>
-                <WarehouseUpgrade/>
-                <IrrigationUpgrade/>
             </Values>
         </Asset>
     </ModOp>
@@ -142,7 +132,7 @@
                 <Text>
                     <OasisId>1600000365</OasisId>
                 </Text>
-                <HealthUpgrade/>
+                
                 <BuildingUpgrade>
                     <AdditionalAttributes>
                       <Happiness>
@@ -183,12 +173,11 @@
                       </Health>
                     </AdditionalAttributes>
                 </BuildingUpgrade>
-                <DistributionUpgrade/>
+
                 <Buff>
                     <SourceCategory>Adjacency</SourceCategory>
                 </Buff>
-                <ResidenceUpgrade>
-                </ResidenceUpgrade>
+
                 <FactoryUpgrade>
                     <AdditionalOutput>
                         <Item>
@@ -198,7 +187,7 @@
                         </Item>
                     </AdditionalOutput>
                 </FactoryUpgrade>
-                <ModuleOwnerUpgrade/>
+
                 <MaintenanceUpgrade>
                   <MaintenanceFactorUpgrade>
                     <Value>0</Value>
@@ -209,12 +198,7 @@
                     <Percental>1</Percental>
                   </WorkforceMaintenanceFactorUpgrade>
                 </MaintenanceUpgrade>
-                <CityInstitutionUpgrade/>
-                <IncidentInfectableUpgrade/>
-                <RecruitmentUpgrade/>
-                <AqueductUpgrade/>
-                <WarehouseUpgrade/>
-                <IrrigationUpgrade/>
+
             </Values>
         </Asset>
     </ModOp>
