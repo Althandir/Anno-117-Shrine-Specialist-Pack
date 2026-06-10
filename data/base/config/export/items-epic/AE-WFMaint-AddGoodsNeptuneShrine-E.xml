@@ -68,8 +68,8 @@
                     <AdditionalOutput>
                         <Item>
                             <ForceProductSameAsFactoryOutput>1</ForceProductSameAsFactoryOutput>
-                            <AdditionalOutputCycle>5</AdditionalOutputCycle>
-                            <Amount>2</Amount>
+                            <AdditionalOutputCycle><ModValue Insert="$ShrineDeity_Epic_AdditionalGoods_CycleNumber"/></AdditionalOutputCycle>
+                            <Amount><ModValue Insert="$ShrineDeity_Epic_AdditionalGoods_Amount"/></Amount>
                         </Item>
                     </AdditionalOutput>
                 </FactoryUpgrade>
@@ -79,7 +79,7 @@
                     <Percental>1</Percental>
                   </MaintenanceFactorUpgrade>
                   <WorkforceMaintenanceFactorUpgrade>
-                    <Value>-25</Value>
+                    <Value><ModValue Insert="$ShrineDeity_Epic_WFMaintenanceBuff"/></Value>
                     <Percental>1</Percental>
                   </WorkforceMaintenanceFactorUpgrade>
                 </MaintenanceUpgrade>
@@ -131,32 +131,28 @@
                 <Text>
                     <OasisId>1600000381</OasisId>
                 </Text>
-
                 <Buff>
                     <SourceCategory>Adjacency</SourceCategory>
                 </Buff>
-
                 <FactoryUpgrade>
                     <AdditionalOutput>
                         <Item>
                             <ForceProductSameAsFactoryOutput>1</ForceProductSameAsFactoryOutput>
-                            <AdditionalOutputCycle>5</AdditionalOutputCycle>
-                            <Amount>2</Amount>
+                            <AdditionalOutputCycle><ModValue Insert="$ShrineDeity_Epic_AdditionalGoods_CycleNumber"/></AdditionalOutputCycle>
+                            <Amount><ModValue Insert="$ShrineDeity_Epic_AdditionalGoods_Amount"/></Amount>
                         </Item>
                     </AdditionalOutput>
                 </FactoryUpgrade>
-
                 <MaintenanceUpgrade>
                   <MaintenanceFactorUpgrade>
                     <Value>0</Value>
                     <Percental>1</Percental>
                   </MaintenanceFactorUpgrade>
                   <WorkforceMaintenanceFactorUpgrade>
-                    <Value>-25</Value>
+                    <Value><ModValue Insert="$ShrineDeity_Epic_WFMaintenanceBuff"/></Value>
                     <Percental>1</Percental>
                   </WorkforceMaintenanceFactorUpgrade>
                 </MaintenanceUpgrade>
-
             </Values>
         </Asset>
     </ModOp>
