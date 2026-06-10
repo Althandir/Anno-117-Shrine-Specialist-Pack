@@ -60,14 +60,6 @@
                 </Text>            
                 <BuildingUpgrade>
                     <AdditionalFunctionalEffect>1600000347</AdditionalFunctionalEffect>
-                    <AdditionalAttributes>
-                      <Belief>
-                          <AmountOrPercent>
-                              <Value>0</Value>
-                              <Percental>0</Percental>
-                          </AmountOrPercent>
-                      </Belief>
-                    </AdditionalAttributes>
                 </BuildingUpgrade>
                 <Buff>
                     <SourceCategory>Item</SourceCategory>
@@ -124,7 +116,7 @@
                     <AdditionalAttributes>
                       <Money>
                           <AmountOrPercent>
-                              <Value>1.6</Value>
+                              <Value><ModValue Insert="$ShrineDeity_Rare_BuffValue*2"/></Value>
                               <Percental>0</Percental>
                           </AmountOrPercent>
                       </Money>

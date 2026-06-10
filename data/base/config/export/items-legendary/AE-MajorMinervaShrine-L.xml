@@ -113,7 +113,7 @@
                 </Buff>
                 <MaintenanceUpgrade>
                     <MaintenanceFactorUpgrade>
-                        <Value>-50</Value>
+                        <Value><ModValue Insert="$ShrineDeity_Legendary_MaintenanceBuff_NonBoosted"/></Value>
                         <Percental>1</Percental>
                     </MaintenanceFactorUpgrade>
                 </MaintenanceUpgrade>
@@ -169,13 +169,13 @@
                     <AdditionalAttributes>
                         <Prestige>
                             <AmountOrPercent>
-                                <Value>1.0</Value>
+                                <Value><ModValue Insert="$ShrineDeity_Legendary_BuffValue_NonBoosted"/></Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Prestige>
                         <Knowledge>
                             <AmountOrPercent>
-                                <Value>1.0</Value>
+                                <Value><ModValue Insert="$ShrineDeity_Legendary_BuffValue_NonBoosted"/></Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Knowledge>
@@ -213,7 +213,7 @@
                 </Buff>
                 <MaintenanceUpgrade>
                     <MaintenanceFactorUpgrade>
-                        <Value>-100</Value>
+                        <Value><ModValue Insert="$ShrineDeity_Legendary_MaintenanceBuff_Boosted"/></Value>
                         <Percental>1</Percental>
                     </MaintenanceFactorUpgrade>
                 </MaintenanceUpgrade>
@@ -269,13 +269,13 @@
                     <AdditionalAttributes>
                       <Prestige>
                           <AmountOrPercent>
-                              <Value>1.8</Value>
+                              <Value><ModValue Insert="$ShrineDeity_Legendary_BuffValue_Boosted"/></Value>
                               <Percental>0</Percental>
                           </AmountOrPercent>
                       </Prestige>
                       <Knowledge>
                           <AmountOrPercent>
-                              <Value>1.8</Value>
+                              <Value><ModValue Insert="$ShrineDeity_Legendary_BuffValue_Boosted"/></Value>
                               <Percental>0</Percental>
                           </AmountOrPercent>
                       </Knowledge>

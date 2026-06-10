@@ -64,7 +64,6 @@
                 <Buff>
                     <SourceCategory>Item</SourceCategory>
                 </Buff>
-
                 <FactoryUpgrade>
                     <AdditionalOutput>
                         <Item>
@@ -132,47 +131,6 @@
                 <Text>
                     <OasisId>1600000369</OasisId>
                 </Text>
-                
-                <BuildingUpgrade>
-                    <AdditionalAttributes>
-                      <Happiness>
-                          <AmountOrPercent>
-                              <Value>0</Value>
-                              <Percental>0</Percental>
-                          </AmountOrPercent>
-                      </Happiness>
-                      <Money>
-                          <AmountOrPercent>
-                              <Value>0</Value>
-                              <Percental>0</Percental>
-                          </AmountOrPercent>
-                      </Money>
-                      <Prestige>
-                          <AmountOrPercent>
-                              <Value>0</Value>
-                              <Percental>0</Percental>
-                          </AmountOrPercent>
-                      </Prestige>
-                      <Belief>
-                          <AmountOrPercent>
-                              <Value>0</Value>
-                              <Percental>0</Percental>
-                          </AmountOrPercent>
-                      </Belief>
-                      <Knowledge>
-                          <AmountOrPercent>
-                              <Value>0</Value>
-                              <Percental>0</Percental>
-                          </AmountOrPercent>
-                      </Knowledge>
-                      <Health>
-                          <AmountOrPercent>
-                              <Value>0</Value>
-                              <Percental>0</Percental>
-                          </AmountOrPercent>
-                      </Health>
-                    </AdditionalAttributes>
-                </BuildingUpgrade>
 
                 <Buff>
                     <SourceCategory>Adjacency</SourceCategory>

@@ -89,17 +89,17 @@
     },
     "ShrineDeity_Legendary_BuffValue_NonBoosted":
     {
-      "default": "1.2"
+      "default": "1.5"
     },
     "ShrineDeity_Legendary_BuffValue_Boosted":
     {
-      "default": "2"
+      "default": "2.0"
     },
-    "ShrineDeity_Legendary_MainenanceBuff_NonBoosted":
+    "ShrineDeity_Legendary_MaintenanceBuff_NonBoosted":
     {
       "default": "-50"
     },
-    "ShrineDeity_Legendary_MainenanceBuff_Boosted":
+    "ShrineDeity_Legendary_MaintenanceBuff_Boosted":
     {
       "default": "-100"
     }

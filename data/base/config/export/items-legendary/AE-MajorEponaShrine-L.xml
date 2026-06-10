@@ -113,7 +113,7 @@
                 </Buff>
                 <MaintenanceUpgrade>
                     <MaintenanceFactorUpgrade>
-                        <Value>-50</Value>
+                        <Value><ModValue Insert="$ShrineDeity_Legendary_MaintenanceBuff_NonBoosted"/></Value>
                         <Percental>1</Percental>
                     </MaintenanceFactorUpgrade>
                 </MaintenanceUpgrade>
@@ -169,13 +169,13 @@
                     <AdditionalAttributes>
                         <Happiness>
                             <AmountOrPercent>
-                                <Value>1.0</Value>
+                                <Value><ModValue Insert="$ShrineDeity_Legendary_BuffValue_NonBoosted"/></Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Happiness>
                         <Population>
                             <AmountOrPercent>
-                                <Value>1.0</Value>
+                                <Value><ModValue Insert="$ShrineDeity_Legendary_BuffValue_NonBoosted"/></Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Population>
@@ -211,7 +211,7 @@
                 </Buff>
                 <MaintenanceUpgrade>
                     <MaintenanceFactorUpgrade>
-                        <Value>-100</Value>
+                        <Value><ModValue Insert="$ShrineDeity_Legendary_MaintenanceBuff_Boosted"/></Value>
                         <Percental>1</Percental>
                     </MaintenanceFactorUpgrade>
                 </MaintenanceUpgrade>
@@ -268,13 +268,13 @@
                     <AdditionalAttributes>
                         <Happiness>
                             <AmountOrPercent>
-                                <Value>3</Value>
+                                <Value><ModValue Insert="$ShrineDeity_Legendary_BuffValue_Boosted"/></Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Happiness>
                         <Population>
                             <AmountOrPercent>
-                                <Value>3</Value>
+                                <Value><ModValue Insert="$ShrineDeity_Legendary_BuffValue_Boosted"/></Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Population>

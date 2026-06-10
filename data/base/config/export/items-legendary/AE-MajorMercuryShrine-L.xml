@@ -113,7 +113,7 @@
                 </Buff>
                 <MaintenanceUpgrade>
                     <MaintenanceFactorUpgrade>
-                        <Value>-50</Value>
+                        <Value><ModValue Insert="$ShrineDeity_Legendary_MaintenanceBuff_NonBoosted"/></Value>
                         <Percental>1</Percental>
                     </MaintenanceFactorUpgrade>
                 </MaintenanceUpgrade>
@@ -205,7 +205,7 @@
                 </Buff>
                 <MaintenanceUpgrade>
                     <MaintenanceFactorUpgrade>
-                        <Value>-100</Value>
+                        <Value><ModValue Insert="$ShrineDeity_Legendary_MaintenanceBuff_Boosted"/></Value>
                         <Percental>1</Percental>
                     </MaintenanceFactorUpgrade>
                 </MaintenanceUpgrade>
@@ -261,7 +261,7 @@
                     <AdditionalAttributes>
                         <Money>
                             <AmountOrPercent>
-                                <Value>3.6</Value>
+                                <Value><ModValue Insert="$ShrineDeity_Legendary_BuffValue_Boosted*2"/></Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Money>
