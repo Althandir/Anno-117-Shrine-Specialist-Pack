@@ -105,24 +105,18 @@
                 <Text>
                     <OasisId>1600000460</OasisId>
                 </Text>
-                <HealthUpgrade/>
                 <BuildingUpgrade>
                     <AdditionalFunctionalEffect>1600000462</AdditionalFunctionalEffect>
                 </BuildingUpgrade>
-                <DistributionUpgrade/>
                 <Buff>
                     <SourceCategory>Item</SourceCategory>
                 </Buff>
-                <ResidenceUpgrade/>
-                <FactoryUpgrade/>
-                <ModuleOwnerUpgrade/>
-                <MaintenanceUpgrade/>
-                <CityInstitutionUpgrade/>
-                <IncidentInfectableUpgrade/>
-                <RecruitmentUpgrade/>
-                <AqueductUpgrade/>
-                <WarehouseUpgrade/>
-                <IrrigationUpgrade/>
+                <MaintenanceUpgrade>
+                    <MaintenanceFactorUpgrade>
+                        <Value><ModValue Insert="$ShrineDeity_Legendary_MaintenanceBuff_NonBoosted"/></Value>
+                        <Percental>1</Percental>
+                    </MaintenanceFactorUpgrade>
+                </MaintenanceUpgrade>
             </Values>
         </Asset>
     </ModOp>
@@ -170,38 +164,26 @@
                 </Standard>
                 <Text>
                     <OasisId>1600000460</OasisId>
-                </Text>
-                <HealthUpgrade/>
+                </Text>               
                 <BuildingUpgrade>
                     <AdditionalAttributes>
                         <Prestige>
                             <AmountOrPercent>
-                                <Value>1.5</Value>
+                                <Value><ModValue Insert="$ShrineDeity_Legendary_BuffValue_NonBoosted"/></Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Prestige>
                         <Population>
                             <AmountOrPercent>
-                                <Value>1.5</Value>
+                                <Value><ModValue Insert="$ShrineDeity_Legendary_BuffValue_NonBoosted"/></Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Population>
                     </AdditionalAttributes>
                 </BuildingUpgrade>
-                <DistributionUpgrade/>
                 <Buff>
                     <SourceCategory>Adjacency</SourceCategory>
                 </Buff>
-                <ResidenceUpgrade/>
-                <FactoryUpgrade/>
-                <ModuleOwnerUpgrade/>
-                <MaintenanceUpgrade/>
-                <CityInstitutionUpgrade/>
-                <IncidentInfectableUpgrade/>
-                <RecruitmentUpgrade/>
-                <AqueductUpgrade/>
-                <WarehouseUpgrade/>
-                <IrrigationUpgrade/>
             </Values>
         </Asset>
     </ModOp>
@@ -221,29 +203,18 @@
                 <Text>
                     <OasisId>1600000460</OasisId>
                 </Text>
-                <HealthUpgrade/>
                 <BuildingUpgrade>
                     <AdditionalFunctionalEffect>1600000465</AdditionalFunctionalEffect>
                 </BuildingUpgrade>
-                <DistributionUpgrade/>
                 <Buff>
                     <SourceCategory>Item</SourceCategory>
                 </Buff>
-                <ResidenceUpgrade/>
-                <FactoryUpgrade/>
-                <ModuleOwnerUpgrade/>
                 <MaintenanceUpgrade>
                     <MaintenanceFactorUpgrade>
-                        <Value>-50</Value>
+                        <Value><ModValue Insert="$ShrineDeity_Legendary_MaintenanceBuff_Boosted"/></Value>
                         <Percental>1</Percental>
                     </MaintenanceFactorUpgrade>
                 </MaintenanceUpgrade>
-                <CityInstitutionUpgrade/>
-                <IncidentInfectableUpgrade/>
-                <RecruitmentUpgrade/>
-                <AqueductUpgrade/>
-                <WarehouseUpgrade/>
-                <IrrigationUpgrade/>
             </Values>
         </Asset>
     </ModOp>
@@ -292,37 +263,25 @@
                 <Text>
                     <OasisId>1600000460</OasisId>
                 </Text>
-                <HealthUpgrade/>
                 <BuildingUpgrade>
                     <AdditionalAttributes>
                         <Prestige>
                             <AmountOrPercent>
-                                <Value>3</Value>
+                                <Value><ModValue Insert="$ShrineDeity_Legendary_BuffValue_Boosted"/></Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Prestige>
                         <Population>
                             <AmountOrPercent>
-                                <Value>3</Value>
+                                <Value><ModValue Insert="$ShrineDeity_Legendary_BuffValue_Boosted"/></Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Population>
                     </AdditionalAttributes>
                 </BuildingUpgrade>
-                <DistributionUpgrade/>
                 <Buff>
                     <SourceCategory>Adjacency</SourceCategory>
                 </Buff>
-                <ResidenceUpgrade/>
-                <FactoryUpgrade/>
-                <ModuleOwnerUpgrade/>
-                <MaintenanceUpgrade/>
-                <CityInstitutionUpgrade/>
-                <IncidentInfectableUpgrade/>
-                <RecruitmentUpgrade/>
-                <AqueductUpgrade/>
-                <WarehouseUpgrade/>
-                <IrrigationUpgrade/>
             </Values>
         </Asset>
     </ModOp>

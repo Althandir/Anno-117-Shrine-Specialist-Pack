@@ -58,24 +58,12 @@
                 <Text>
                     <OasisId>1600000396</OasisId>
                 </Text>
-                <HealthUpgrade/>
                 <BuildingUpgrade>
                     <AdditionalFunctionalEffect>1600000398</AdditionalFunctionalEffect>
                 </BuildingUpgrade>
-                <DistributionUpgrade/>
                 <Buff>
                     <SourceCategory>Item</SourceCategory>
                 </Buff>
-                <ResidenceUpgrade/>
-                <FactoryUpgrade/>
-                <ModuleOwnerUpgrade/>
-                <MaintenanceUpgrade/>
-                <CityInstitutionUpgrade/>
-                <IncidentInfectableUpgrade/>
-                <RecruitmentUpgrade/>
-                <AqueductUpgrade/>
-                <WarehouseUpgrade/>
-                <IrrigationUpgrade/>
             </Values>
         </Asset>
     </ModOp>
@@ -124,31 +112,19 @@
                 <Text>
                     <OasisId>1600000396</OasisId>
                 </Text>
-                <HealthUpgrade/>
                 <BuildingUpgrade>
                     <AdditionalAttributes>
                       <Health>
                           <AmountOrPercent>
-                              <Value>1</Value>
+                              <Value><ModValue Insert="$Shrine_Common_BuffValue"/></Value>
                               <Percental>0</Percental>
                           </AmountOrPercent>
                       </Health>
                     </AdditionalAttributes>
                 </BuildingUpgrade>
-                <DistributionUpgrade/>
                 <Buff>
                     <SourceCategory>Adjacency</SourceCategory>
                 </Buff>
-                <ResidenceUpgrade/>
-                <FactoryUpgrade/>
-                <ModuleOwnerUpgrade/>
-                <MaintenanceUpgrade/>
-                <CityInstitutionUpgrade/>
-                <IncidentInfectableUpgrade/>
-                <RecruitmentUpgrade/>
-                <AqueductUpgrade/>
-                <WarehouseUpgrade/>
-                <IrrigationUpgrade/>
             </Values>
         </Asset>
     </ModOp>

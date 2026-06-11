@@ -58,33 +58,12 @@
                 <Text>
                     <OasisId>1600000329</OasisId>
                 </Text>
-                <HealthUpgrade/>
                 <BuildingUpgrade>
                     <AdditionalFunctionalEffect>1600000331</AdditionalFunctionalEffect>
-                    <AdditionalAttributes>
-                      <Belief>
-                          <AmountOrPercent>
-                              <Value>0</Value>
-                              <Percental>0</Percental>
-                          </AmountOrPercent>
-                      </Belief>
-                    </AdditionalAttributes>
                 </BuildingUpgrade>
-                <DistributionUpgrade/>
                 <Buff>
                     <SourceCategory>Item</SourceCategory>
                 </Buff>
-                <ResidenceUpgrade>
-                </ResidenceUpgrade>
-                <FactoryUpgrade/>
-                <ModuleOwnerUpgrade/>
-                <MaintenanceUpgrade/>
-                <CityInstitutionUpgrade/>
-                <IncidentInfectableUpgrade/>
-                <RecruitmentUpgrade/>
-                <AqueductUpgrade/>
-                <WarehouseUpgrade/>
-                <IrrigationUpgrade/>
             </Values>
         </Asset>
     </ModOp>
@@ -133,38 +112,25 @@
                 <Text>
                     <OasisId>1600000329</OasisId>
                 </Text>
-                <HealthUpgrade/>
                 <BuildingUpgrade>
                     <AdditionalAttributes>
-                      <Health>
-                          <AmountOrPercent>
-                              <Value>1.0</Value>
-                              <Percental>0</Percental>
-                          </AmountOrPercent>
-                      </Health>
-                      <Population>
-                          <AmountOrPercent>
-                              <Value>1.0</Value>
-                              <Percental>0</Percental>
-                          </AmountOrPercent>
-                      </Population>
+                        <Health>
+                            <AmountOrPercent>
+                                <Value><ModValue Insert="$ShrineDeity_Rare_BuffValue"/></Value>
+                                <Percental>0</Percental>
+                            </AmountOrPercent>
+                        </Health>
+                        <Population>
+                            <AmountOrPercent>
+                                <Value><ModValue Insert="$ShrineDeity_Rare_BuffValue"/></Value>
+                                <Percental>0</Percental>
+                            </AmountOrPercent>
+                        </Population>
                     </AdditionalAttributes>
                 </BuildingUpgrade>
-                <DistributionUpgrade/>
                 <Buff>
                     <SourceCategory>Adjacency</SourceCategory>
                 </Buff>
-                <ResidenceUpgrade>
-                </ResidenceUpgrade>
-                <FactoryUpgrade/>
-                <ModuleOwnerUpgrade/>
-                <MaintenanceUpgrade/>
-                <CityInstitutionUpgrade/>
-                <IncidentInfectableUpgrade/>
-                <RecruitmentUpgrade/>
-                <AqueductUpgrade/>
-                <WarehouseUpgrade/>
-                <IrrigationUpgrade/>
             </Values>
         </Asset>
     </ModOp>
