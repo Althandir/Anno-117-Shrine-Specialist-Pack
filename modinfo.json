@@ -115,11 +115,11 @@
     },
     "ShrineDeity_Epic_AdditionalGoods_CycleNumber":
     {
-      "default": "5"
+      "default": "7"
     },
     "ShrineDeity_Epic_WFMaintenanceBuff":
     {
-      "default": "-25"
+      "default": "-33"
     }
   }
 
