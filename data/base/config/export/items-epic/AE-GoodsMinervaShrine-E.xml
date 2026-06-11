@@ -7,8 +7,8 @@
         <Values>
           <Standard>
             <GUID>1600000377</GUID>
-            <Name>Specialist AE-WFMaint-AddGoodsMinervaShrine-E</Name>
-            <IconFilename>data/base/graphics/icons/AdditionalGoods/Shrine_AddGoods_Roman_Minerva.png</IconFilename>
+            <Name>Specialist AE-GoodsMinervaShrine-E</Name>
+            <IconFilename>data/base/graphics/icons/Goods/Shrine_Goods_R_Minerva.png</IconFilename>
             <InfoDescription>1600000378</InfoDescription>
           </Standard>
           <Effect>
@@ -52,8 +52,8 @@
             <Values>
                 <Standard>
                     <GUID>1600000378</GUID>
-                    <Name>Specialist AE-WFMaint-AddGoodsMinervaShrine-E BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/AdditionalGoods/Shrine_AddGoods_Roman_Minerva.png</IconFilename>
+                    <Name>Specialist AE-GoodsMinervaShrine-E BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/Goods/Shrine_Goods_R_Minerva.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000377</OasisId>
@@ -93,8 +93,8 @@
             <Values>
                 <Standard>
                     <GUID>1600000379</GUID>
-                    <Name>Specialist AE-WFMaint-AddGoodsMinervaShrine-E FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/AdditionalGoods/Shrine_AddGoods_Roman_Minerva.png</IconFilename>
+                    <Name>Specialist AE-GoodsMinervaShrine-E FunctionalEffect</Name>
+                    <IconFilename>data/base/graphics/icons/Goods/Shrine_Goods_R_Minerva.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -125,8 +125,8 @@
             <Values>
                 <Standard>
                     <GUID>1600000380</GUID>
-                    <Name>Specialist AE-WFMaint-AddGoodsMinervaShrine-E FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/AdditionalGoods/Shrine_AddGoods_Roman_Minerva.png</IconFilename>
+                    <Name>Specialist AE-GoodsMinervaShrine-E FunctionalEffect BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/Goods/Shrine_Goods_R_Minerva.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000377</OasisId>

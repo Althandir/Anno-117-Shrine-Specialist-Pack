@@ -1,27 +1,27 @@
 <ModOps>
-<!-- Item Definition GUID:1600000373 - 1600000376 | LineID:1600000373 - 1600000374  -->
+<!-- Item Definition GUID:1600000381 - 1600000384 | LineID:1600000381 - 1600000382  -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>1600000373</GUID>
-            <Name>Specialist AE-WFMaint-AddGoodsMercuryShrine-E</Name>
-            <IconFilename>data/base/graphics/icons/AdditionalGoods/Shrine_AddGoods_Roman_Mercury.png</IconFilename>
-            <InfoDescription>1600000374</InfoDescription>
+            <GUID>1600000381</GUID>
+            <Name>Specialist AE-GoodsNeptuneShrine-E</Name>
+            <IconFilename>data/base/graphics/icons/Goods/Shrine_Goods_R_Neptune.png</IconFilename>
+            <InfoDescription>1600000382</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope>  
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>1600000374</GUID>
+                <GUID>1600000382</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
               <Item>
-                <GUID>82496</GUID>
+                <GUID>82493</GUID>
               </Item>
             </Targets>
             <HideInGovernorsBar>1</HideInGovernorsBar>
@@ -36,7 +36,7 @@
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>1600000373</OasisId>
+            <OasisId>1600000381</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -51,15 +51,15 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>1600000374</GUID>
-                    <Name>Specialist AE-WFMaint-AddGoodsMercuryShrine-E BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/AdditionalGoods/Shrine_AddGoods_Roman_Mercury.png</IconFilename>
+                    <GUID>1600000382</GUID>
+                    <Name>Specialist AE-GoodsNeptuneShrine-E BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/Goods/Shrine_Goods_R_Neptune.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>1600000373</OasisId>
+                    <OasisId>1600000381</OasisId>
                 </Text>
                 <BuildingUpgrade>
-                    <AdditionalFunctionalEffect>1600000375</AdditionalFunctionalEffect>
+                    <AdditionalFunctionalEffect>1600000383</AdditionalFunctionalEffect>
                 </BuildingUpgrade>
                 <Buff>
                     <SourceCategory>Item</SourceCategory>
@@ -92,28 +92,28 @@
             <Template>Effect</Template>
             <Values>
                 <Standard>
-                    <GUID>1600000375</GUID>
-                    <Name>Specialist AE-WFMaint-AddGoodsMercuryShrine-E FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/AdditionalGoods/Shrine_AddGoods_Roman_Mercury.png</IconFilename>
+                    <GUID>1600000383</GUID>
+                    <Name>Specialist AE-GoodsNeptuneShrine-E FunctionalEffect</Name>
+                    <IconFilename>data/base/graphics/icons/Goods/Shrine_Goods_R_Neptune.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
                     <SourceCategory>Adjacency</SourceCategory>
                     <Buffs>
                         <Item>
-                            <GUID>1600000376</GUID>
+                            <GUID>1600000384</GUID>
                         </Item>
                     </Buffs>
                     <Targets>
                         <Item>
-                            <GUID>50312</GUID> <!--TODO: Subject to Change! As game does not uses this AssetPool anywhere -->
+                            <GUID>30947</GUID>
                         </Item>
                     </Targets>
                     <ExcludeEffectSourceGUID>0</ExcludeEffectSourceGUID>
                     <HideInGovernorsBar>1</HideInGovernorsBar>
                 </Effect>
                 <Text>
-                    <OasisId>1600000373</OasisId>
+                    <OasisId>1600000381</OasisId>
                 </Text>
             </Values>
         </Asset>
@@ -124,12 +124,12 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>1600000376</GUID>
-                    <Name>Specialist AE-WFMaint-AddGoodsMercuryShrine-E FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/AdditionalGoods/Shrine_AddGoods_Roman_Mercury.png</IconFilename>
+                    <GUID>1600000384</GUID>
+                    <Name>Specialist AE-GoodsNeptuneShrine-E FunctionalEffect BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/Goods/Shrine_Goods_R_Neptune.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>1600000373</OasisId>
+                    <OasisId>1600000381</OasisId>
                 </Text>
                 <Buff>
                     <SourceCategory>Adjacency</SourceCategory>

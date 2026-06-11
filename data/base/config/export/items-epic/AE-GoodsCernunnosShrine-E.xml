@@ -1,27 +1,27 @@
 <ModOps>
-<!-- Item Definition GUID:1600000357 - 1600000360 | LineID:1600000357 - 1600000358  -->
+<!-- Item Definition GUID:1600000361 - 1600000364 | LineID:1600000361 - 1600000362  -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>1600000357</GUID>
-            <Name>Specialist AE-WFMaint-AddGoodsCeresShrine-E</Name>
-            <IconFilename>data/base/graphics/icons/AdditionalGoods/Shrine_AddGoods_Roman_Ceres.png</IconFilename>
-            <InfoDescription>1600000358</InfoDescription>
+            <GUID>1600000361</GUID>
+            <Name>Specialist AE-GoodsCernunnosShrine-E</Name>
+            <IconFilename>data/base/graphics/icons/Goods/Shrine_Goods_C_Cernunnos.png</IconFilename>
+            <InfoDescription>1600000362</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope>  
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>1600000358</GUID>
+                <GUID>1600000362</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
               <Item>
-                <GUID>82494</GUID>
+                <GUID>82498</GUID>
               </Item>
             </Targets>
             <HideInGovernorsBar>1</HideInGovernorsBar>
@@ -36,7 +36,7 @@
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>1600000357</OasisId>
+            <OasisId>1600000361</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -51,15 +51,15 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>1600000358</GUID>
-                    <Name>Specialist AE-WFMaint-AddGoodsCeresShrine-E BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/AdditionalGoods/Shrine_AddGoods_Roman_Ceres.png</IconFilename>
+                    <GUID>1600000362</GUID>
+                    <Name>Specialist AE-GoodsCernunnosShrine-E BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/Goods/Shrine_Goods_C_Cernunnos.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>1600000357</OasisId>
+                    <OasisId>1600000361</OasisId>
                 </Text>
                 <BuildingUpgrade>
-                    <AdditionalFunctionalEffect>1600000359</AdditionalFunctionalEffect>
+                    <AdditionalFunctionalEffect>1600000363</AdditionalFunctionalEffect>
                 </BuildingUpgrade>
                 <Buff>
                     <SourceCategory>Item</SourceCategory>
@@ -92,28 +92,28 @@
             <Template>Effect</Template>
             <Values>
                 <Standard>
-                    <GUID>1600000359</GUID>
-                    <Name>Specialist AE-WFMaint-AddGoodsCeresShrine-E FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/AdditionalGoods/Shrine_AddGoods_Roman_Ceres.png</IconFilename>
+                    <GUID>1600000363</GUID>
+                    <Name>Specialist AE-GoodsCernunnosShrine-E FunctionalEffect</Name>
+                    <IconFilename>data/base/graphics/icons/Goods/Shrine_Goods_C_Cernunnos.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
                     <SourceCategory>Adjacency</SourceCategory>
                     <Buffs>
                         <Item>
-                            <GUID>1600000360</GUID>
+                            <GUID>1600000364</GUID>
                         </Item>
                     </Buffs>
                     <Targets>
                         <Item>
-                            <GUID>43602</GUID>
+                            <GUID>50243</GUID>
                         </Item>
                     </Targets>
                     <ExcludeEffectSourceGUID>0</ExcludeEffectSourceGUID>
                     <HideInGovernorsBar>1</HideInGovernorsBar>
                 </Effect>
                 <Text>
-                    <OasisId>1600000357</OasisId>
+                    <OasisId>1600000361</OasisId>
                 </Text>
             </Values>
         </Asset>
@@ -124,12 +124,12 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>1600000360</GUID>
-                    <Name>Specialist AE-WFMaint-AddGoodsCeresShrine-E FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/AdditionalGoods/Shrine_AddGoods_Roman_Ceres.png</IconFilename>
+                    <GUID>1600000364</GUID>
+                    <Name>Specialist AE-GoodsCernunnosShrine-E FunctionalEffect BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/Goods/Shrine_Goods_C_Cernunnos.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>1600000357</OasisId>
+                    <OasisId>1600000361</OasisId>
                 </Text>
                 <Buff>
                     <SourceCategory>Adjacency</SourceCategory>

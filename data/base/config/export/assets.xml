@@ -26,13 +26,13 @@
 <Include File="items-rare/AE-MinorMinervaShrine-R.xml" />
 <Include File="items-rare/AE-MinorNeptuneShrine-R.xml" />
 
-<Include File="items-epic/AE-WFMaint-AddGoodsCeresShrine-E.xml" />
-<Include File="items-epic/AE-WFMaint-AddGoodsCernunnosShrine-E.xml" />
-<Include File="items-epic/AE-WFMaint-AddGoodsEponaShrine-E.xml" />
-<Include File="items-epic/AE-WFMaint-AddGoodsMarsShrine-E.xml" />
-<Include File="items-epic/AE-WFMaint-AddGoodsMercuryShrine-E.xml" />
-<Include File="items-epic/AE-WFMaint-AddGoodsMinervaShrine-E.xml" />
-<Include File="items-epic/AE-WFMaint-AddGoodsNeptuneShrine-E.xml" />
+<Include File="items-epic/AE-GoodsCeresShrine-E.xml" />
+<Include File="items-epic/AE-GoodsCernunnosShrine-E.xml" />
+<Include File="items-epic/AE-GoodsEponaShrine-E.xml" />
+<Include File="items-epic/AE-GoodsMarsShrine-E.xml" />
+<Include File="items-epic/AE-GoodsMercuryShrine-E.xml" />
+<Include File="items-epic/AE-GoodsMinervaShrine-E.xml" />
+<Include File="items-epic/AE-GoodsNeptuneShrine-E.xml" />
 
 <Include File="items-legendary/AE-MajorCeresShrine-L.xml" />
 <Include File="items-legendary/AE-MajorCernunnosShrine-L.xml" />
