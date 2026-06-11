@@ -169,7 +169,7 @@
                     <AdditionalAttributes>
                         <Money>
                             <AmountOrPercent>
-                                <Value>2</Value>
+                                <Value><ModValue Insert="$ShrineDeity_Legendary_BuffValue_NonBoosted*2"/></Value>
                                 <Percental>0</Percental>
                             </AmountOrPercent>
                         </Money>
