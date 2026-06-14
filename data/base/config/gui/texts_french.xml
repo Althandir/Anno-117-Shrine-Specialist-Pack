@@ -171,7 +171,7 @@
     
     <!-- Epic Specialists -->
     <Group>
-        <!-- Specialist AE-WFMaint-AddGoodsCeresShrine-E -->
+        <!-- Specialist AE-GoodsCeresShrine-E -->
         <Group>
         <ModOp Add="/TextExport/Texts">
             <!-- Title -->
@@ -187,7 +187,7 @@
         </ModOp>
         </Group>
 
-        <!-- Specialist AE-WFMaint-AddGoodsCernunnosShrine-E -->
+        <!-- Specialist AE-GoodsCernunnosShrine-E -->
         <Group>
         <ModOp Add="/TextExport/Texts">
             <!-- Title -->
@@ -203,7 +203,7 @@
         </ModOp>
         </Group>
 
-        <!-- Specialist AE-WFMaint-AddGoodsEponaShrine-E -->
+        <!-- Specialist AE-GoodsEponaShrine-E -->
         <Group>
         <ModOp Add="/TextExport/Texts">
             <!-- Title -->
@@ -219,7 +219,7 @@
         </ModOp>
         </Group>
 
-        <!-- Specialist AE-WFMaint-AddGoodsMarsShrine-E -->
+        <!-- Specialist AE-GoodsMarsShrine-E -->
         <Group>
         <ModOp Add="/TextExport/Texts">
             <!-- Title -->
@@ -235,7 +235,7 @@
         </ModOp>
         </Group>
 
-        <!-- Specialist AE-WFMaint-AddGoodsMercuryShrine-E -->
+        <!-- Specialist AE-GoodsMercuryShrine-E -->
         <Group>
         <ModOp Add="/TextExport/Texts">
             <!-- Title -->
@@ -251,7 +251,7 @@
         </ModOp>
         </Group>
 
-        <!-- Specialist AE-WFMaint-AddGoodsMinervaShrine-E -->
+        <!-- Specialist AE-GoodsMinervaShrine-E -->
         <Group>
         <ModOp Add="/TextExport/Texts">
             <!-- Title -->
@@ -267,7 +267,7 @@
         </ModOp>
         </Group>
 
-        <!-- Specialist AE-WFMaint-AddGoodsNeptuneShrine-E -->
+        <!-- Specialist AE-GoodsNeptuneShrine-E -->
         <Group>
         <ModOp Add="/TextExport/Texts">
             <!-- Title -->

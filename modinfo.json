@@ -1,6 +1,6 @@
 {
   "ModID": "althandir-altdolphin-specialists-shrine-pack",
-  "Version": "1.0.2",
+  "Version": "1.0.3",
   "Anno": 8,
   "IncompatibleIds": null,
   "ModDependencies": null,
@@ -16,7 +16,7 @@
   },
   "GameSetup": {
     "RequiresNewGame": false,
-    "SafeToRemove": true,
+    "SafeToRemove": false,
     "Multiplayer": true,
     "Campaign": true
   },
@@ -63,7 +63,6 @@
 
   "CreatorName": "Althandir / Altdolphin",
   "CreatorContact": "althandir via Anno-Modding-Discord",
-  "Image": "ModListingImg.png",
 
   "Options": 
   {
@@ -82,6 +81,44 @@
     "TradePrice_Legendary":
     {
       "default": "500000"
+    },
+    "Shrine_Common_BuffValue":
+    {
+      "default": "1"
+    },
+    "ShrineDeity_Rare_BuffValue":
+    { 
+      "label": "Value for all Buff granted by Rare Shrine Specialists. Info: Value is Doubled for Deities only giving one Attribute (e.g Mercury's Shrine Buff)",
+      "default": "0.8"
+    },
+    "ShrineDeity_Legendary_BuffValue_NonBoosted":
+    {
+      "label": "Value for all Buff granted by Legendary Shrine Specialists. Info: Value is Doubled for Deities only giving one Attribute (e.g Mercury's Shrine Buff)",
+      "default": "1.5"
+    },
+    "ShrineDeity_Legendary_BuffValue_Boosted":
+    {
+      "default": "2.0"
+    },
+    "ShrineDeity_Legendary_MaintenanceBuff_NonBoosted":
+    {
+      "default": "-50"
+    },
+    "ShrineDeity_Legendary_MaintenanceBuff_Boosted":
+    {
+      "default": "-100"
+    },
+    "ShrineDeity_Epic_AdditionalGoods_Amount":
+    {
+      "default": "2"
+    },
+    "ShrineDeity_Epic_AdditionalGoods_CycleNumber":
+    {
+      "default": "7"
+    },
+    "ShrineDeity_Epic_WFMaintenanceBuff":
+    {
+      "default": "-33"
     }
   }
 

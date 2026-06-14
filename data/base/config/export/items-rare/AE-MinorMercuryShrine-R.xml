@@ -57,34 +57,13 @@
                 </Standard>
                 <Text>
                     <OasisId>1600000345</OasisId>
-                </Text>
-                <HealthUpgrade/>
+                </Text>            
                 <BuildingUpgrade>
                     <AdditionalFunctionalEffect>1600000347</AdditionalFunctionalEffect>
-                    <AdditionalAttributes>
-                      <Belief>
-                          <AmountOrPercent>
-                              <Value>0</Value>
-                              <Percental>0</Percental>
-                          </AmountOrPercent>
-                      </Belief>
-                    </AdditionalAttributes>
                 </BuildingUpgrade>
-                <DistributionUpgrade/>
                 <Buff>
                     <SourceCategory>Item</SourceCategory>
                 </Buff>
-                <ResidenceUpgrade>
-                </ResidenceUpgrade>
-                <FactoryUpgrade/>
-                <ModuleOwnerUpgrade/>
-                <MaintenanceUpgrade/>
-                <CityInstitutionUpgrade/>
-                <IncidentInfectableUpgrade/>
-                <RecruitmentUpgrade/>
-                <AqueductUpgrade/>
-                <WarehouseUpgrade/>
-                <IrrigationUpgrade/>
             </Values>
         </Asset>
     </ModOp>
@@ -132,33 +111,20 @@
                 </Standard>
                 <Text>
                     <OasisId>1600000345</OasisId>
-                </Text>
-                <HealthUpgrade/>
+                </Text>               
                 <BuildingUpgrade>
                     <AdditionalAttributes>
                       <Money>
                           <AmountOrPercent>
-                              <Value>2.0</Value>
+                              <Value><ModValue Insert="$ShrineDeity_Rare_BuffValue*2"/></Value>
                               <Percental>0</Percental>
                           </AmountOrPercent>
                       </Money>
                     </AdditionalAttributes>
                 </BuildingUpgrade>
-                <DistributionUpgrade/>
                 <Buff>
                     <SourceCategory>Adjacency</SourceCategory>
                 </Buff>
-                <ResidenceUpgrade>
-                </ResidenceUpgrade>
-                <FactoryUpgrade/>
-                <ModuleOwnerUpgrade/>
-                <MaintenanceUpgrade/>
-                <CityInstitutionUpgrade/>
-                <IncidentInfectableUpgrade/>
-                <RecruitmentUpgrade/>
-                <AqueductUpgrade/>
-                <WarehouseUpgrade/>
-                <IrrigationUpgrade/>
             </Values>
         </Asset>
     </ModOp>

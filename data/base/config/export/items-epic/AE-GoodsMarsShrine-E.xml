@@ -7,8 +7,8 @@
         <Values>
           <Standard>
             <GUID>1600000369</GUID>
-            <Name>Specialist AE-WFMaint-AddGoodsMarsShrine-E</Name>
-            <IconFilename>data/base/graphics/icons/AdditionalGoods/Shrine_AddGoods_Roman_Mars.png</IconFilename>
+            <Name>Specialist AE-GoodsMarsShrine-E</Name>
+            <IconFilename>data/base/graphics/icons/Goods/Shrine_Goods_R_Mars.png</IconFilename>
             <InfoDescription>1600000370</InfoDescription>
           </Standard>
           <Effect>
@@ -52,48 +52,37 @@
             <Values>
                 <Standard>
                     <GUID>1600000370</GUID>
-                    <Name>Specialist AE-WFMaint-AddGoodsMarsShrine-E BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/AdditionalGoods/Shrine_AddGoods_Roman_Mars.png</IconFilename>
+                    <Name>Specialist AE-GoodsMarsShrine-E BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/Goods/Shrine_Goods_R_Mars.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000369</OasisId>
                 </Text>
-                <HealthUpgrade/>
                 <BuildingUpgrade>
                     <AdditionalFunctionalEffect>1600000371</AdditionalFunctionalEffect>
                 </BuildingUpgrade>
-                <DistributionUpgrade/>
                 <Buff>
                     <SourceCategory>Item</SourceCategory>
                 </Buff>
-                <ResidenceUpgrade>
-                </ResidenceUpgrade>
                 <FactoryUpgrade>
                     <AdditionalOutput>
                         <Item>
                             <ForceProductSameAsFactoryOutput>1</ForceProductSameAsFactoryOutput>
-                            <AdditionalOutputCycle>5</AdditionalOutputCycle>
-                            <Amount>2</Amount>
+                            <AdditionalOutputCycle><ModValue Insert="$ShrineDeity_Epic_AdditionalGoods_CycleNumber"/></AdditionalOutputCycle>
+                            <Amount><ModValue Insert="$ShrineDeity_Epic_AdditionalGoods_Amount"/></Amount>
                         </Item>
                     </AdditionalOutput>
                 </FactoryUpgrade>
-                <ModuleOwnerUpgrade/>
                 <MaintenanceUpgrade>
                   <MaintenanceFactorUpgrade>
                     <Value>0</Value>
                     <Percental>1</Percental>
                   </MaintenanceFactorUpgrade>
                   <WorkforceMaintenanceFactorUpgrade>
-                    <Value>-25</Value>
+                    <Value><ModValue Insert="$ShrineDeity_Epic_WFMaintenanceBuff"/></Value>
                     <Percental>1</Percental>
                   </WorkforceMaintenanceFactorUpgrade>
                 </MaintenanceUpgrade>
-                <CityInstitutionUpgrade/>
-                <IncidentInfectableUpgrade/>
-                <RecruitmentUpgrade/>
-                <AqueductUpgrade/>
-                <WarehouseUpgrade/>
-                <IrrigationUpgrade/>
             </Values>
         </Asset>
     </ModOp>
@@ -104,8 +93,8 @@
             <Values>
                 <Standard>
                     <GUID>1600000371</GUID>
-                    <Name>Specialist AE-WFMaint-AddGoodsMarsShrine-E FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/AdditionalGoods/Shrine_AddGoods_Roman_Mars.png</IconFilename>
+                    <Name>Specialist AE-GoodsMarsShrine-E FunctionalEffect</Name>
+                    <IconFilename>data/base/graphics/icons/Goods/Shrine_Goods_R_Mars.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -136,85 +125,34 @@
             <Values>
                 <Standard>
                     <GUID>1600000372</GUID>
-                    <Name>Specialist AE-WFMaint-AddGoodsMarsShrine-E FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/AdditionalGoods/Shrine_AddGoods_Roman_Mars.png</IconFilename>
+                    <Name>Specialist AE-GoodsMarsShrine-E FunctionalEffect BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/Goods/Shrine_Goods_R_Mars.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000369</OasisId>
                 </Text>
-                <HealthUpgrade/>
-                <BuildingUpgrade>
-                    <AdditionalAttributes>
-                      <Happiness>
-                          <AmountOrPercent>
-                              <Value>0</Value>
-                              <Percental>0</Percental>
-                          </AmountOrPercent>
-                      </Happiness>
-                      <Money>
-                          <AmountOrPercent>
-                              <Value>0</Value>
-                              <Percental>0</Percental>
-                          </AmountOrPercent>
-                      </Money>
-                      <Prestige>
-                          <AmountOrPercent>
-                              <Value>0</Value>
-                              <Percental>0</Percental>
-                          </AmountOrPercent>
-                      </Prestige>
-                      <Belief>
-                          <AmountOrPercent>
-                              <Value>0</Value>
-                              <Percental>0</Percental>
-                          </AmountOrPercent>
-                      </Belief>
-                      <Knowledge>
-                          <AmountOrPercent>
-                              <Value>0</Value>
-                              <Percental>0</Percental>
-                          </AmountOrPercent>
-                      </Knowledge>
-                      <Health>
-                          <AmountOrPercent>
-                              <Value>0</Value>
-                              <Percental>0</Percental>
-                          </AmountOrPercent>
-                      </Health>
-                    </AdditionalAttributes>
-                </BuildingUpgrade>
-                <DistributionUpgrade/>
                 <Buff>
                     <SourceCategory>Adjacency</SourceCategory>
                 </Buff>
-                <ResidenceUpgrade>
-                </ResidenceUpgrade>
                 <FactoryUpgrade>
                     <AdditionalOutput>
                         <Item>
                             <ForceProductSameAsFactoryOutput>1</ForceProductSameAsFactoryOutput>
-                            <AdditionalOutputCycle>5</AdditionalOutputCycle>
-                            <Amount>2</Amount>
+                            <AdditionalOutputCycle><ModValue Insert="$ShrineDeity_Epic_AdditionalGoods_CycleNumber"/></AdditionalOutputCycle>
+                            <Amount><ModValue Insert="$ShrineDeity_Epic_AdditionalGoods_Amount"/></Amount>
                         </Item>
                     </AdditionalOutput>
                 </FactoryUpgrade>
-                <ModuleOwnerUpgrade/>
                 <MaintenanceUpgrade>
                   <MaintenanceFactorUpgrade>
                     <Value>0</Value>
                     <Percental>1</Percental>
                   </MaintenanceFactorUpgrade>
                   <WorkforceMaintenanceFactorUpgrade>
-                    <Value>-25</Value>
+                    <Value><ModValue Insert="$ShrineDeity_Epic_WFMaintenanceBuff"/></Value>
                     <Percental>1</Percental>
                   </WorkforceMaintenanceFactorUpgrade>
                 </MaintenanceUpgrade>
-                <CityInstitutionUpgrade/>
-                <IncidentInfectableUpgrade/>
-                <RecruitmentUpgrade/>
-                <AqueductUpgrade/>
-                <WarehouseUpgrade/>
-                <IrrigationUpgrade/>
             </Values>
         </Asset>
     </ModOp>

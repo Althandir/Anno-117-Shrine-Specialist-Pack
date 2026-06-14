@@ -57,34 +57,13 @@
                 </Standard>
                 <Text>
                     <OasisId>1600000349</OasisId>
-                </Text>
-                <HealthUpgrade/>
+                </Text>                
                 <BuildingUpgrade>
                     <AdditionalFunctionalEffect>1600000351</AdditionalFunctionalEffect>
-                    <AdditionalAttributes>
-                      <Belief>
-                          <AmountOrPercent>
-                              <Value>0</Value>
-                              <Percental>0</Percental>
-                          </AmountOrPercent>
-                      </Belief>
-                    </AdditionalAttributes>
                 </BuildingUpgrade>
-                <DistributionUpgrade/>
                 <Buff>
                     <SourceCategory>Item</SourceCategory>
                 </Buff>
-                <ResidenceUpgrade>
-                </ResidenceUpgrade>
-                <FactoryUpgrade/>
-                <ModuleOwnerUpgrade/>
-                <MaintenanceUpgrade/>
-                <CityInstitutionUpgrade/>
-                <IncidentInfectableUpgrade/>
-                <RecruitmentUpgrade/>
-                <AqueductUpgrade/>
-                <WarehouseUpgrade/>
-                <IrrigationUpgrade/>
             </Values>
         </Asset>
     </ModOp>
@@ -132,39 +111,26 @@
                 </Standard>
                 <Text>
                     <OasisId>1600000349</OasisId>
-                </Text>
-                <HealthUpgrade/>
+                </Text>           
                 <BuildingUpgrade>
                     <AdditionalAttributes>
                       <Prestige>
                           <AmountOrPercent>
-                              <Value>1.0</Value>
+                              <Value><ModValue Insert="$ShrineDeity_Rare_BuffValue"/></Value>
                               <Percental>0</Percental>
                           </AmountOrPercent>
                       </Prestige>
                       <Knowledge>
                           <AmountOrPercent>
-                              <Value>1.0</Value>
+                              <Value><ModValue Insert="$ShrineDeity_Rare_BuffValue"/></Value>
                               <Percental>0</Percental>
                           </AmountOrPercent>
                       </Knowledge>
                     </AdditionalAttributes>
                 </BuildingUpgrade>
-                <DistributionUpgrade/>
                 <Buff>
                     <SourceCategory>Adjacency</SourceCategory>
                 </Buff>
-                <ResidenceUpgrade>
-                </ResidenceUpgrade>
-                <FactoryUpgrade/>
-                <ModuleOwnerUpgrade/>
-                <MaintenanceUpgrade/>
-                <CityInstitutionUpgrade/>
-                <IncidentInfectableUpgrade/>
-                <RecruitmentUpgrade/>
-                <AqueductUpgrade/>
-                <WarehouseUpgrade/>
-                <IrrigationUpgrade/>
             </Values>
         </Asset>
     </ModOp>
