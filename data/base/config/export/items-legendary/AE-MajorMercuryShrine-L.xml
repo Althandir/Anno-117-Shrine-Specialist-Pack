@@ -12,7 +12,7 @@
                 <InfoDescription>1600000468</InfoDescription>
             </Standard>
             <Effect>
-                <EffectScope>Radius</EffectScope>  
+                <EffectScope>ObjectsInArea</EffectScope>  
                 <SourceCategory>Item</SourceCategory>
                 <Buffs>
                     <Item>
