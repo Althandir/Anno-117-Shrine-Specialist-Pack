@@ -108,9 +108,13 @@
     {
       "default": "-100"
     },
+    "ShrineDeity_Epic_Productivity_Amount":
+    {
+      "default": "15"
+    },
     "ShrineDeity_Epic_AdditionalGoods_Amount":
     {
-      "default": "2"
+      "default": "1"
     },
     "ShrineDeity_Epic_AdditionalGoods_CycleNumber":
     {
@@ -122,7 +126,7 @@
     },
     "ShrineDeity_Epic_WFMaintenanceBuff":
     {
-      "default": "-10"
+      "default": "-15"
     }
   }
 
