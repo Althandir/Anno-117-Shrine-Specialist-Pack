@@ -12,7 +12,7 @@
             <InfoDescription>1600000378</InfoDescription>
           </Standard>
           <Effect>
-            <EffectScope>ObjectsInArea</EffectScope>  
+            <EffectScope>Radius</EffectScope>  
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
@@ -75,7 +75,7 @@
                 </FactoryUpgrade>
                 <MaintenanceUpgrade>
                   <MaintenanceFactorUpgrade>
-                    <Value>0</Value>
+                    <Value><ModValue Insert="$ShrineDeity_Epic_MaintenanceBuff"/></Value>
                     <Percental>1</Percental>
                   </MaintenanceFactorUpgrade>
                   <WorkforceMaintenanceFactorUpgrade>
@@ -145,7 +145,7 @@
                 </FactoryUpgrade>
                 <MaintenanceUpgrade>
                   <MaintenanceFactorUpgrade>
-                    <Value>0</Value>
+                    <Value><ModValue Insert="$ShrineDeity_Epic_MaintenanceBuff"/></Value>
                     <Percental>1</Percental>
                   </MaintenanceFactorUpgrade>
                   <WorkforceMaintenanceFactorUpgrade>

@@ -116,9 +116,13 @@
     {
       "default": "7"
     },
+    "ShrineDeity_Epic_MaintenanceBuff":
+    {
+      "default": "-5"
+    },
     "ShrineDeity_Epic_WFMaintenanceBuff":
     {
-      "default": "-25"
+      "default": "-10"
     }
   }
 
