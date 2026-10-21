@@ -94,11 +94,11 @@
     "ShrineDeity_Legendary_BuffValue_NonBoosted":
     {
       "label": "Value for all Buff granted by Legendary Shrine Specialists. Info: Value is Doubled for Deities only giving one Attribute (e.g Mercury's Shrine Buff)",
-      "default": "1"
+      "default": "0.5"
     },
     "ShrineDeity_Legendary_BuffValue_Boosted":
     {
-      "default": "2.0"
+      "default": "1.0"
     },
     "ShrineDeity_Legendary_MaintenanceBuff_NonBoosted":
     {

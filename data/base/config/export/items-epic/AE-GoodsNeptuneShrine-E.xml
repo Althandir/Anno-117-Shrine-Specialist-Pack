@@ -139,6 +139,10 @@
             <SourceCategory>Adjacency</SourceCategory>
           </Buff>
           <FactoryUpgrade>
+            <ProductivityUpgrade>
+              <Value><ModValue Insert="$ShrineDeity_Epic_Productivity_Amount"/></Value>
+              <Percental>1</Percental>
+            </ProductivityUpgrade>
             <AdditionalOutput>
               <Item>
                 <ForceProductSameAsFactoryOutput>1</ForceProductSameAsFactoryOutput>
