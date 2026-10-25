@@ -8,7 +8,7 @@
             <Standard>
                 <GUID>1600000460</GUID>
                 <Name>Specialist AE-MajorMarsShrine-L</Name>
-                <IconFilename>data/base/graphics/icons/Major/MajorMarsShrine.png</IconFilename>
+                <IconFilename>data/base/graphics/icons/Shrine-Pack/Major/MajorMarsShrine.png</IconFilename>
                 <InfoDescription>1600000461</InfoDescription>
             </Standard>
             <Effect>
@@ -100,7 +100,7 @@
                 <Standard>
                     <GUID>1600000461</GUID>
                     <Name>Specialist AE-MajorMarsShrine-L BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Major/MajorMarsShrine.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Shrine-Pack/Major/MajorMarsShrine.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000460</OasisId>
@@ -128,7 +128,7 @@
                 <Standard>
                     <GUID>1600000462</GUID>
                     <Name>Specialist AE-MajorMarsShrine-L FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/Major/MajorMarsShrine.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Shrine-Pack/Major/MajorMarsShrine.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -160,7 +160,7 @@
                 <Standard>
                     <GUID>1600000463</GUID>
                     <Name>Specialist AE-MajorMarsShrine-L FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Major/MajorMarsShrine.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Shrine-Pack/Major/MajorMarsShrine.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000460</OasisId>
@@ -198,7 +198,7 @@
                 <Standard>
                     <GUID>1600000464</GUID>
                     <Name>Specialist AE-MajorMarsShrine-L Boosted BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Major/MajorMarsShrine.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Shrine-Pack/Major/MajorMarsShrine.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000460</OasisId>
@@ -226,7 +226,7 @@
                 <Standard>
                     <GUID>1600000465</GUID>
                     <Name>Specialist AE-MajorMarsShrine-L Boosted FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/Major/MajorMarsShrine.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Shrine-Pack/Major/MajorMarsShrine.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -258,7 +258,7 @@
                 <Standard>
                     <GUID>1600000466</GUID>
                     <Name>Specialist AE-MajorMarsShrine-L Boosted FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Major/MajorMarsShrine.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Shrine-Pack/Major/MajorMarsShrine.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000460</OasisId>

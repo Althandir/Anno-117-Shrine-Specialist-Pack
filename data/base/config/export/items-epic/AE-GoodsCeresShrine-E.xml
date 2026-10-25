@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000357</GUID>
             <Name>Specialist AE-GoodsCeresShrine-E</Name>
-            <IconFilename>data/base/graphics/icons/Goods/Shrine_Goods_R_Ceres.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/Shrine-Pack/Goods/Shrine_Goods_R_Ceres.png</IconFilename>
             <InfoDescription>1600000358</InfoDescription>
           </Standard>
           <Effect>
@@ -53,7 +53,7 @@
           <Standard>
             <GUID>1600000358</GUID>
             <Name>Specialist AE-GoodsCeresShrine-E BuildingBuff</Name>
-            <IconFilename>data/base/graphics/icons/Goods/Shrine_Goods_R_Ceres.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/Shrine-Pack/Goods/Shrine_Goods_R_Ceres.png</IconFilename>
           </Standard>
           <Text>
             <OasisId>1600000357</OasisId>
@@ -98,7 +98,7 @@
           <Standard>
             <GUID>1600000359</GUID>
             <Name>Specialist AE-GoodsCeresShrine-E FunctionalEffect</Name>
-            <IconFilename>data/base/graphics/icons/Goods/Shrine_Goods_R_Ceres.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/Shrine-Pack/Goods/Shrine_Goods_R_Ceres.png</IconFilename>
           </Standard>
           <Effect>
             <EffectScope>StreetDistance</EffectScope>
@@ -130,7 +130,7 @@
           <Standard>
             <GUID>1600000360</GUID>
             <Name>Specialist AE-GoodsCeresShrine-E FunctionalEffect BuildingBuff</Name>
-            <IconFilename>data/base/graphics/icons/Goods/Shrine_Goods_R_Ceres.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/Shrine-Pack/Goods/Shrine_Goods_R_Ceres.png</IconFilename>
           </Standard>
           <Text>
             <OasisId>1600000357</OasisId>

@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000329</GUID>
             <Name>Specialist AE-MinorCeresShrine-R</Name>
-            <IconFilename>data/base/graphics/icons/Minor/MinorCeresShrine.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/Shrine-Pack/Minor/MinorCeresShrine.png</IconFilename>
             <InfoDescription>1600000330</InfoDescription>
           </Standard>
           <Effect>
@@ -53,7 +53,7 @@
                 <Standard>
                     <GUID>1600000330</GUID>
                     <Name>Specialist AE-MinorCeresShrine-R BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Minor/MinorCeresShrine.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Shrine-Pack/Minor/MinorCeresShrine.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000329</OasisId>
@@ -75,7 +75,7 @@
                 <Standard>
                     <GUID>1600000331</GUID>
                     <Name>Specialist AE-MinorCeresShrine-R FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/Minor/MinorCeresShrine.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Shrine-Pack/Minor/MinorCeresShrine.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -107,7 +107,7 @@
                 <Standard>
                     <GUID>1600000332</GUID>
                     <Name>Specialist AE-MinorCeresShrine-R FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Minor/MinorCeresShrine.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Shrine-Pack/Minor/MinorCeresShrine.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000329</OasisId>

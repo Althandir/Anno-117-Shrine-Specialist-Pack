@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000361</GUID>
             <Name>Specialist AE-GoodsCernunnosShrine-E</Name>
-            <IconFilename>data/base/graphics/icons/Goods/Shrine_Goods_C_Cernunnos.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/Shrine-Pack/Goods/Shrine_Goods_C_Cernunnos.png</IconFilename>
             <InfoDescription>1600000362</InfoDescription>
           </Standard>
           <Effect>
@@ -53,7 +53,7 @@
           <Standard>
             <GUID>1600000362</GUID>
             <Name>Specialist AE-GoodsCernunnosShrine-E BuildingBuff</Name>
-            <IconFilename>data/base/graphics/icons/Goods/Shrine_Goods_C_Cernunnos.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/Shrine-Pack/Goods/Shrine_Goods_C_Cernunnos.png</IconFilename>
           </Standard>
           <Text>
             <OasisId>1600000361</OasisId>
@@ -98,7 +98,7 @@
           <Standard>
             <GUID>1600000363</GUID>
             <Name>Specialist AE-GoodsCernunnosShrine-E FunctionalEffect</Name>
-            <IconFilename>data/base/graphics/icons/Goods/Shrine_Goods_C_Cernunnos.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/Shrine-Pack/Goods/Shrine_Goods_C_Cernunnos.png</IconFilename>
           </Standard>
           <Effect>
             <EffectScope>StreetDistance</EffectScope>
@@ -130,7 +130,7 @@
           <Standard>
             <GUID>1600000364</GUID>
             <Name>Specialist AE-GoodsCernunnosShrine-E FunctionalEffect BuildingBuff</Name>
-            <IconFilename>data/base/graphics/icons/Goods/Shrine_Goods_C_Cernunnos.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/Shrine-Pack/Goods/Shrine_Goods_C_Cernunnos.png</IconFilename>
           </Standard>
           <Text>
             <OasisId>1600000361</OasisId>
