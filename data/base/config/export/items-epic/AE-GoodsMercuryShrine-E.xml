@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000373</GUID>
             <Name>Specialist AE-GoodsMercuryShrine-E</Name>
-            <IconFilename>data/base/graphics/icons/Shrine-Pack/Goods/Shrine_Goods_R_Mercury.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/Shrine-Pack/Shrine_Goods_R_Mercury.png</IconFilename>
             <InfoDescription>1600000374</InfoDescription>
           </Standard>
           <Effect>
@@ -53,7 +53,7 @@
           <Standard>
             <GUID>1600000374</GUID>
             <Name>Specialist AE-GoodsMercuryShrine-E BuildingBuff</Name>
-            <IconFilename>data/base/graphics/icons/Shrine-Pack/Goods/Shrine_Goods_R_Mercury.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/Shrine-Pack/Shrine_Goods_R_Mercury.png</IconFilename>
           </Standard>
           <Text>
             <OasisId>1600000373</OasisId>
@@ -98,7 +98,7 @@
           <Standard>
             <GUID>1600000375</GUID>
             <Name>Specialist AE-GoodsMercuryShrine-E FunctionalEffect</Name>
-            <IconFilename>data/base/graphics/icons/Shrine-Pack/Goods/Shrine_Goods_R_Mercury.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/Shrine-Pack/Shrine_Goods_R_Mercury.png</IconFilename>
           </Standard>
           <Effect>
             <EffectScope>StreetDistance</EffectScope>
@@ -130,7 +130,7 @@
           <Standard>
             <GUID>1600000376</GUID>
             <Name>Specialist AE-GoodsMercuryShrine-E FunctionalEffect BuildingBuff</Name>
-            <IconFilename>data/base/graphics/icons/Shrine-Pack/Goods/Shrine_Goods_R_Mercury.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/Shrine-Pack/Shrine_Goods_R_Mercury.png</IconFilename>
           </Standard>
           <Text>
             <OasisId>1600000373</OasisId>

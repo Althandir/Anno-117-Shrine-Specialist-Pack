@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000392</GUID>
             <Name>Specialist AE-HappinessAllShrines-C</Name>
-            <IconFilename>data/base/graphics/icons/Shrine-Pack/general/AllShrinesHappiness.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/Shrine-Pack/AllShrinesHappiness.png</IconFilename>
             <InfoDescription>1600000393</InfoDescription>
           </Standard>
           <Effect>
@@ -53,7 +53,7 @@
                 <Standard>
                     <GUID>1600000393</GUID>
                     <Name>Specialist AE-HappinessAllShrines-C BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Shrine-Pack/general/AllShrinesHappiness.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Shrine-Pack/AllShrinesHappiness.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000392</OasisId>
@@ -75,7 +75,7 @@
                 <Standard>
                     <GUID>1600000394</GUID>
                     <Name>Specialist AE-HappinessAllShrines-C FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/Shrine-Pack/general/AllShrinesHappiness.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Shrine-Pack/AllShrinesHappiness.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -107,7 +107,7 @@
                 <Standard>
                     <GUID>1600000395</GUID>
                     <Name>Specialist AE-HappinessAllShrines-C FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Shrine-Pack/general/AllShrinesHappiness.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Shrine-Pack/AllShrinesHappiness.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000392</OasisId>

@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000369</GUID>
             <Name>Specialist AE-GoodsMarsShrine-E</Name>
-            <IconFilename>data/base/graphics/icons/Shrine-Pack/Goods/Shrine_Goods_R_Mars.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/Shrine-Pack/Shrine_Goods_R_Mars.png</IconFilename>
             <InfoDescription>1600000370</InfoDescription>
           </Standard>
           <Effect>
@@ -53,7 +53,7 @@
           <Standard>
             <GUID>1600000370</GUID>
             <Name>Specialist AE-GoodsMarsShrine-E BuildingBuff</Name>
-            <IconFilename>data/base/graphics/icons/Shrine-Pack/Goods/Shrine_Goods_R_Mars.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/Shrine-Pack/Shrine_Goods_R_Mars.png</IconFilename>
           </Standard>
           <Text>
             <OasisId>1600000369</OasisId>
@@ -98,7 +98,7 @@
           <Standard>
             <GUID>1600000371</GUID>
             <Name>Specialist AE-GoodsMarsShrine-E FunctionalEffect</Name>
-            <IconFilename>data/base/graphics/icons/Shrine-Pack/Goods/Shrine_Goods_R_Mars.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/Shrine-Pack/Shrine_Goods_R_Mars.png</IconFilename>
           </Standard>
           <Effect>
             <EffectScope>StreetDistance</EffectScope>
@@ -130,7 +130,7 @@
           <Standard>
             <GUID>1600000372</GUID>
             <Name>Specialist AE-GoodsMarsShrine-E FunctionalEffect BuildingBuff</Name>
-            <IconFilename>data/base/graphics/icons/Shrine-Pack/Goods/Shrine_Goods_R_Mars.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/Shrine-Pack/Shrine_Goods_R_Mars.png</IconFilename>
           </Standard>
           <Text>
             <OasisId>1600000369</OasisId>

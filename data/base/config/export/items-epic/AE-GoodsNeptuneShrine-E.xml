@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000381</GUID>
             <Name>Specialist AE-GoodsNeptuneShrine-E</Name>
-            <IconFilename>data/base/graphics/icons/Shrine-Pack/Goods/Shrine_Goods_R_Neptune.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/Shrine-Pack/Shrine_Goods_R_Neptune.png</IconFilename>
             <InfoDescription>1600000382</InfoDescription>
           </Standard>
           <Effect>
@@ -53,7 +53,7 @@
           <Standard>
             <GUID>1600000382</GUID>
             <Name>Specialist AE-GoodsNeptuneShrine-E BuildingBuff</Name>
-            <IconFilename>data/base/graphics/icons/Shrine-Pack/Goods/Shrine_Goods_R_Neptune.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/Shrine-Pack/Shrine_Goods_R_Neptune.png</IconFilename>
           </Standard>
           <Text>
             <OasisId>1600000381</OasisId>
@@ -98,7 +98,7 @@
           <Standard>
             <GUID>1600000383</GUID>
             <Name>Specialist AE-GoodsNeptuneShrine-E FunctionalEffect</Name>
-            <IconFilename>data/base/graphics/icons/Shrine-Pack/Goods/Shrine_Goods_R_Neptune.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/Shrine-Pack/Shrine_Goods_R_Neptune.png</IconFilename>
           </Standard>
           <Effect>
             <EffectScope>StreetDistance</EffectScope>
@@ -130,7 +130,7 @@
           <Standard>
             <GUID>1600000384</GUID>
             <Name>Specialist AE-GoodsNeptuneShrine-E FunctionalEffect BuildingBuff</Name>
-            <IconFilename>data/base/graphics/icons/Shrine-Pack/Goods/Shrine_Goods_R_Neptune.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/Shrine-Pack/Shrine_Goods_R_Neptune.png</IconFilename>
           </Standard>
           <Text>
             <OasisId>1600000381</OasisId>

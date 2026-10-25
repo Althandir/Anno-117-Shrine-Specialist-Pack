@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000396</GUID>
             <Name>Specialist AE-HealthAllShrines-C</Name>
-            <IconFilename>data/base/graphics/icons/Shrine-Pack/general/AllShrinesHealth.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/Shrine-Pack/AllShrinesHealth.png</IconFilename>
             <InfoDescription>1600000397</InfoDescription>
           </Standard>
           <Effect>
@@ -53,7 +53,7 @@
                 <Standard>
                     <GUID>1600000397</GUID>
                     <Name>Specialist AE-HealthAllShrines-C BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Shrine-Pack/general/AllShrinesHealth.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Shrine-Pack/AllShrinesHealth.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000396</OasisId>
@@ -75,7 +75,7 @@
                 <Standard>
                     <GUID>1600000398</GUID>
                     <Name>Specialist AE-HealthAllShrines-C FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/Shrine-Pack/general/AllShrinesHealth.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Shrine-Pack/AllShrinesHealth.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -107,7 +107,7 @@
                 <Standard>
                     <GUID>1600000399</GUID>
                     <Name>Specialist AE-HealthAllShrines-C FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Shrine-Pack/general/AllShrinesHealth.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Shrine-Pack/AllShrinesHealth.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000396</OasisId>

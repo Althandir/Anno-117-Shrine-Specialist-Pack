@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000345</GUID>
             <Name>Specialist AE-MinorMercuryShrine-R</Name>
-            <IconFilename>data/base/graphics/icons/Shrine-Pack/Minor/MinorMercuryShrine.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/Shrine-Pack/MinorMercuryShrine.png</IconFilename>
             <InfoDescription>1600000346</InfoDescription>
           </Standard>
           <Effect>
@@ -53,7 +53,7 @@
                 <Standard>
                     <GUID>1600000346</GUID>
                     <Name>Specialist AE-MinorMercuryShrine-R BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Shrine-Pack/Minor/MinorMercuryShrine.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Shrine-Pack/MinorMercuryShrine.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000345</OasisId>
@@ -75,7 +75,7 @@
                 <Standard>
                     <GUID>1600000347</GUID>
                     <Name>Specialist AE-MinorMercuryShrine-R FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/Shrine-Pack/Minor/MinorMercuryShrine.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Shrine-Pack/MinorMercuryShrine.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -107,7 +107,7 @@
                 <Standard>
                     <GUID>1600000348</GUID>
                     <Name>Specialist AE-MinorMercuryShrine-R FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Shrine-Pack/Minor/MinorMercuryShrine.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Shrine-Pack/MinorMercuryShrine.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000345</OasisId>

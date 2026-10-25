@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000349</GUID>
             <Name>Specialist AE-MinorMinervaShrine-R</Name>
-            <IconFilename>data/base/graphics/icons/Shrine-Pack/Minor/MinorMinervaShrine.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/Shrine-Pack/MinorMinervaShrine.png</IconFilename>
             <InfoDescription>1600000350</InfoDescription>
           </Standard>
           <Effect>
@@ -53,7 +53,7 @@
                 <Standard>
                     <GUID>1600000350</GUID>
                     <Name>Specialist AE-MinorMinervaShrine-R BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Shrine-Pack/Minor/MinorMinervaShrine.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Shrine-Pack/MinorMinervaShrine.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000349</OasisId>
@@ -75,7 +75,7 @@
                 <Standard>
                     <GUID>1600000351</GUID>
                     <Name>Specialist AE-MinorMinervaShrine-R FunctionalEffect</Name>
-                    <IconFilename>data/base/graphics/icons/Shrine-Pack/Minor/MinorMinervaShrine.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Shrine-Pack/MinorMinervaShrine.png</IconFilename>
                 </Standard>
                 <Effect>
                     <EffectScope>StreetDistance</EffectScope>
@@ -107,7 +107,7 @@
                 <Standard>
                     <GUID>1600000352</GUID>
                     <Name>Specialist AE-MinorMinervaShrine-R FunctionalEffect BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Shrine-Pack/Minor/MinorMinervaShrine.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Shrine-Pack/MinorMinervaShrine.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000349</OasisId>
