@@ -1,6 +1,6 @@
 {
   "ModID": "althandir-altdolphin-specialists-shrine-pack",
-  "Version": "1.0.3",
+  "Version": "1.0.4",
   "Anno": 8,
   "IncompatibleIds": null,
   "ModDependencies": null,
@@ -110,11 +110,11 @@
     },
     "ShrineDeity_Epic_Productivity_Amount":
     {
-      "default": "15"
+      "default": "0"
     },
     "ShrineDeity_Epic_AdditionalGoods_Amount":
     {
-      "default": "1"
+      "default": "2"
     },
     "ShrineDeity_Epic_AdditionalGoods_CycleNumber":
     {
@@ -122,11 +122,11 @@
     },
     "ShrineDeity_Epic_MaintenanceBuff":
     {
-      "default": "-5"
+      "default": "-15"
     },
     "ShrineDeity_Epic_WFMaintenanceBuff":
     {
-      "default": "-15"
+      "default": "-25"
     }
   }
 
