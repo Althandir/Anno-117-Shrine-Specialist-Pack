@@ -12,7 +12,7 @@
             </Text>
             <!-- Description -->
             <Text>
-                <Text>Betet am Schrein um den Segen von Ceres.&#xD;(Shrine-Pack)</Text>
+                <Text>Betet am Schrein um den Segen von Ceres.&#xD;(Altdolphin-Shrine-Pack)</Text>
                 <LineId>1600000330</LineId> 
             </Text>
         </ModOp>
@@ -28,7 +28,7 @@
             </Text>
             <!-- Description -->
             <Text>
-                <Text>Betet am Schrein um den Segen von Cernunnos.&#xD;(Shrine-Pack)</Text>
+                <Text>Betet am Schrein um den Segen von Cernunnos.&#xD;(Altdolphin-Shrine-Pack)</Text>
                 <LineId>1600000334</LineId> 
             </Text>
         </ModOp>
@@ -44,7 +44,7 @@
             </Text>
             <!-- Description -->
             <Text>
-                <Text>Betet am Schrein um den Segen von Epona.&#xD;(Shrine-Pack)</Text>
+                <Text>Betet am Schrein um den Segen von Epona.&#xD;(Altdolphin-Shrine-Pack)</Text>
                 <LineId>1600000338</LineId> 
             </Text>
         </ModOp>
@@ -60,7 +60,7 @@
             </Text>
             <!-- Description -->
             <Text>
-                <Text>Betet am Schrein um den Segen von Mars.&#xD;(Shrine-Pack)</Text>
+                <Text>Betet am Schrein um den Segen von Mars.&#xD;(Altdolphin-Shrine-Pack)</Text>
                 <LineId>1600000342</LineId> 
             </Text>
         </ModOp>
@@ -76,7 +76,7 @@
             </Text>
             <!-- Description -->
             <Text>
-                <Text>Betet am Schrein um den Segen von Merkur-Lugus.&#xD;(Shrine-Pack)</Text>
+                <Text>Betet am Schrein um den Segen von Merkur-Lugus.&#xD;(Altdolphin-Shrine-Pack)</Text>
                 <LineId>1600000346</LineId> 
             </Text>
         </ModOp>
@@ -92,7 +92,7 @@
             </Text>
             <!-- Description -->
             <Text>
-                <Text>Betet am Schrein um den Segen von Minerva.&#xD;(Shrine-Pack)</Text>
+                <Text>Betet am Schrein um den Segen von Minerva.&#xD;(Altdolphin-Shrine-Pack)</Text>
                 <LineId>1600000350</LineId> 
             </Text>
         </ModOp>
@@ -108,7 +108,7 @@
             </Text>
             <!-- Description -->
             <Text>
-                <Text>Betet am Schrein um den Segen von Neptun.&#xD;(Shrine-Pack)</Text>
+                <Text>Betet am Schrein um den Segen von Neptun.&#xD;(Altdolphin-Shrine-Pack)</Text>
                 <LineId>1600000354</LineId> 
             </Text>
         </ModOp>
@@ -129,7 +129,7 @@
             </Text>
             <!-- Description -->
             <Text>
-                <Text>Lässt sich vor jeden Brandeinsatz segnen.&#xD;(Shrine-Pack)</Text>
+                <Text>Lässt sich vor jeden Brandeinsatz segnen.&#xD;(Altdolphin-Shrine-Pack)</Text>
                 <LineId>1600000389</LineId> 
             </Text>
         </ModOp>
@@ -145,7 +145,7 @@
             </Text>
             <!-- Description -->
             <Text>
-                <Text>Hält die Straßen sicher mit dem Segen der Götter.&#xD;(Shrine-Pack)</Text>
+                <Text>Hält die Straßen sicher mit dem Segen der Götter.&#xD;(Altdolphin-Shrine-Pack)</Text>
                 <LineId>1600000393</LineId> 
             </Text>
         </ModOp>
@@ -161,7 +161,7 @@
             </Text>
             <!-- Description -->
             <Text>
-                <Text>Hofft auf einen göttlichen Segen um ihren Geruch loszuwerden.&#xD;(Shrine-Pack)</Text>
+                <Text>Hofft auf einen göttlichen Segen um ihren Geruch loszuwerden.&#xD;(Altdolphin-Shrine-Pack)</Text>
                 <LineId>1600000397</LineId> 
             </Text>
         </ModOp>
@@ -181,7 +181,7 @@
             </Text>
             <!-- Description -->
             <Text>
-                <Text>Auserwählt von Ceres um ihr bei ihrer Arbeit zu helfen.&#xD;Hinweis: Effekt wirkt auf alle von dieser Gottheit gesegneten Ketten in Reichweite des Schreins.&#xD;(Shrine-Pack)</Text>
+                <Text>Auserwählt von Ceres um ihr bei ihrer Arbeit zu helfen.&#xD;Hinweis: Effekt wirkt auf alle von dieser Gottheit gesegneten Ketten in Reichweite des Schreins.&#xD;(Altdolphin-Shrine-Pack)</Text>
                 <LineId>1600000358</LineId> 
             </Text>
         </ModOp>
@@ -197,7 +197,7 @@
             </Text>
             <!-- Description -->
             <Text>
-                <Text>Auserwählt von Cernunnos um ihm bei seiner Arbeit zu helfen.&#xD;Hinweis: Effekt wirkt auf alle von dieser Gottheit gesegneten Ketten in Reichweite des Schreins.&#xD;(Shrine-Pack)</Text>
+                <Text>Auserwählt von Cernunnos um ihm bei seiner Arbeit zu helfen.&#xD;Hinweis: Effekt wirkt auf alle von dieser Gottheit gesegneten Ketten in Reichweite des Schreins.&#xD;(Altdolphin-Shrine-Pack)</Text>
                 <LineId>1600000362</LineId> 
             </Text>
         </ModOp>
@@ -213,7 +213,7 @@
             </Text>
             <!-- Description -->
             <Text>
-                <Text>Auserwählt von Epona um ihr bei ihrer Arbeit zu helfen.&#xD;Hinweis: Effekt wirkt auf alle von dieser Gottheit gesegneten Ketten in Reichweite des Schreins.&#xD;(Shrine-Pack)</Text>
+                <Text>Auserwählt von Epona um ihr bei ihrer Arbeit zu helfen.&#xD;Hinweis: Effekt wirkt auf alle von dieser Gottheit gesegneten Ketten in Reichweite des Schreins.&#xD;(Altdolphin-Shrine-Pack)</Text>
                 <LineId>1600000366</LineId> 
             </Text>
         </ModOp>
@@ -229,7 +229,7 @@
             </Text>
             <!-- Description -->
             <Text>
-                <Text>Auserwählt von Mars um ihm bei seiner Arbeit zu helfen.&#xD;Hinweis: Effekt wirkt auf alle von dieser Gottheit gesegneten Ketten in Reichweite des Schreins.&#xD;(Shrine-Pack)</Text>
+                <Text>Auserwählt von Mars um ihm bei seiner Arbeit zu helfen.&#xD;Hinweis: Effekt wirkt auf alle von dieser Gottheit gesegneten Ketten in Reichweite des Schreins.&#xD;(Altdolphin-Shrine-Pack)</Text>
                 <LineId>1600000370</LineId> 
             </Text>
         </ModOp>
@@ -245,7 +245,7 @@
             </Text>
             <!-- Description -->
             <Text>
-                <Text>Auserwählt von Merkur-Lugus um ihm bei seiner Arbeit zu helfen.&#xD;Hinweis: Effekt wirkt auf alle von dieser Gottheit gesegneten Ketten in Reichweite des Schreins.&#xD;Für Merkur-Lugus sind dies Gold und Silber.&#xD;(Shrine-Pack)</Text>
+                <Text>Auserwählt von Merkur-Lugus um ihm bei seiner Arbeit zu helfen.&#xD;Hinweis: Effekt wirkt auf alle von dieser Gottheit gesegneten Ketten in Reichweite des Schreins.&#xD;Für Merkur-Lugus sind dies Gold und Silber.&#xD;(Altdolphin-Shrine-Pack)</Text>
                 <LineId>1600000374</LineId> 
             </Text>
         </ModOp>
@@ -261,7 +261,7 @@
             </Text>
             <!-- Description -->
             <Text>
-                <Text>Auserwählt von Minerva um ihr bei ihrer Arbeit zu helfen.&#xD;Hinweis: Effekt wirkt auf alle von dieser Gottheit gesegneten Ketten in Reichweite des Schreins.&#xD;(Shrine-Pack)</Text>
+                <Text>Auserwählt von Minerva um ihr bei ihrer Arbeit zu helfen.&#xD;Hinweis: Effekt wirkt auf alle von dieser Gottheit gesegneten Ketten in Reichweite des Schreins.&#xD;(Altdolphin-Shrine-Pack)</Text>
                 <LineId>1600000378</LineId> 
             </Text>
         </ModOp>
@@ -277,7 +277,7 @@
             </Text>
             <!-- Description -->
             <Text>
-                <Text>Auserwählt von Neptun um ihm bei seiner Arbeit zu helfen.&#xD;Hinweis: Effekt wirkt auf alle von dieser Gottheit gesegneten Ketten in Reichweite des Schreins.&#xD;(Shrine-Pack)</Text>
+                <Text>Auserwählt von Neptun um ihm bei seiner Arbeit zu helfen.&#xD;Hinweis: Effekt wirkt auf alle von dieser Gottheit gesegneten Ketten in Reichweite des Schreins.&#xD;(Altdolphin-Shrine-Pack)</Text>
                 <LineId>1600000382</LineId> 
             </Text>
         </ModOp>
@@ -298,7 +298,7 @@
             </Text>
             <!-- Description -->
             <Text>
-                <Text>Sie hat den Segen von Ceres gefunden und manifestiert diesen bei jedem Schrein von ihr auf dieser Insel.&#xD;(Shrine-Pack)</Text>
+                <Text>Sie hat den Segen von Ceres gefunden und manifestiert diesen bei jedem Schrein von ihr auf dieser Insel.&#xD;(Altdolphin-Shrine-Pack)</Text>
                 <LineId>1600000440</LineId> 
             </Text>
             <!-- Boosted Hint -->
@@ -319,7 +319,7 @@
             </Text>
             <!-- Description -->
             <Text>
-                <Text>Er bringt den Segen von Cernunnos mit und manifestiert diesen bei jedem Schrein von ihm auf dieser Insel.&#xD;(Shrine-Pack)</Text>
+                <Text>Er bringt den Segen von Cernunnos mit und manifestiert diesen bei jedem Schrein von ihm auf dieser Insel.&#xD;(Altdolphin-Shrine-Pack)</Text>
                 <LineId>1600000447</LineId> 
             </Text>
             <!-- Boosted Hint -->
@@ -340,7 +340,7 @@
             </Text>
             <!-- Description -->
             <Text>
-                <Text>Er bringt den Segen von Epona mit und manifestiert diesen bei jedem Schrein von ihr auf dieser Insel.&#xD;(Shrine-Pack)</Text>
+                <Text>Er bringt den Segen von Epona mit und manifestiert diesen bei jedem Schrein von ihr auf dieser Insel.&#xD;(Altdolphin-Shrine-Pack)</Text>
                 <LineId>1600000454</LineId> 
             </Text>
             <!-- Boosted Hint -->
@@ -361,7 +361,7 @@
             </Text>
             <!-- Description -->
             <Text>
-                <Text>Sie hat den Segen von Mars gefunden und manifestiert diesen bei jedem Schrein von ihm auf dieser Insel.&#xD;(Shrine-Pack)</Text>
+                <Text>Sie hat den Segen von Mars gefunden und manifestiert diesen bei jedem Schrein von ihm auf dieser Insel.&#xD;(Altdolphin-Shrine-Pack)</Text>
                 <LineId>1600000461</LineId> 
             </Text>
             <!-- Boosted Hint -->
@@ -382,7 +382,7 @@
             </Text>
             <!-- Description -->
             <Text>
-                <Text>Sie hat den Segen von Merkur-Lugus gefunden und manifestiert diesen bei jedem Schrein von ihm auf dieser Insel.&#xD;(Shrine-Pack)</Text>
+                <Text>Sie hat den Segen von Merkur-Lugus gefunden und manifestiert diesen bei jedem Schrein von ihm auf dieser Insel.&#xD;(Altdolphin-Shrine-Pack)</Text>
                 <LineId>1600000468</LineId> 
             </Text>
             <!-- Boosted Hint -->
@@ -403,7 +403,7 @@
             </Text>
             <!-- Description -->
             <Text>
-                <Text>Sie hat den Segen von Minerva gefunden und manifestiert diesen bei jedem Schrein von ihr auf dieser Insel.&#xD;(Shrine-Pack)</Text>
+                <Text>Sie hat den Segen von Minerva gefunden und manifestiert diesen bei jedem Schrein von ihr auf dieser Insel.&#xD;(Altdolphin-Shrine-Pack)</Text>
                 <LineId>1600000475</LineId> 
             </Text>
             <!-- Boosted Hint -->
@@ -424,7 +424,7 @@
             </Text>
             <!-- Description -->
             <Text>
-                <Text>Sie hat den Segen von Neptun gefunden und manifestiert diesen bei jedem Schrein von ihm auf dieser Insel.&#xD;(Shrine-Pack)</Text>
+                <Text>Sie hat den Segen von Neptun gefunden und manifestiert diesen bei jedem Schrein von ihm auf dieser Insel.&#xD;(Altdolphin-Shrine-Pack)</Text>
                 <LineId>1600000482</LineId> 
             </Text>
             <!-- Boosted Hint -->

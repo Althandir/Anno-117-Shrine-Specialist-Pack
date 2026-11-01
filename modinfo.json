@@ -1,6 +1,6 @@
 {
   "ModID": "althandir-altdolphin-specialists-shrine-pack",
-  "Version": "1.0.3",
+  "Version": "1.0.4",
   "Anno": 8,
   "IncompatibleIds": null,
   "ModDependencies": null,
@@ -76,11 +76,11 @@
     },
     "TradePrice_Epic":
     {
-      "default": "100000"
+      "default": "250000"
     },
     "TradePrice_Legendary":
     {
-      "default": "500000"
+      "default": "1000000"
     },
     "Shrine_Common_BuffValue":
     {
@@ -89,16 +89,16 @@
     "ShrineDeity_Rare_BuffValue":
     { 
       "label": "Value for all Buff granted by Rare Shrine Specialists. Info: Value is Doubled for Deities only giving one Attribute (e.g Mercury's Shrine Buff)",
-      "default": "0.8"
+      "default": "0.5"
     },
     "ShrineDeity_Legendary_BuffValue_NonBoosted":
     {
       "label": "Value for all Buff granted by Legendary Shrine Specialists. Info: Value is Doubled for Deities only giving one Attribute (e.g Mercury's Shrine Buff)",
-      "default": "1.5"
+      "default": "0.5"
     },
     "ShrineDeity_Legendary_BuffValue_Boosted":
     {
-      "default": "2.0"
+      "default": "1.0"
     },
     "ShrineDeity_Legendary_MaintenanceBuff_NonBoosted":
     {
@@ -108,6 +108,10 @@
     {
       "default": "-100"
     },
+    "ShrineDeity_Epic_Productivity_Amount":
+    {
+      "default": "0"
+    },
     "ShrineDeity_Epic_AdditionalGoods_Amount":
     {
       "default": "2"
@@ -116,9 +120,13 @@
     {
       "default": "7"
     },
+    "ShrineDeity_Epic_MaintenanceBuff":
+    {
+      "default": "-15"
+    },
     "ShrineDeity_Epic_WFMaintenanceBuff":
     {
-      "default": "-33"
+      "default": "-25"
     }
   }
 
