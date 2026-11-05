@@ -53,10 +53,9 @@
 <Include File="pools/RewardPool/Religion-L.xml" />
 <!-- Add to Traderpools --> 
 
-<Include File="pools/Traders/pools-common.xml" />
-<Include File="pools/Traders/pools-rare.xml" />
-<Include File="pools/Traders/pools-epic.xml" />
-<Include File="pools/Traders/pools-legendary.xml" />
+<Include File="pools/Traders/pools-albion.xml" />
+<Include File="pools/Traders/pools-latium.xml" />
+<Include File="pools/Traders/pools-dlc3.xml" />
 
 
 </ModOps>

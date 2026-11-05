@@ -1,0 +1,84 @@
+<ModOps>
+<!-- 
+###
+#   Contains Specialists for Latium Regional Traders & Raider
+### 
+  -->
+  <!-- RewardPool Common -->
+  <ModOp Type="add" GUID="83460,83464,83468" Path="/Values/RewardPool/ItemsPool">
+    <Item>
+      <ItemLink>1600000388</ItemLink>
+    </Item>
+    <Item>
+      <ItemLink>1600000392</ItemLink>
+    </Item>
+    <Item>
+      <ItemLink>1600000396</ItemLink>
+    </Item>
+  </ModOp>
+  <!-- RewardPool Rare -->
+  <ModOp Type="add" GUID="83461,83465,83469" Path="/Values/RewardPool/ItemsPool">
+    <Item>
+        <ItemLink>1600000329</ItemLink>
+    </Item>
+    <Item>
+        <ItemLink>1600000341</ItemLink>
+    </Item>
+    <Item>
+        <ItemLink>1600000345</ItemLink>
+    </Item>
+    <Item>
+        <ItemLink>1600000349</ItemLink>
+    </Item>
+    <Item>
+        <ItemLink>1600000353</ItemLink>
+    </Item>
+  </ModOp>
+
+  <!-- RewardPool Epic Traders -->
+  <ModOp Type="add" GUID="83462,83466,83470" Path="/Values/RewardPool/ItemsPool">
+    <Item>
+        <ItemLink>1600000357</ItemLink>
+    </Item>   
+    <Item>
+        <ItemLink>1600000369</ItemLink>
+    </Item>
+    <Item>
+        <ItemLink>1600000373</ItemLink>
+    </Item>
+    <Item>
+        <ItemLink>1600000377</ItemLink>
+    </Item>
+    <Item>
+        <ItemLink>1600000381</ItemLink>
+    </Item>
+  </ModOp>
+
+  <!-- RewardPool Legendary Traders -->
+  <ModOp Type="add" GUID="83463,83467,83471" Path="/Values/RewardPool/ItemsPool">
+    <Item>
+        <ItemLink>1600000439</ItemLink>
+    </Item>
+    <Item>
+        <ItemLink>1600000460</ItemLink>
+    </Item>
+    <Item>
+        <ItemLink>1600000467</ItemLink>
+    </Item>
+    <Item>
+        <ItemLink>1600000474</ItemLink>
+    </Item>
+    <Item>
+        <ItemLink>1600000481</ItemLink>
+    </Item>
+  </ModOp>
+</ModOps>
+
+
+
+
+
+
+
+
+
