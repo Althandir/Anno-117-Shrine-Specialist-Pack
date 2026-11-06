@@ -2,7 +2,7 @@
 <!-- Add to RewardPools -->
 <!-- RewardList Religion Legendary -->
 <Group>
-    <ModOp Type="add" GUID="121868" Path="/Values/RewardPool/ItemsPool">
+    <ModOp Type="add" GUID="121868,79670" Path="/Values/RewardPool/ItemsPool">
     <Item>
         <ItemLink>1600000439</ItemLink>
     </Item>

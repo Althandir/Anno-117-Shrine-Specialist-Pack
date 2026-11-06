@@ -1,0 +1,80 @@
+<ModOps>
+<!-- 
+###
+#   Contains Specialists for DLC3 Regional Traders & Raider
+### 
+  -->
+  <!-- RewardPool DLC3 Traders & Raiders | Order is Heron, Valeria, Raider -->
+  <!-- RewardPool Common -->
+  <ModOp Type="add" GUID="174421,174398,174406" Path="/Values/RewardPool/ItemsPool">
+    <Item>
+      <ItemLink>1600000388</ItemLink>
+    </Item>
+    <Item>
+      <ItemLink>1600000392</ItemLink>
+    </Item>
+    <Item>
+      <ItemLink>1600000396</ItemLink>
+    </Item>
+  </ModOp>
+
+  <!-- RewardPool Rare -->
+  <ModOp Type="add" GUID="174422,174399,174407" Path="/Values/RewardPool/ItemsPool">
+    <Item>
+        <ItemLink>1600000329</ItemLink>
+    </Item>
+    <Item>
+        <ItemLink>1600000341</ItemLink>
+    </Item>
+    <Item>
+        <ItemLink>1600000345</ItemLink>
+    </Item>
+    <Item>
+        <ItemLink>1600000349</ItemLink>
+    </Item>
+    <Item>
+        <ItemLink>1600000353</ItemLink>
+    </Item>
+  </ModOp>
+
+  <!-- RewardPool Epic -->
+  <ModOp Type="add" GUID="174423,174400,174408" Path="/Values/RewardPool/ItemsPool">
+    <Item>
+        <ItemLink>1600000357</ItemLink>
+    </Item>   
+    <Item>
+        <ItemLink>1600000369</ItemLink>
+    </Item>
+    <Item>
+        <ItemLink>1600000373</ItemLink>
+    </Item>
+    <Item>
+        <ItemLink>1600000377</ItemLink>
+    </Item>
+    <Item>
+        <ItemLink>1600000381</ItemLink>
+    </Item>
+  </ModOp>
+
+  <!-- RewardPool Legendary -->
+  <ModOp Type="add" GUID="174424,174401,174409" Path="/Values/RewardPool/ItemsPool">
+    <Item>
+        <ItemLink>1600000439</ItemLink>
+    </Item>
+    <Item>
+        <ItemLink>1600000460</ItemLink>
+    </Item>
+    <Item>
+        <ItemLink>1600000467</ItemLink>
+    </Item>
+    <Item>
+        <ItemLink>1600000474</ItemLink>
+    </Item>
+    <Item>
+        <ItemLink>1600000481</ItemLink>
+    </Item>
+  </ModOp>
+
+</ModOps>
+
+
